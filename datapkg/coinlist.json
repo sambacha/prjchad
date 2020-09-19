@@ -1,0 +1,7686 @@
+{
+    "LIFE": {
+        "CoinName": "LIFE", 
+        "Id": "381189"
+    }, 
+    "XBY": {
+        "CoinName": "XtraBYtes", 
+        "Id": "66694"
+    }, 
+    "CSNO": {
+        "CoinName": "BitDice", 
+        "Id": "202714"
+    }, 
+    "XBS": {
+        "CoinName": "Bitstake", 
+        "Id": "5023"
+    }, 
+    "ORME": {
+        "CoinName": "Ormeus Coin", 
+        "Id": "301112"
+    }, 
+    "NYC": {
+        "CoinName": "NewYorkCoin", 
+        "Id": "247232"
+    }, 
+    "AGS": {
+        "CoinName": "Aegis", 
+        "Id": "4326"
+    }, 
+    "B2B": {
+        "CoinName": "B2B", 
+        "Id": "517795"
+    }, 
+    "XBC": {
+        "CoinName": "BitcoinPlus", 
+        "Id": "5391"
+    }, 
+    "SPX": {
+        "CoinName": "Specie", 
+        "Id": "23435"
+    }, 
+    "MEGA": {
+        "CoinName": "MegaFlash", 
+        "Id": "33393"
+    }, 
+    "SPR": {
+        "CoinName": "Spreadcoin", 
+        "Id": "3649"
+    }, 
+    "SPT": {
+        "CoinName": "Spots", 
+        "Id": "4609"
+    }, 
+    "PSEUD": {
+        "CoinName": "PseudoCash", 
+        "Id": "4588"
+    }, 
+    "CHASH": {
+        "CoinName": "CleverHash", 
+        "Id": "3648"
+    }, 
+    "SPM": {
+        "CoinName": "Supreme", 
+        "Id": "21229"
+    }, 
+    "SPN": {
+        "CoinName": "Spoon", 
+        "Id": "196549"
+    }, 
+    "SPA": {
+        "CoinName": "SpainCoin", 
+        "Id": "4608"
+    }, 
+    "SPC": {
+        "CoinName": "SpinCoin", 
+        "Id": "7624"
+    }, 
+    "XPH": {
+        "CoinName": "PharmaCoin", 
+        "Id": "7590"
+    }, 
+    "XPO": {
+        "CoinName": "Opair", 
+        "Id": "29008"
+    }, 
+    "XPM": {
+        "CoinName": "PrimeCoin", 
+        "Id": "5029"
+    }, 
+    "GP": {
+        "CoinName": "GoldPieces", 
+        "Id": "7625"
+    }, 
+    "XPB": {
+        "CoinName": "Pebble Coin", 
+        "Id": "5346"
+    }, 
+    "XPD": {
+        "CoinName": "PetroDollar", 
+        "Id": "3646"
+    }, 
+    "XPY": {
+        "CoinName": "PayCoin", 
+        "Id": "5030"
+    }, 
+    "GB": {
+        "CoinName": "GoldBlocks", 
+        "Id": "26194"
+    }, 
+    "XPS": {
+        "CoinName": "PoisonIvyCoin", 
+        "Id": "105220"
+    }, 
+    "BTTF": {
+        "CoinName": "Coin to the Future", 
+        "Id": "33945"
+    }, 
+    "BYC": {
+        "CoinName": "ByteCent", 
+        "Id": "5308"
+    }, 
+    "IXT": {
+        "CoinName": "iXledger", 
+        "Id": "141171"
+    }, 
+    "JNS": {
+        "CoinName": "Janus", 
+        "Id": "34440"
+    }, 
+    "SND": {
+        "CoinName": "Sandcoin", 
+        "Id": "314865"
+    }, 
+    "MAR": {
+        "CoinName": "MarijuanaCoin", 
+        "Id": "43814"
+    }, 
+    "BTX*": {
+        "CoinName": "BitcoinTX", 
+        "Id": "6113"
+    }, 
+    "SNC": {
+        "CoinName": "SunContract", 
+        "Id": "179926"
+    }, 
+    "JNT": {
+        "CoinName": "Jibrel Network Token", 
+        "Id": "400702"
+    }, 
+    "MAY": {
+        "CoinName": "Theresa May Coin", 
+        "Id": "348094"
+    }, 
+    "MAX": {
+        "CoinName": "MaxCoin", 
+        "Id": "4558"
+    }, 
+    "SNM": {
+        "CoinName": "SONM", 
+        "Id": "136244"
+    }, 
+    "SNK": {
+        "CoinName": "Sosnovkino", 
+        "Id": "196612"
+    }, 
+    "MAC": {
+        "CoinName": "MachineCoin", 
+        "Id": "41962"
+    }, 
+    "PQT": {
+        "CoinName": "PAquarium", 
+        "Id": "179077"
+    }, 
+    "SNS": {
+        "CoinName": "Sense", 
+        "Id": "28027"
+    }, 
+    "MAG": {
+        "CoinName": "Magnet", 
+        "Id": "404752"
+    }, 
+    "MAN": {
+        "CoinName": "People", 
+        "Id": "446051"
+    }, 
+    "BEN": {
+        "CoinName": "Benjamins", 
+        "Id": "4336"
+    }, 
+    "CRTM": {
+        "CoinName": "Cryptum", 
+        "Id": "255489"
+    }, 
+    "EVC": {
+        "CoinName": "Eventchain", 
+        "Id": "308072"
+    }, 
+    "EVX": {
+        "CoinName": "Everex", 
+        "Id": "194883"
+    }, 
+    "CARBON": {
+        "CoinName": "Carboncoin", 
+        "Id": "21382"
+    }, 
+    "EVR": {
+        "CoinName": "Everus", 
+        "Id": "340966"
+    }, 
+    "YBC": {
+        "CoinName": "YbCoin", 
+        "Id": "3639"
+    }, 
+    "BET": {
+        "CoinName": "BetaCoin", 
+        "Id": "4337"
+    }, 
+    "OXY": {
+        "CoinName": "Oxycoin", 
+        "Id": "242873"
+    }, 
+    "LSD": {
+        "CoinName": "LightSpeedCoin", 
+        "Id": "4552"
+    }, 
+    "LSK": {
+        "CoinName": "Lisk", 
+        "Id": "19745"
+    }, 
+    "TTT": {
+        "CoinName": "Tap Project", 
+        "Id": "243013"
+    }, 
+    "TTC": {
+        "CoinName": "TittieCoin", 
+        "Id": "4627"
+    }, 
+    "VLT": {
+        "CoinName": "Veltor", 
+        "Id": "28225"
+    }, 
+    "Z2": {
+        "CoinName": "Z2 Coin", 
+        "Id": "252359"
+    }, 
+    "GRW": {
+        "CoinName": "GrowthCoin", 
+        "Id": "74894"
+    }, 
+    "GRT": {
+        "CoinName": "Grantcoin", 
+        "Id": "20438"
+    }, 
+    "GRS": {
+        "CoinName": "Groestlcoin ", 
+        "Id": "13070"
+    }, 
+    "SOLE": {
+        "CoinName": "SoleCoin", 
+        "Id": "4607"
+    }, 
+    "GRX": {
+        "CoinName": "Gold Reward Token", 
+        "Id": "439136"
+    }, 
+    "GRF": {
+        "CoinName": "Graft Network", 
+        "Id": "326286"
+    }, 
+    "GRE": {
+        "CoinName": "GreenCoin", 
+        "Id": "5375"
+    }, 
+    "GRC": {
+        "CoinName": "GridCoin", 
+        "Id": "5309"
+    }, 
+    "TAP": {
+        "CoinName": "TappingCoin", 
+        "Id": "81403"
+    }, 
+    "GRM": {
+        "CoinName": "GridMaster", 
+        "Id": "7592"
+    }, 
+    "ZEPH": {
+        "CoinName": "Project Zephyr", 
+        "Id": "375396"
+    }, 
+    "ATKN": {
+        "CoinName": "A-Token", 
+        "Id": "310392"
+    }, 
+    "NOO": {
+        "CoinName": "Noocoin", 
+        "Id": "41971"
+    }, 
+    "MPRO": {
+        "CoinName": "MediumProject", 
+        "Id": "21222"
+    }, 
+    "OPAL": {
+        "CoinName": "OpalCoin", 
+        "Id": "4582"
+    }, 
+    "CTT": {
+        "CoinName": "CodeTract", 
+        "Id": "206009"
+    }, 
+    "CTR": {
+        "CoinName": "Centra", 
+        "Id": "225277"
+    }, 
+    "FJC": {
+        "CoinName": "FujiCoin", 
+        "Id": "29935"
+    }, 
+    "CTX": {
+        "CoinName": "CarTaxi", 
+        "Id": "278056"
+    }, 
+    "FUCK": {
+        "CoinName": "Fuck Token", 
+        "Id": "229060"
+    }, 
+    "CTC": {
+        "CoinName": "CarterCoin", 
+        "Id": "28083"
+    }, 
+    "CTO": {
+        "CoinName": "Crypto", 
+        "Id": "6117"
+    }, 
+    "MOBI": {
+        "CoinName": "Mobius", 
+        "Id": "202706"
+    }, 
+    "WHL": {
+        "CoinName": "WhaleCoin", 
+        "Id": "347067"
+    }, 
+    "QTUM": {
+        "CoinName": "QTUM", 
+        "Id": "112392"
+    }, 
+    "DROP": {
+        "CoinName": "FaucetCoin", 
+        "Id": "28767"
+    }, 
+    "DOVU": {
+        "CoinName": "DOVU", 
+        "Id": "360827"
+    }, 
+    "UNITY": {
+        "CoinName": "SuperNET", 
+        "Id": "20635"
+    }, 
+    "1ST": {
+        "CoinName": "FirstBlood", 
+        "Id": "28328"
+    }, 
+    "UNITS": {
+        "CoinName": "GameUnits", 
+        "Id": "38032"
+    }, 
+    "DBET": {
+        "CoinName": "Decent.bet", 
+        "Id": "380712"
+    }, 
+    "EDC": {
+        "CoinName": "EducoinV", 
+        "Id": "22185"
+    }, 
+    "BWK": {
+        "CoinName": "Bulwark", 
+        "Id": "453855"
+    }, 
+    "EDG": {
+        "CoinName": "Edgeless", 
+        "Id": "55676"
+    }, 
+    "EDO": {
+        "CoinName": "Eidoo", 
+        "Id": "310297"
+    }, 
+    "RLC": {
+        "CoinName": "iEx.ec", 
+        "Id": "61877"
+    }, 
+    "EDR": {
+        "CoinName": "E-Dinar Coin", 
+        "Id": "27634"
+    }, 
+    "ORO": {
+        "CoinName": "OroCoin", 
+        "Id": "45262"
+    }, 
+    "RLX": {
+        "CoinName": "Relex", 
+        "Id": "441616"
+    }, 
+    "WAVES": {
+        "CoinName": "Waves", 
+        "Id": "20131"
+    }, 
+    "LMC": {
+        "CoinName": "LomoCoin", 
+        "Id": "70469"
+    }, 
+    "ORB": {
+        "CoinName": "Orbitcoin", 
+        "Id": "4583"
+    }, 
+    "PRIME": {
+        "CoinName": "PrimeChain", 
+        "Id": "20814"
+    }, 
+    "DPP": {
+        "CoinName": "Digital Assets Power Play", 
+        "Id": "466977"
+    }, 
+    "MOTO": {
+        "CoinName": "Motocoin", 
+        "Id": "41592"
+    }, 
+    "SIFT": {
+        "CoinName": "Smart Investment Fund Token", 
+        "Id": "229420"
+    }, 
+    "UKG": {
+        "CoinName": "UnikoinGold", 
+        "Id": "371005"
+    }, 
+    "RBIT": {
+        "CoinName": "ReturnBit", 
+        "Id": "26121"
+    }, 
+    "LC": {
+        "CoinName": "Lutetium Coin", 
+        "Id": "25916"
+    }, 
+    "LA": {
+        "CoinName": "LAToken", 
+        "Id": "184163"
+    }, 
+    "ONG": {
+        "CoinName": "onG.social", 
+        "Id": "428300"
+    }, 
+    "AXIOM": {
+        "CoinName": "Axiom Coin", 
+        "Id": "8693"
+    }, 
+    "KEY*": {
+        "CoinName": "SelfKey", 
+        "Id": "360299"
+    }, 
+    "PLBT": {
+        "CoinName": "Polybius", 
+        "Id": "171884"
+    }, 
+    "JIO": {
+        "CoinName": "JIO Token", 
+        "Id": "34332"
+    }, 
+    "MOOND": {
+        "CoinName": "Dark Moon", 
+        "Id": "28774"
+    }, 
+    "GBRC": {
+        "CoinName": "GBR Coin", 
+        "Id": "29458"
+    }, 
+    "LOAN*": {
+        "CoinName": "Lendoit", 
+        "Id": "363006"
+    }, 
+    "HEAT": {
+        "CoinName": "Heat Ledger", 
+        "Id": "25917"
+    }, 
+    "PTS*": {
+        "CoinName": "Protoshares", 
+        "Id": "4589"
+    }, 
+    "ANTI": {
+        "CoinName": "Anti Bitcoin", 
+        "Id": "20828"
+    }, 
+    "RZR": {
+        "CoinName": "RazorCoin", 
+        "Id": "4597"
+    }, 
+    "EXCL": {
+        "CoinName": "Exclusive Coin", 
+        "Id": "4442"
+    }, 
+    "ANTC": {
+        "CoinName": "AntiLitecoin", 
+        "Id": "29758"
+    }, 
+    "CFI": {
+        "CoinName": "Cofound.it", 
+        "Id": "136984"
+    }, 
+    "CFD": {
+        "CoinName": "Confido", 
+        "Id": "379232"
+    }, 
+    "CFC": {
+        "CoinName": "CoffeeCoin", 
+        "Id": "30123"
+    }, 
+    "WSC": {
+        "CoinName": "WiserCoin", 
+        "Id": "380671"
+    }, 
+    "PNK": {
+        "CoinName": "SteamPunk", 
+        "Id": "28772"
+    }, 
+    "JANE": {
+        "CoinName": "JaneCoin", 
+        "Id": "44955"
+    }, 
+    "PNC": {
+        "CoinName": "PlatiniumCoin", 
+        "Id": "33873"
+    }, 
+    "CALC": {
+        "CoinName": "CaliphCoin", 
+        "Id": "30029"
+    }, 
+    "PND": {
+        "CoinName": "PandaCoin", 
+        "Id": "37366"
+    }, 
+    "HAMS": {
+        "CoinName": "HamsterCoin", 
+        "Id": "112363"
+    }, 
+    "XQN": {
+        "CoinName": "Quotient", 
+        "Id": "5400"
+    }, 
+    "STEEM": {
+        "CoinName": "Steem", 
+        "Id": "20333"
+    }, 
+    "ATOM*": {
+        "CoinName": "Cosmos", 
+        "Id": "199107"
+    }, 
+    "XUP": {
+        "CoinName": "UPcoin", 
+        "Id": "29460"
+    }, 
+    "GIM": {
+        "CoinName": "Gimli", 
+        "Id": "243079"
+    }, 
+    "PRE": {
+        "CoinName": "Premium", 
+        "Id": "30024"
+    }, 
+    "PRG": {
+        "CoinName": "Paragon", 
+        "Id": "225764"
+    }, 
+    "SAN": {
+        "CoinName": "Santiment", 
+        "Id": "177863"
+    }, 
+    "PRC": {
+        "CoinName": "ProsperCoin", 
+        "Id": "3638"
+    }, 
+    "PRM": {
+        "CoinName": "PrismChain", 
+        "Id": "20304"
+    }, 
+    "PRL": {
+        "CoinName": "Oyster Pearl", 
+        "Id": "429355"
+    }, 
+    "PRO": {
+        "CoinName": "Propy", 
+        "Id": "185695"
+    }, 
+    "DTCT": {
+        "CoinName": "DetectorToken", 
+        "Id": "223644"
+    }, 
+    "404": {
+        "CoinName": "404Coin", 
+        "Id": "21227"
+    }, 
+    "PRP": {
+        "CoinName": "Papyrus", 
+        "Id": "304147"
+    }, 
+    "SAR": {
+        "CoinName": "SARCoin", 
+        "Id": "20215"
+    }, 
+    "JOK": {
+        "CoinName": "JokerCoin", 
+        "Id": "42101"
+    }, 
+    "PRX": {
+        "CoinName": "Printerium", 
+        "Id": "43998"
+    }, 
+    "CHA": {
+        "CoinName": "Charity Coin", 
+        "Id": "7580"
+    }, 
+    "AST*": {
+        "CoinName": "Astral", 
+        "Id": "38959"
+    }, 
+    "CHC": {
+        "CoinName": "ChainCoin", 
+        "Id": "56249"
+    }, 
+    "MRY": {
+        "CoinName": "MurrayCoin", 
+        "Id": "4566"
+    }, 
+    "MINEX": {
+        "CoinName": "Minex", 
+        "Id": "235021"
+    }, 
+    "MRT": {
+        "CoinName": "MinersReward", 
+        "Id": "75475"
+    }, 
+    "MRV": {
+        "CoinName": "Macroverse", 
+        "Id": "221349"
+    }, 
+    "MRP": {
+        "CoinName": "MorpheusCoin", 
+        "Id": "6412"
+    }, 
+    "DTC*": {
+        "CoinName": "DayTrader Coin", 
+        "Id": "5337"
+    }, 
+    "NEVA": {
+        "CoinName": "NevaCoin", 
+        "Id": "21669"
+    }, 
+    "MAT": {
+        "CoinName": "MiniApps", 
+        "Id": "320036"
+    }, 
+    "APX": {
+        "CoinName": "Apx", 
+        "Id": "74912"
+    }, 
+    "SNT": {
+        "CoinName": "Status Network Token", 
+        "Id": "137013"
+    }, 
+    "MTRC": {
+        "CoinName": "ModulTrade", 
+        "Id": "484742"
+    }, 
+    "DBG": {
+        "CoinName": "Digital Bullion Gold", 
+        "Id": "21859"
+    }, 
+    "HONEY": {
+        "CoinName": "Honey", 
+        "Id": "53915"
+    }, 
+    "MONEY": {
+        "CoinName": "MoneyCoin", 
+        "Id": "35681"
+    }, 
+    "APC": {
+        "CoinName": "AlpaCoin", 
+        "Id": "20722"
+    }, 
+    "DBR": {
+        "CoinName": "D\u00fcber", 
+        "Id": "394055"
+    }, 
+    "GREXIT": {
+        "CoinName": "GrexitCoin", 
+        "Id": "21380"
+    }, 
+    "BT1": {
+        "CoinName": "Bitfinex Bitcoin Future", 
+        "Id": "364317"
+    }, 
+    "BT2": {
+        "CoinName": "Bitcoin SegWit2X", 
+        "Id": "364348"
+    }, 
+    "MED*": {
+        "CoinName": "MediBloc", 
+        "Id": "542140"
+    }, 
+    "INF8": {
+        "CoinName": "Infinium-8", 
+        "Id": "84262"
+    }, 
+    "PIRL": {
+        "CoinName": "Pirl", 
+        "Id": "355019"
+    }, 
+    "TKN": {
+        "CoinName": "TokenCard  ", 
+        "Id": "71077"
+    }, 
+    "HMP": {
+        "CoinName": "HempCoin", 
+        "Id": "20655"
+    }, 
+    "HMQ": {
+        "CoinName": "Humaniq", 
+        "Id": "72438"
+    }, 
+    "NLC": {
+        "CoinName": "NoLimitCoin", 
+        "Id": "29010"
+    }, 
+    "TKR": {
+        "CoinName": "CryptoInsight", 
+        "Id": "360229"
+    }, 
+    "TKS": {
+        "CoinName": "Tokes", 
+        "Id": "35124"
+    }, 
+    "NLG": {
+        "CoinName": "Gulden", 
+        "Id": "5315"
+    }, 
+    "SUB*": {
+        "CoinName": "Subscriptio", 
+        "Id": "100944"
+    }, 
+    "DBTC": {
+        "CoinName": "DebitCoin", 
+        "Id": "20726"
+    }, 
+    "MAD": {
+        "CoinName": "SatoshiMadness", 
+        "Id": "131079"
+    }, 
+    "DLC": {
+        "CoinName": "DollarCoin", 
+        "Id": "28776"
+    }, 
+    "GCC": {
+        "CoinName": "GuccioneCoin", 
+        "Id": "30566"
+    }, 
+    "PAYP": {
+        "CoinName": "PayPeer", 
+        "Id": "40842"
+    }, 
+    "ORLY": {
+        "CoinName": "OrlyCoin", 
+        "Id": "22258"
+    }, 
+    "GCN": {
+        "CoinName": "GCoin", 
+        "Id": "199065"
+    }, 
+    "DLR": {
+        "CoinName": "DollarOnline", 
+        "Id": "34213"
+    }, 
+    "SEEDS": {
+        "CoinName": "SeedShares", 
+        "Id": "35027"
+    }, 
+    "SHADE": {
+        "CoinName": "ShadeCoin", 
+        "Id": "4602"
+    }, 
+    "DLT": {
+        "CoinName": "Agrello Delta", 
+        "Id": "220204"
+    }, 
+    "BTQ": {
+        "CoinName": "BitQuark", 
+        "Id": "8763"
+    }, 
+    "BTS": {
+        "CoinName": "Bitshares", 
+        "Id": "5039"
+    }, 
+    "XCE": {
+        "CoinName": "Cerium", 
+        "Id": "6455"
+    }, 
+    "XCJ": {
+        "CoinName": "CoinJob", 
+        "Id": "194689"
+    }, 
+    "MEDI": {
+        "CoinName": "MediBond", 
+        "Id": "233044"
+    }, 
+    "XCN": {
+        "CoinName": "Cryptonite", 
+        "Id": "5386"
+    }, 
+    "BTX": {
+        "CoinName": "Bitcore", 
+        "Id": "198983"
+    }, 
+    "BTZ": {
+        "CoinName": "BitzCoin", 
+        "Id": "42843"
+    }, 
+    "XCR": {
+        "CoinName": "Crypti", 
+        "Id": "5026"
+    }, 
+    "XCS": {
+        "CoinName": "CybCSec Coin", 
+        "Id": "340112"
+    }, 
+    "BTG": {
+        "CoinName": "Bitcoin Gold", 
+        "Id": "347235"
+    }, 
+    "BTA": {
+        "CoinName": "Bata", 
+        "Id": "16125"
+    }, 
+    "XCT": {
+        "CoinName": "C-Bits", 
+        "Id": "78227"
+    }, 
+    "TIME": {
+        "CoinName": "Time", 
+        "Id": "33914"
+    }, 
+    "BTM": {
+        "CoinName": "BitMark", 
+        "Id": "4403"
+    }, 
+    "SSD": {
+        "CoinName": "Sonic Screw Driver Coin", 
+        "Id": "5320"
+    }, 
+    "CRED": {
+        "CoinName": "Verify", 
+        "Id": "502301"
+    }, 
+    "WYR": {
+        "CoinName": "Wyrify", 
+        "Id": "350395"
+    }, 
+    "SPOTS": {
+        "CoinName": "Spots", 
+        "Id": "20205"
+    }, 
+    "RMS": {
+        "CoinName": "Resumeo Shares", 
+        "Id": "29928"
+    }, 
+    "ECC": {
+        "CoinName": "E-CurrencyCoin", 
+        "Id": "129013"
+    }, 
+    "EVN": {
+        "CoinName": "Envion", 
+        "Id": "383953"
+    }, 
+    "LANA": {
+        "CoinName": "LanaCoin", 
+        "Id": "30544"
+    }, 
+    "ECO": {
+        "CoinName": "ECOcoin", 
+        "Id": "61047"
+    }, 
+    "BCX*": {
+        "CoinName": "BitcoinX", 
+        "Id": "536213"
+    }, 
+    "LNK": {
+        "CoinName": "Ethereum.Link", 
+        "Id": "238622"
+    }, 
+    "RBIES": {
+        "CoinName": "Rubies", 
+        "Id": "20320"
+    }, 
+    "BET*": {
+        "CoinName": "DAO.casino", 
+        "Id": "177831"
+    }, 
+    "CLICK": {
+        "CoinName": "Clickcoin", 
+        "Id": "42680"
+    }, 
+    "ALQO": {
+        "CoinName": "Alqo", 
+        "Id": "402782"
+    }, 
+    "YAY": {
+        "CoinName": "YAYcoin", 
+        "Id": "40847"
+    }, 
+    "TRIG": {
+        "CoinName": "Trigger", 
+        "Id": "27996"
+    }, 
+    "TRIA": {
+        "CoinName": "Triaconta", 
+        "Id": "402884"
+    }, 
+    "EUC": {
+        "CoinName": "Eurocoin", 
+        "Id": "34849"
+    }, 
+    "BBT": {
+        "CoinName": "BitBoost", 
+        "Id": "398648"
+    }, 
+    "BBR": {
+        "CoinName": "Boolberry", 
+        "Id": "5343"
+    }, 
+    "YAC": {
+        "CoinName": "YAcCoin", 
+        "Id": "5034"
+    }, 
+    "LEPEN": {
+        "CoinName": "LePenCoin", 
+        "Id": "43602"
+    }, 
+    "SOCC": {
+        "CoinName": "SocialCoin", 
+        "Id": "183189"
+    }, 
+    "TUR": {
+        "CoinName": "Turron", 
+        "Id": "21626"
+    }, 
+    "VMC": {
+        "CoinName": "VirtualMining Coin", 
+        "Id": "5409"
+    }, 
+    "ASAFE2": {
+        "CoinName": "Allsafe", 
+        "Id": "38367"
+    }, 
+    "TWIST": {
+        "CoinName": "TwisterCoin", 
+        "Id": "40839"
+    }, 
+    "H2O": {
+        "CoinName": "Hydrominer", 
+        "Id": "310867"
+    }, 
+    "DEUR": {
+        "CoinName": "DigiEuro", 
+        "Id": "21384"
+    }, 
+    "NBIT": {
+        "CoinName": "NetBit", 
+        "Id": "32688"
+    }, 
+    "AIR*": {
+        "CoinName": "Aircoin", 
+        "Id": "30182"
+    }, 
+    "AGRS": {
+        "CoinName": "Agoras Token", 
+        "Id": "191142"
+    }, 
+    "CASH*": {
+        "CoinName": "Cash Poker Pro", 
+        "Id": "222436"
+    }, 
+    "CYP": {
+        "CoinName": "CypherPunkCoin", 
+        "Id": "5354"
+    }, 
+    "CYT": {
+        "CoinName": "Cryptokenz", 
+        "Id": "21706"
+    }, 
+    "POT": {
+        "CoinName": "PotCoin", 
+        "Id": "4587"
+    }, 
+    "FYN": {
+        "CoinName": "FundYourselfNow", 
+        "Id": "180820"
+    }, 
+    "POS": {
+        "CoinName": "PoSToken", 
+        "Id": "370825"
+    }, 
+    "CLOUT": {
+        "CoinName": "Clout", 
+        "Id": "340816"
+    }, 
+    "CYC": {
+        "CoinName": "ConSpiracy Coin ", 
+        "Id": "5392"
+    }, 
+    "STALIN": {
+        "CoinName": "StalinCoin", 
+        "Id": "49605"
+    }, 
+    "FYP": {
+        "CoinName": "FlypMe", 
+        "Id": "464920"
+    }, 
+    "808": {
+        "CoinName": "808", 
+        "Id": "28223"
+    }, 
+    "CYG": {
+        "CoinName": "Cygnus", 
+        "Id": "21213"
+    }, 
+    "LBTC": {
+        "CoinName": "LiteBitcoin", 
+        "Id": "247246"
+    }, 
+    "POE": {
+        "CoinName": "Po.et", 
+        "Id": "188811"
+    }, 
+    "LEND": {
+        "CoinName": "EthLend", 
+        "Id": "418778"
+    }, 
+    "ARNA*": {
+        "CoinName": "ARNA Panacea", 
+        "Id": "303888"
+    }, 
+    "IML": {
+        "CoinName": "IMMLA", 
+        "Id": "184187"
+    }, 
+    "SKIN": {
+        "CoinName": "Skincoin", 
+        "Id": "198369"
+    }, 
+    "MILO": {
+        "CoinName": "MiloCoin", 
+        "Id": "74924"
+    }, 
+    "DICE": {
+        "CoinName": "Etheroll", 
+        "Id": "89572"
+    }, 
+    "QSP": {
+        "CoinName": "Quantstamp", 
+        "Id": "397757"
+    }, 
+    "NICE": {
+        "CoinName": "NiceCoin", 
+        "Id": "43253"
+    }, 
+    "CKC": {
+        "CoinName": "Clockcoin", 
+        "Id": "22207"
+    }, 
+    "PAY": {
+        "CoinName": "TenX", 
+        "Id": "45260"
+    }, 
+    "SWARM": {
+        "CoinName": "SwarmCoin", 
+        "Id": "5342"
+    }, 
+    "WDC": {
+        "CoinName": "WorldCoin", 
+        "Id": "5020"
+    }, 
+    "PAK": {
+        "CoinName": "Pakcoin", 
+        "Id": "17006"
+    }, 
+    "CCX": {
+        "CoinName": "CoolDarkCoin", 
+        "Id": "34851"
+    }, 
+    "DCN": {
+        "CoinName": "Dentacoin", 
+        "Id": "218906"
+    }, 
+    "DCK": {
+        "CoinName": "DickCoin", 
+        "Id": "28229"
+    }, 
+    "BRDD": {
+        "CoinName": "BeardDollars", 
+        "Id": "33875"
+    }, 
+    "DCC": {
+        "CoinName": "DarkCrave", 
+        "Id": "6114"
+    }, 
+    "DCY": {
+        "CoinName": "Dinastycoin", 
+        "Id": "181373"
+    }, 
+    "DCT": {
+        "CoinName": "Decent", 
+        "Id": "25721"
+    }, 
+    "DCR": {
+        "CoinName": "Decred", 
+        "Id": "16713"
+    }, 
+    "BLUE": {
+        "CoinName": "Ethereum Blue", 
+        "Id": "350048"
+    }, 
+    "CHIEF": {
+        "CoinName": "TheChiefCoin", 
+        "Id": "37214"
+    }, 
+    "SIGU": {
+        "CoinName": "Singular", 
+        "Id": "6112"
+    }, 
+    "SIGT": {
+        "CoinName": "Signatum", 
+        "Id": "200941"
+    }, 
+    "OMG": {
+        "CoinName": "OmiseGo", 
+        "Id": "187440"
+    }, 
+    "WEX": {
+        "CoinName": "Wexcoin", 
+        "Id": "28882"
+    }, 
+    "SRC*": {
+        "CoinName": "StarCredits", 
+        "Id": "59966"
+    }, 
+    "SEND": {
+        "CoinName": "Social Send", 
+        "Id": "449573"
+    }, 
+    "CCN": {
+        "CoinName": "CannaCoin", 
+        "Id": "4412"
+    }, 
+    "ANAL": {
+        "CoinName": "AnalCoin", 
+        "Id": "37359"
+    }, 
+    "ROOTS": {
+        "CoinName": "RootProject", 
+        "Id": "194906"
+    }, 
+    "DMD": {
+        "CoinName": "Diamond", 
+        "Id": "4431"
+    }, 
+    "SLG": {
+        "CoinName": "SterlingCoin", 
+        "Id": "4605"
+    }, 
+    "ODNT": {
+        "CoinName": "Old Dogs New Tricks", 
+        "Id": "34847"
+    }, 
+    "OROC": {
+        "CoinName": "Orocrypt", 
+        "Id": "180001"
+    }, 
+    "AEC": {
+        "CoinName": "AcesCoin", 
+        "Id": "20986"
+    }, 
+    "DMT": {
+        "CoinName": "DMarket", 
+        "Id": "192400"
+    }, 
+    "BOAT": {
+        "CoinName": "Doubloon", 
+        "Id": "57742"
+    }, 
+    "XDC": {
+        "CoinName": "XinFin Coin", 
+        "Id": "477743"
+    }, 
+    "XDB": {
+        "CoinName": "DragonSphere", 
+        "Id": "20826"
+    }, 
+    "ACOIN": {
+        "CoinName": "ACoin", 
+        "Id": "4323"
+    }, 
+    "CRDS": {
+        "CoinName": "Credits", 
+        "Id": "392253"
+    }, 
+    "XDN": {
+        "CoinName": "DigitalNote ", 
+        "Id": "5282"
+    }, 
+    "RIDE": {
+        "CoinName": "Ride My Car", 
+        "Id": "42344"
+    }, 
+    "BUK": {
+        "CoinName": "CryptoBuk", 
+        "Id": "4404"
+    }, 
+    "XDQ": {
+        "CoinName": "Dirac Coin", 
+        "Id": "5347"
+    }, 
+    "XDP": {
+        "CoinName": "DogeParty", 
+        "Id": "3655"
+    }, 
+    "365": {
+        "CoinName": "365Coin", 
+        "Id": "33639"
+    }, 
+    "BIT16": {
+        "CoinName": "16BitCoin", 
+        "Id": "22333"
+    }, 
+    "XRL": {
+        "CoinName": "Rialto.AI", 
+        "Id": "179990"
+    }, 
+    "XRE": {
+        "CoinName": "RevolverCoin", 
+        "Id": "20823"
+    }, 
+    "XRA": {
+        "CoinName": "Ratecoin", 
+        "Id": "21770"
+    }, 
+    "XRB": {
+        "CoinName": "RaiBlocks", 
+        "Id": "172091"
+    }, 
+    "XRP": {
+        "CoinName": "Ripple", 
+        "Id": "5031"
+    }, 
+    "PSI": {
+        "CoinName": "PSIcoin", 
+        "Id": "29004"
+    }, 
+    "DGDC": {
+        "CoinName": "DarkGold", 
+        "Id": "28278"
+    }, 
+    "PSY": {
+        "CoinName": "Psilocybin", 
+        "Id": "24871"
+    }, 
+    "KURT": {
+        "CoinName": "Kurrent", 
+        "Id": "34602"
+    }, 
+    "PST": {
+        "CoinName": "Primas", 
+        "Id": "255777"
+    }, 
+    "MOD": {
+        "CoinName": "Modum", 
+        "Id": "345510"
+    }, 
+    "BCN": {
+        "CoinName": "ByteCoin", 
+        "Id": "5280"
+    }, 
+    "KMD": {
+        "CoinName": "Komodo", 
+        "Id": "26132"
+    }, 
+    "BCH": {
+        "CoinName": "Bitcoin Cash / BCC", 
+        "Id": "202330"
+    }, 
+    "ETT": {
+        "CoinName": "EncryptoTel", 
+        "Id": "62529"
+    }, 
+    "GIVE": {
+        "CoinName": "GiveCoin", 
+        "Id": "3641"
+    }, 
+    "BCD": {
+        "CoinName": "Bitcoin Diamond", 
+        "Id": "409492"
+    }, 
+    "BCF": {
+        "CoinName": "BitcoinFast", 
+        "Id": "34854"
+    }, 
+    "ETC": {
+        "CoinName": "Ethereum Classic", 
+        "Id": "5324"
+    }, 
+    "BCX": {
+        "CoinName": "BattleCoin", 
+        "Id": "4335"
+    }, 
+    "BCY": {
+        "CoinName": "BitCrystals", 
+        "Id": "20315"
+    }, 
+    "LEMON": {
+        "CoinName": "LemonCoin", 
+        "Id": "21641"
+    }, 
+    "ETH": {
+        "CoinName": "Ethereum", 
+        "Id": "7605"
+    }, 
+    "ETN": {
+        "CoinName": "Electroneum", 
+        "Id": "361881"
+    }, 
+    "BCR": {
+        "CoinName": "BitCredit", 
+        "Id": "5345"
+    }, 
+    "VRS": {
+        "CoinName": "Veros", 
+        "Id": "33399"
+    }, 
+    "DETH": {
+        "CoinName": "DarkEther", 
+        "Id": "40845"
+    }, 
+    "VRC": {
+        "CoinName": "VeriCoin", 
+        "Id": "5017"
+    }, 
+    "C2": {
+        "CoinName": "Coin.2", 
+        "Id": "5396"
+    }, 
+    "VRM": {
+        "CoinName": "Verium", 
+        "Id": "28323"
+    }, 
+    "CJ": {
+        "CoinName": "CryptoJacks", 
+        "Id": "23734"
+    }, 
+    "CC": {
+        "CoinName": "CyberCoin", 
+        "Id": "5367"
+    }, 
+    "SRN": {
+        "CoinName": "SirinLabs", 
+        "Id": "380641"
+    }, 
+    "CF": {
+        "CoinName": "Californium", 
+        "Id": "30119"
+    }, 
+    "SRT": {
+        "CoinName": "Scrypto", 
+        "Id": "248243"
+    }, 
+    "CS": {
+        "CoinName": "CryptoSpots", 
+        "Id": "35813"
+    }, 
+    "SPHTX": {
+        "CoinName": "SophiaTX", 
+        "Id": "379248"
+    }, 
+    "LDOGE": {
+        "CoinName": "LiteDoge", 
+        "Id": "5339"
+    }, 
+    "1CR": {
+        "CoinName": "1Credit", 
+        "Id": "5406"
+    }, 
+    "NMR": {
+        "CoinName": "Numerai", 
+        "Id": "166594"
+    }, 
+    "IOC": {
+        "CoinName": "IOCoin", 
+        "Id": "4540"
+    }, 
+    "NAMO": {
+        "CoinName": "NamoCoin", 
+        "Id": "348289"
+    }, 
+    "NMB": {
+        "CoinName": "Nimbus Coin", 
+        "Id": "4575"
+    }, 
+    "NMC": {
+        "CoinName": "NameCoin", 
+        "Id": "4580"
+    }, 
+    "EVENT": {
+        "CoinName": "Event Token", 
+        "Id": "5405"
+    }, 
+    "LOC": {
+        "CoinName": "Loco", 
+        "Id": "36988"
+    }, 
+    "FRWC": {
+        "CoinName": "Frankywillcoin", 
+        "Id": "24866"
+    }, 
+    "LOG": {
+        "CoinName": "Wood Coin", 
+        "Id": "6454"
+    }, 
+    "CSMIC": {
+        "CoinName": "Cosmic", 
+        "Id": "34215"
+    }, 
+    "IMPCH": {
+        "CoinName": "Impeach", 
+        "Id": "44007"
+    }, 
+    "EB3": {
+        "CoinName": "EB3coin", 
+        "Id": "59968"
+    }, 
+    "CVC": {
+        "CoinName": "Civic", 
+        "Id": "139467"
+    }, 
+    "PIZZA": {
+        "CoinName": "PizzaCoin", 
+        "Id": "25830"
+    }, 
+    "QRK": {
+        "CoinName": "QuarkCoin", 
+        "Id": "4351"
+    }, 
+    "QRL": {
+        "CoinName": "Quantum Resistant Ledger", 
+        "Id": "127667"
+    }, 
+    "DBIC": {
+        "CoinName": "DubaiCoin", 
+        "Id": "20198"
+    }, 
+    "HIRE*": {
+        "CoinName": "BitHIRE", 
+        "Id": "15882"
+    }, 
+    "DBIX": {
+        "CoinName": "DubaiCoin", 
+        "Id": "57481"
+    }, 
+    "GBYTE": {
+        "CoinName": "Byteball", 
+        "Id": "30736"
+    }, 
+    "X8X": {
+        "CoinName": "X8Currency", 
+        "Id": "450337"
+    }, 
+    "XCASH": {
+        "CoinName": "Xcash", 
+        "Id": "5025"
+    }, 
+    "HTML5": {
+        "CoinName": "HTML Coin", 
+        "Id": "84752"
+    }, 
+    "HPC": {
+        "CoinName": "HappyCoin", 
+        "Id": "62659"
+    }, 
+    "GHOUL": {
+        "CoinName": "Ghoul Coin", 
+        "Id": "8832"
+    }, 
+    "WEALTH": {
+        "CoinName": "WealthCoin", 
+        "Id": "42440"
+    }, 
+    "LGBTQ": {
+        "CoinName": "LGBTQoin", 
+        "Id": "21215"
+    }, 
+    "ARDR": {
+        "CoinName": "Ardor", 
+        "Id": "30173"
+    }, 
+    "EBS": {
+        "CoinName": "EbolaShare", 
+        "Id": "5329"
+    }, 
+    "xGOx": {
+        "CoinName": "Go!", 
+        "Id": "380754"
+    }, 
+    "TRUST": {
+        "CoinName": "TrustPlus", 
+        "Id": "5384"
+    }, 
+    "ELITE": {
+        "CoinName": "EthereumLite", 
+        "Id": "360657"
+    }, 
+    "SPANK": {
+        "CoinName": "SpankChain", 
+        "Id": "411496"
+    }, 
+    "EBZ": {
+        "CoinName": "Ebitz", 
+        "Id": "33636"
+    }, 
+    "ZYD": {
+        "CoinName": "ZayedCoin", 
+        "Id": "28216"
+    }, 
+    "DRZ": {
+        "CoinName": "Droidz", 
+        "Id": "7480"
+    }, 
+    "CANN": {
+        "CoinName": "CannabisCoin", 
+        "Id": "4407"
+    }, 
+    "DRP": {
+        "CoinName": "DCORP", 
+        "Id": "188523"
+    }, 
+    "DRS": {
+        "CoinName": "Digital Rupees", 
+        "Id": "33645"
+    }, 
+    "DRT": {
+        "CoinName": "DomRaider", 
+        "Id": "311829"
+    }, 
+    "KOLION": {
+        "CoinName": "Kolion", 
+        "Id": "339431"
+    }, 
+    "STEPS": {
+        "CoinName": "Steps", 
+        "Id": "20724"
+    }, 
+    "DRXNE": {
+        "CoinName": "Droxne", 
+        "Id": "384953"
+    }, 
+    "DRC": {
+        "CoinName": "Dropcoin", 
+        "Id": "290053"
+    }, 
+    "XBOT": {
+        "CoinName": "SocialXbotCoin", 
+        "Id": "5022"
+    }, 
+    "NVST": {
+        "CoinName": "NVO", 
+        "Id": "178885"
+    }, 
+    "SWEET": {
+        "CoinName": "SweetStake", 
+        "Id": "30887"
+    }, 
+    "IOU": {
+        "CoinName": "IOU1", 
+        "Id": "77286"
+    }, 
+    "IOT": {
+        "CoinName": "IOTA", 
+        "Id": "127356"
+    }, 
+    "IOP": {
+        "CoinName": "Internet of People", 
+        "Id": "42596"
+    }, 
+    "HVCO": {
+        "CoinName": "High Voltage Coin", 
+        "Id": "21374"
+    }, 
+    "ION": {
+        "CoinName": "Ionomy", 
+        "Id": "20591"
+    }, 
+    "UIS": {
+        "CoinName": "Unitus", 
+        "Id": "5353"
+    }, 
+    "RVT": {
+        "CoinName": "Rivetz", 
+        "Id": "176280"
+    }, 
+    "DRM8": {
+        "CoinName": "Dream8Coin", 
+        "Id": "33524"
+    }, 
+    "DRACO": {
+        "CoinName": "DT Token", 
+        "Id": "22248"
+    }, 
+    "KRAK": {
+        "CoinName": "Kraken", 
+        "Id": "23741"
+    }, 
+    "EVIL": {
+        "CoinName": "EvilCoin", 
+        "Id": "22272"
+    }, 
+    "NANAS": {
+        "CoinName": "BananaBits", 
+        "Id": "6453"
+    }, 
+    "ALEX": {
+        "CoinName": "Alexandrite", 
+        "Id": "45607"
+    }, 
+    "NLC2": {
+        "CoinName": "NoLimitCoin", 
+        "Id": "195018"
+    }, 
+    "CXT": {
+        "CoinName": "Coinonat", 
+        "Id": "63308"
+    }, 
+    "CAN*": {
+        "CoinName": "CanYaCoin", 
+        "Id": "327632"
+    }, 
+    "CXC": {
+        "CoinName": "CheckCoin", 
+        "Id": "4415"
+    }, 
+    "WRC*": {
+        "CoinName": "WarCoin", 
+        "Id": "71873"
+    }, 
+    "HZ": {
+        "CoinName": "Horizon", 
+        "Id": "5312"
+    }, 
+    "XSP": {
+        "CoinName": "PoolStamp", 
+        "Id": "35816"
+    }, 
+    "XST": {
+        "CoinName": "StealthCoin", 
+        "Id": "5032"
+    }, 
+    "XSB": {
+        "CoinName": "Extreme Sportsbook", 
+        "Id": "364846"
+    }, 
+    "XSH": {
+        "CoinName": "SHIELD", 
+        "Id": "419814"
+    }, 
+    "XSI": {
+        "CoinName": "Stability Shares", 
+        "Id": "5306"
+    }, 
+    "VIOR": {
+        "CoinName": "ViorCoin", 
+        "Id": "5407"
+    }, 
+    "CTIC": {
+        "CoinName": "Coinmatic", 
+        "Id": "79887"
+    }, 
+    "MNX": {
+        "CoinName": "MinexCoin", 
+        "Id": "389849"
+    }, 
+    "SCL": {
+        "CoinName": "Social Nexus", 
+        "Id": "255254"
+    }, 
+    "SKR*": {
+        "CoinName": "Skrilla Token", 
+        "Id": "304605"
+    }, 
+    "SCN": {
+        "CoinName": "Swiscoin", 
+        "Id": "28880"
+    }, 
+    "NEBL": {
+        "CoinName": "Neblio", 
+        "Id": "222085"
+    }, 
+    "MNT": {
+        "CoinName": "GoldMint", 
+        "Id": "240322"
+    }, 
+    "PTA": {
+        "CoinName": "PentaCoin", 
+        "Id": "39698"
+    }, 
+    "MNM": {
+        "CoinName": "Mineum", 
+        "Id": "20905"
+    }, 
+    "SCT": {
+        "CoinName": "ScryptToken", 
+        "Id": "30536"
+    }, 
+    "MNC": {
+        "CoinName": "MinCoin", 
+        "Id": "4564"
+    }, 
+    "MND": {
+        "CoinName": "MindCoin", 
+        "Id": "15888"
+    }, 
+    "MNE": {
+        "CoinName": "Minereum", 
+        "Id": "84831"
+    }, 
+    "SCR": {
+        "CoinName": "Scorum", 
+        "Id": "393742"
+    }, 
+    "PBT": {
+        "CoinName": "Primalbase", 
+        "Id": "84232"
+    }, 
+    "CJC": {
+        "CoinName": "CryptoJournal", 
+        "Id": "58125"
+    }, 
+    "CAPP": {
+        "CoinName": "Cappasity", 
+        "Id": "306304"
+    }, 
+    "FCS": {
+        "CoinName": "CryptoFocus", 
+        "Id": "6101"
+    }, 
+    "SLR": {
+        "CoinName": "SolarCoin", 
+        "Id": "5349"
+    }, 
+    "PBC": {
+        "CoinName": "PabyosiCoin", 
+        "Id": "22171"
+    }, 
+    "RHOC": {
+        "CoinName": "RChain", 
+        "Id": "434666"
+    }, 
+    "PBL": {
+        "CoinName": "Publica", 
+        "Id": "402980"
+    }, 
+    "EGAS": {
+        "CoinName": "ETHGAS", 
+        "Id": "466786"
+    }, 
+    "RCN*": {
+        "CoinName": "RCoin", 
+        "Id": "29374"
+    }, 
+    "CJT": {
+        "CoinName": "ConnectJob Token", 
+        "Id": "382617"
+    }, 
+    "MMXVI": {
+        "CoinName": "MMXVI", 
+        "Id": "36992"
+    }, 
+    "AVT": {
+        "CoinName": "AventCoin", 
+        "Id": "138642"
+    }, 
+    "FLVR": {
+        "CoinName": "FlavorCoin", 
+        "Id": "21878"
+    }, 
+    "SENSE": {
+        "CoinName": "Sense Token", 
+        "Id": "305252"
+    }, 
+    "XCO": {
+        "CoinName": "XCoin", 
+        "Id": "5408"
+    }, 
+    "AVE": {
+        "CoinName": "Avesta", 
+        "Id": "362627"
+    }, 
+    "AVA": {
+        "CoinName": "Avalon", 
+        "Id": "248300"
+    }, 
+    "SUB": {
+        "CoinName": "Substratum Network", 
+        "Id": "221463"
+    }, 
+    "DEEP": {
+        "CoinName": "Deep Gold", 
+        "Id": "301119"
+    }, 
+    "GAME": {
+        "CoinName": "Gamecredits", 
+        "Id": "20157"
+    }, 
+    "SUR": {
+        "CoinName": "Suretly", 
+        "Id": "177462"
+    }, 
+    "SUP": {
+        "CoinName": "Supcoin", 
+        "Id": "3645"
+    }, 
+    "TEK": {
+        "CoinName": "TekCoin", 
+        "Id": "5298"
+    }, 
+    "GEMZ": {
+        "CoinName": "Gemz Social", 
+        "Id": "5310"
+    }, 
+    "TEC": {
+        "CoinName": "TeCoin", 
+        "Id": "42106"
+    }, 
+    "NBT": {
+        "CoinName": "NuBits", 
+        "Id": "5287"
+    }, 
+    "FSC2": {
+        "CoinName": "FriendshipCoin", 
+        "Id": "5359"
+    }, 
+    "NBL": {
+        "CoinName": "Nybble", 
+        "Id": "4572"
+    }, 
+    "TER": {
+        "CoinName": "TerraNovaCoin", 
+        "Id": "340067"
+    }, 
+    "TES": {
+        "CoinName": "TeslaCoin", 
+        "Id": "4622"
+    }, 
+    "BTG*": {
+        "CoinName": "BitGem", 
+        "Id": "4402"
+    }, 
+    "CORE": {
+        "CoinName": "Core Group Asset", 
+        "Id": "205549"
+    }, 
+    "ADT": {
+        "CoinName": "AdToken", 
+        "Id": "188858"
+    }, 
+    "DES": {
+        "CoinName": "Destiny", 
+        "Id": "22330"
+    }, 
+    "DNA": {
+        "CoinName": "Encrypgen", 
+        "Id": "180804"
+    }, 
+    "GML": {
+        "CoinName": "GameLeagueCoin", 
+        "Id": "4531"
+    }, 
+    "GMC": {
+        "CoinName": "Gridmaster", 
+        "Id": "5388"
+    }, 
+    "ADZ": {
+        "CoinName": "Adzcoin", 
+        "Id": "20656"
+    }, 
+    "ADX": {
+        "CoinName": "AdEx", 
+        "Id": "170452"
+    }, 
+    "HUSH": {
+        "CoinName": "Hush", 
+        "Id": "33460"
+    }, 
+    "DNT": {
+        "CoinName": "district0x", 
+        "Id": "177175"
+    }, 
+    "GMX": {
+        "CoinName": "Goldmaxcoin", 
+        "Id": "30424"
+    }, 
+    "ADB": {
+        "CoinName": "Adbank", 
+        "Id": "468052"
+    }, 
+    "ADC": {
+        "CoinName": "AudioCoin", 
+        "Id": "6108"
+    }, 
+    "ADA": {
+        "CoinName": "Cardano", 
+        "Id": "321992"
+    }, 
+    "ADN": {
+        "CoinName": "Aiden", 
+        "Id": "21007"
+    }, 
+    "ADL": {
+        "CoinName": "Adelphoi", 
+        "Id": "127738"
+    }, 
+    "EDRC": {
+        "CoinName": "EDRCoin", 
+        "Id": "19051"
+    }, 
+    "GMT": {
+        "CoinName": "Mercury Protocol", 
+        "Id": "388042"
+    }, 
+    "ODMC": {
+        "CoinName": "ODMCoin", 
+        "Id": "357404"
+    }, 
+    "BRX": {
+        "CoinName": "Breakout Stake", 
+        "Id": "299415"
+    }, 
+    "XEL": {
+        "CoinName": "Elastic", 
+        "Id": "178861"
+    }, 
+    "XEM": {
+        "CoinName": "NEM", 
+        "Id": "5285"
+    }, 
+    "XEN": {
+        "CoinName": "XenixCoin", 
+        "Id": "34324"
+    }, 
+    "BRO": {
+        "CoinName": "Bitradio", 
+        "Id": "234982"
+    }, 
+    "CIRC": {
+        "CoinName": "CryptoCircuits", 
+        "Id": "7484"
+    }, 
+    "BRK": {
+        "CoinName": "BreakoutCoin", 
+        "Id": "20892"
+    }, 
+    "BRD": {
+        "CoinName": "Bread token", 
+        "Id": "543502"
+    }, 
+    "BBCC": {
+        "CoinName": "BaseballCardCoin", 
+        "Id": "29554"
+    }, 
+    "HQX": {
+        "CoinName": "HOQU", 
+        "Id": "535054"
+    }, 
+    "BLAZR": {
+        "CoinName": "BlazerCoin", 
+        "Id": "60424"
+    }, 
+    "EMGO": {
+        "CoinName": "MobileGo", 
+        "Id": "531426"
+    }, 
+    "TDFB": {
+        "CoinName": "TDFB", 
+        "Id": "28176"
+    }, 
+    "DISK": {
+        "CoinName": "Dark Lisk", 
+        "Id": "21652"
+    }, 
+    "QCN": {
+        "CoinName": "Quazar Coin", 
+        "Id": "7650"
+    }, 
+    "ATFS": {
+        "CoinName": "ATFS Project", 
+        "Id": "375855"
+    }, 
+    "MAT*": {
+        "CoinName": "Manet Coin", 
+        "Id": "108094"
+    }, 
+    "EAC": {
+        "CoinName": "EarthCoin", 
+        "Id": "4437"
+    }, 
+    "RKC": {
+        "CoinName": "Royal Kingdom Coin", 
+        "Id": "194924"
+    }, 
+    "TRON": {
+        "CoinName": "Positron", 
+        "Id": "5299"
+    }, 
+    "KUSH": {
+        "CoinName": "KushCoin", 
+        "Id": "42687"
+    }, 
+    "ETHD": {
+        "CoinName": "Ethereum Dark", 
+        "Id": "310754"
+    }, 
+    "METAL": {
+        "CoinName": "MetalCoin", 
+        "Id": "5373"
+    }, 
+    "ETHB": {
+        "CoinName": "EtherBTC", 
+        "Id": "412197"
+    }, 
+    "KLK": {
+        "CoinName": "Kalkulus", 
+        "Id": "517193"
+    }, 
+    "ETHS": {
+        "CoinName": "EthereumScrypt", 
+        "Id": "20448"
+    }, 
+    "LTB": {
+        "CoinName": "Litebar ", 
+        "Id": "4553"
+    }, 
+    "VSX": {
+        "CoinName": "Vsync", 
+        "Id": "325279"
+    }, 
+    "VSL": {
+        "CoinName": "vSlice", 
+        "Id": "32880"
+    }, 
+    "SOAR": {
+        "CoinName": "Soarcoin", 
+        "Id": "388145"
+    }, 
+    "EOC": {
+        "CoinName": "EveryonesCoin", 
+        "Id": "44803"
+    }, 
+    "PTC": {
+        "CoinName": "PesetaCoin", 
+        "Id": "5317"
+    }, 
+    "BLAS": {
+        "CoinName": "BlakeStar", 
+        "Id": "253707"
+    }, 
+    "DIVX": {
+        "CoinName": "Divi", 
+        "Id": "431413"
+    }, 
+    "RYC": {
+        "CoinName": "RoyalCoin", 
+        "Id": "4596"
+    }, 
+    "EOS": {
+        "CoinName": "EOS", 
+        "Id": "166503"
+    }, 
+    "RYZ": {
+        "CoinName": "Anryze", 
+        "Id": "339804"
+    }, 
+    "DLISK": {
+        "CoinName": "Dlisk", 
+        "Id": "23743"
+    }, 
+    "BUCKS*": {
+        "CoinName": "GorillaBucks", 
+        "Id": "7481"
+    }, 
+    "CCOS": {
+        "CoinName": "CrowdCoinage", 
+        "Id": "542719"
+    }, 
+    "BLITZ": {
+        "CoinName": "BlitzCoin", 
+        "Id": "15879"
+    }, 
+    "FIT": {
+        "CoinName": "Fitcoin", 
+        "Id": "29133"
+    }, 
+    "CORAL": {
+        "CoinName": "CoralPay", 
+        "Id": "35232"
+    }, 
+    "PIGGY": {
+        "CoinName": "Piggy Coin", 
+        "Id": "7577"
+    }, 
+    "FIL": {
+        "CoinName": "FileCoin", 
+        "Id": "213663"
+    }, 
+    "SNGLS": {
+        "CoinName": "SingularDTV", 
+        "Id": "24926"
+    }, 
+    "NEBU": {
+        "CoinName": "Nebuchadnezzar", 
+        "Id": "20980"
+    }, 
+    "WILD": {
+        "CoinName": "Wild Crypto", 
+        "Id": "339533"
+    }, 
+    "DOGETH": {
+        "CoinName": "EtherDoge", 
+        "Id": "33403"
+    }, 
+    "PCS": {
+        "CoinName": "Pabyosi Coin", 
+        "Id": "32686"
+    }, 
+    "CMC": {
+        "CoinName": "CosmosCoin", 
+        "Id": "4419"
+    }, 
+    "KUBO": {
+        "CoinName": "KubosCoin", 
+        "Id": "22262"
+    }, 
+    "PCN": {
+        "CoinName": "PeepCoin", 
+        "Id": "486886"
+    }, 
+    "PCM": {
+        "CoinName": "Procom", 
+        "Id": "35228"
+    }, 
+    "CMT": {
+        "CoinName": "CometCoin", 
+        "Id": "22354"
+    }, 
+    "CMS": {
+        "CoinName": "COMSA", 
+        "Id": "374358"
+    }, 
+    "CMP": {
+        "CoinName": "Compcoin", 
+        "Id": "176004"
+    }, 
+    "XCI": {
+        "CoinName": "Cannabis Industry Coin", 
+        "Id": "35955"
+    }, 
+    "MAG*": {
+        "CoinName": "Magos", 
+        "Id": "235993"
+    }, 
+    "WOLF": {
+        "CoinName": "Insanity Coin", 
+        "Id": "3653"
+    }, 
+    "MYST*": {
+        "CoinName": "MysteryCoin", 
+        "Id": "4567"
+    }, 
+    "WOLK": {
+        "CoinName": "Wolk", 
+        "Id": "198703"
+    }, 
+    "FLAP": {
+        "CoinName": "Flappy Coin", 
+        "Id": "4445"
+    }, 
+    "WGC": {
+        "CoinName": "World Gold Coin", 
+        "Id": "24402"
+    }, 
+    "WGO": {
+        "CoinName": "WavesGO", 
+        "Id": "61667"
+    }, 
+    "DSH": {
+        "CoinName": "Dashcoin", 
+        "Id": "20196"
+    }, 
+    "WGR": {
+        "CoinName": "Wagerr", 
+        "Id": "178467"
+    }, 
+    "DSB": {
+        "CoinName": "DarkShibe", 
+        "Id": "4435"
+    }, 
+    "COOL": {
+        "CoinName": "CoolCoin", 
+        "Id": "4423"
+    }, 
+    "MG": {
+        "CoinName": "Mind Gene", 
+        "Id": "29001"
+    }, 
+    "HYPER": {
+        "CoinName": "HyperCoin", 
+        "Id": "5371"
+    }, 
+    "MC": {
+        "CoinName": "Mass Coin", 
+        "Id": "27594"
+    }, 
+    "MM": {
+        "CoinName": "MasterMint", 
+        "Id": "44959"
+    }, 
+    "INV": {
+        "CoinName": "Invictus", 
+        "Id": "29713"
+    }, 
+    "MN": {
+        "CoinName": "Cryptsy Mining Contract", 
+        "Id": "4563"
+    }, 
+    "MI": {
+        "CoinName": "XiaoMiCoin", 
+        "Id": "12225"
+    }, 
+    "INS": {
+        "CoinName": "INS Ecosystem", 
+        "Id": "370973"
+    }, 
+    "MT": {
+        "CoinName": "Mycelium Token", 
+        "Id": "29378"
+    }, 
+    "INN": {
+        "CoinName": "Innova", 
+        "Id": "374211"
+    }, 
+    "GBIT": {
+        "CoinName": "GravityBit", 
+        "Id": "42103"
+    }, 
+    "AV": {
+        "CoinName": "Avatar Coin", 
+        "Id": "38026"
+    }, 
+    "IND": {
+        "CoinName": "Indorse", 
+        "Id": "185953"
+    }, 
+    "DTT*": {
+        "CoinName": "Data Trading", 
+        "Id": "363066"
+    }, 
+    "INC": {
+        "CoinName": "Incrementum", 
+        "Id": "38967"
+    }, 
+    "REAL": {
+        "CoinName": "REAL", 
+        "Id": "198490"
+    }, 
+    "DON": {
+        "CoinName": "DonationCoin", 
+        "Id": "61073"
+    }, 
+    "GLA": {
+        "CoinName": "Gladius", 
+        "Id": "318704"
+    }, 
+    "NETKO": {
+        "CoinName": "Netko", 
+        "Id": "53174"
+    }, 
+    "GLC": {
+        "CoinName": "GlobalCoin", 
+        "Id": "4527"
+    }, 
+    "GLD": {
+        "CoinName": "GoldCoin", 
+        "Id": "4528"
+    }, 
+    "GLX": {
+        "CoinName": "GalaxyCoin", 
+        "Id": "4529"
+    }, 
+    "COSS": {
+        "CoinName": "COSS", 
+        "Id": "186335"
+    }, 
+    "GLT": {
+        "CoinName": "GlobalToken", 
+        "Id": "449614"
+    }, 
+    "DOT": {
+        "CoinName": "Dotcoin", 
+        "Id": "20339"
+    }, 
+    "GIFT": {
+        "CoinName": "GiftNet", 
+        "Id": "38962"
+    }, 
+    "BST": {
+        "CoinName": "BitStone", 
+        "Id": "15272"
+    }, 
+    "XFC": {
+        "CoinName": "Forever Coin", 
+        "Id": "6452"
+    }, 
+    "SETH": {
+        "CoinName": "Sether", 
+        "Id": "419209"
+    }, 
+    "ZOOM": {
+        "CoinName": "ZoomCoin", 
+        "Id": "22245"
+    }, 
+    "BSD": {
+        "CoinName": "BitSend", 
+        "Id": "22329"
+    }, 
+    "BSC": {
+        "CoinName": "BowsCoin", 
+        "Id": "7482"
+    }, 
+    "ELLA": {
+        "CoinName": "Ellaism", 
+        "Id": "384651"
+    }, 
+    "XTZ": {
+        "CoinName": "Tezos", 
+        "Id": "166390"
+    }, 
+    "MCAR": {
+        "CoinName": "MasterCar", 
+        "Id": "45612"
+    }, 
+    "AUR": {
+        "CoinName": "Aurora Coin", 
+        "Id": "4333"
+    }, 
+    "XTC": {
+        "CoinName": "TileCoin", 
+        "Id": "5321"
+    }, 
+    "AUT": {
+        "CoinName": "Autoria", 
+        "Id": "206001"
+    }, 
+    "GRID*": {
+        "CoinName": "GridPay", 
+        "Id": "5323"
+    }, 
+    "SBC": {
+        "CoinName": "StableCoin", 
+        "Id": "4599"
+    }, 
+    "SBD": {
+        "CoinName": "Steem Backed Dollars", 
+        "Id": "23728"
+    }, 
+    "TBCX": {
+        "CoinName": "TrashBurn", 
+        "Id": "45609"
+    }, 
+    "PUT": {
+        "CoinName": "PutinCoin", 
+        "Id": "23737"
+    }, 
+    "MMC": {
+        "CoinName": "MemoryCoin", 
+        "Id": "5389"
+    }, 
+    "ERT": {
+        "CoinName": "Esports.com", 
+        "Id": "328784"
+    }, 
+    "I0C": {
+        "CoinName": "I0coin", 
+        "Id": "16123"
+    }, 
+    "BAT": {
+        "CoinName": "Basic Attention Token", 
+        "Id": "107672"
+    }, 
+    "BAR": {
+        "CoinName": "TBIS token", 
+        "Id": "354771"
+    }, 
+    "ERR": {
+        "CoinName": "ErrorCoin", 
+        "Id": "44749"
+    }, 
+    "OMNI": {
+        "CoinName": "Omni", 
+        "Id": "22441"
+    }, 
+    "XHI": {
+        "CoinName": "HiCoin", 
+        "Id": "20202"
+    }, 
+    "RIPO": {
+        "CoinName": "RipOffCoin", 
+        "Id": "4593"
+    }, 
+    "ERY": {
+        "CoinName": "Eryllium", 
+        "Id": "42694"
+    }, 
+    "BAY": {
+        "CoinName": "BitBay", 
+        "Id": "5300"
+    }, 
+    "RNDR": {
+        "CoinName": "Render Token", 
+        "Id": "348131"
+    }, 
+    "BNX": {
+        "CoinName": "BnrtxCoin", 
+        "Id": "56682"
+    }, 
+    "BAC": {
+        "CoinName": "BitalphaCoin", 
+        "Id": "20348"
+    }, 
+    "ERB": {
+        "CoinName": "ERBCoin", 
+        "Id": "28665"
+    }, 
+    "ERC": {
+        "CoinName": "EuropeCoin", 
+        "Id": "20748"
+    }, 
+    "BAN": {
+        "CoinName": "Babes and Nerds", 
+        "Id": "43247"
+    }, 
+    "XID": {
+        "CoinName": "Sphre AIR", 
+        "Id": "199026"
+    }, 
+    "ERO": {
+        "CoinName": "Eroscoin", 
+        "Id": "439579"
+    }, 
+    "ZET2": {
+        "CoinName": "Zeta2Coin", 
+        "Id": "28136"
+    }, 
+    "SONG": {
+        "CoinName": "Song Coin", 
+        "Id": "8682"
+    }, 
+    "CELL": {
+        "CoinName": "SolarFarm", 
+        "Id": "5297"
+    }, 
+    "IGNIS": {
+        "CoinName": "Ignis", 
+        "Id": "231674"
+    }, 
+    "HAC": {
+        "CoinName": "Hackspace Capital", 
+        "Id": "321347"
+    }, 
+    "STA": {
+        "CoinName": "Starta", 
+        "Id": "150519"
+    }, 
+    "STC": {
+        "CoinName": "StarterCoin", 
+        "Id": "396716"
+    }, 
+    "HODL": {
+        "CoinName": "HOdlcoin", 
+        "Id": "18670"
+    }, 
+    "STH": {
+        "CoinName": "SmartHoldem", 
+        "Id": "486983"
+    }, 
+    "KNC": {
+        "CoinName": "Kyber Network", 
+        "Id": "310497"
+    }, 
+    "MDC*": {
+        "CoinName": "MadCoin", 
+        "Id": "373980"
+    }, 
+    "NEOS": {
+        "CoinName": "NeosCoin", 
+        "Id": "5370"
+    }, 
+    "STV": {
+        "CoinName": "Sativa Coin", 
+        "Id": "5328"
+    }, 
+    "STP": {
+        "CoinName": "StashPay", 
+        "Id": "411271"
+    }, 
+    "STS": {
+        "CoinName": "STRESScoin", 
+        "Id": "21650"
+    }, 
+    "BOSS": {
+        "CoinName": "BitBoss", 
+        "Id": "41125"
+    }, 
+    "STX": {
+        "CoinName": "Stox", 
+        "Id": "204716"
+    }, 
+    "TFL": {
+        "CoinName": "True Flip Lottery", 
+        "Id": "150545"
+    }, 
+    "EDGE": {
+        "CoinName": "EdgeCoin", 
+        "Id": "6339"
+    }, 
+    "FNT": {
+        "CoinName": "FinTab", 
+        "Id": "453943"
+    }, 
+    "ECOB": {
+        "CoinName": "EcoBit", 
+        "Id": "171390"
+    }, 
+    "ELTC2": {
+        "CoinName": "eLTC", 
+        "Id": "339581"
+    }, 
+    "ROYAL": {
+        "CoinName": "RoyalCoin", 
+        "Id": "30386"
+    }, 
+    "LIV": {
+        "CoinName": "LiviaCoin", 
+        "Id": "33271"
+    }, 
+    "FND": {
+        "CoinName": "FundRequest", 
+        "Id": "180840"
+    }, 
+    "LIR": {
+        "CoinName": "Let it Ride", 
+        "Id": "23423"
+    }, 
+    "GPU": {
+        "CoinName": "GPU Coin", 
+        "Id": "20650"
+    }, 
+    "OMC": {
+        "CoinName": "OmniCron", 
+        "Id": "5365"
+    }, 
+    "BITOK": {
+        "CoinName": "BitOKX", 
+        "Id": "81445"
+    }, 
+    "VAPOR": {
+        "CoinName": "Vaporcoin", 
+        "Id": "30016"
+    }, 
+    "WTT": {
+        "CoinName": "Giga Watt", 
+        "Id": "179109"
+    }, 
+    "UNAT": {
+        "CoinName": "Unattanium", 
+        "Id": "5381"
+    }, 
+    "ONX": {
+        "CoinName": "Onix", 
+        "Id": "201676"
+    }, 
+    "WTC": {
+        "CoinName": "Waltonchain", 
+        "Id": "299397"
+    }, 
+    "RC": {
+        "CoinName": "Russiacoin", 
+        "Id": "37361"
+    }, 
+    "XAUR": {
+        "CoinName": "Xaurum", 
+        "Id": "25082"
+    }, 
+    "TPG": {
+        "CoinName": "Troll Payment", 
+        "Id": "32882"
+    }, 
+    "QBT": {
+        "CoinName": "Cubits", 
+        "Id": "59317"
+    }, 
+    "ACN": {
+        "CoinName": "AvonCoin", 
+        "Id": "35949"
+    }, 
+    "QBC": {
+        "CoinName": "Quebecoin", 
+        "Id": "38371"
+    }, 
+    "QBK": {
+        "CoinName": "QuBuck Coin", 
+        "Id": "5361"
+    }, 
+    "BASH": {
+        "CoinName": "LuckChain", 
+        "Id": "33129"
+    }, 
+    "HRB": {
+        "CoinName": "Harbour DAO", 
+        "Id": "176336"
+    }, 
+    "WISC": {
+        "CoinName": "WisdomCoin", 
+        "Id": "48794"
+    }, 
+    "MLITE": {
+        "CoinName": "MeLite", 
+        "Id": "49600"
+    }, 
+    "TRUMP": {
+        "CoinName": "TrumpCoin", 
+        "Id": "20270"
+    }, 
+    "8BIT": {
+        "CoinName": "8BIT Coin", 
+        "Id": "5327"
+    }, 
+    "KAT": {
+        "CoinName": "KATZcoin", 
+        "Id": "21224"
+    }, 
+    "KICK": {
+        "CoinName": "KickCoin", 
+        "Id": "202849"
+    }, 
+    "COLX": {
+        "CoinName": "ColossusCoinXT", 
+        "Id": "20903"
+    }, 
+    "EFYT": {
+        "CoinName": "Ergo", 
+        "Id": "165555"
+    }, 
+    "SWING": {
+        "CoinName": "SwingCoin", 
+        "Id": "20920"
+    }, 
+    "RING": {
+        "CoinName": "RingCoin", 
+        "Id": "28657"
+    }, 
+    "XMCC": {
+        "CoinName": "MonacoCoin", 
+        "Id": "222133"
+    }, 
+    "DRC*": {
+        "CoinName": "Darico", 
+        "Id": "417510"
+    }, 
+    "SLING": {
+        "CoinName": "Sling Coin", 
+        "Id": "5302"
+    }, 
+    "PLNC": {
+        "CoinName": "PLNCoin", 
+        "Id": "34493"
+    }, 
+    "EDDIE": {
+        "CoinName": "Eddie coin", 
+        "Id": "348256"
+    }, 
+    "UGT": {
+        "CoinName": "ugChain", 
+        "Id": "369179"
+    }, 
+    "ENE": {
+        "CoinName": "EneCoin", 
+        "Id": "28174"
+    }, 
+    "ENG": {
+        "CoinName": "Enigma", 
+        "Id": "338335"
+    }, 
+    "ENJ": {
+        "CoinName": "Enjin Coin", 
+        "Id": "283116"
+    }, 
+    "DOGED": {
+        "CoinName": "DogeCoinDark", 
+        "Id": "17549"
+    }, 
+    "ENT": {
+        "CoinName": "Eternity", 
+        "Id": "34609"
+    }, 
+    "RT2": {
+        "CoinName": "RotoCoin", 
+        "Id": "4595"
+    }, 
+    "LUX*": {
+        "CoinName": "BitLux", 
+        "Id": "6341"
+    }, 
+    "F16": {
+        "CoinName": "F16Coin", 
+        "Id": "108099"
+    }, 
+    "RFL": {
+        "CoinName": "RAFL", 
+        "Id": "436162"
+    }, 
+    "CZC": {
+        "CoinName": "Crazy Coin", 
+        "Id": "327250"
+    }, 
+    "ATB": {
+        "CoinName": "ATB coin", 
+        "Id": "175618"
+    }, 
+    "ATL": {
+        "CoinName": "ATLANT", 
+        "Id": "235213"
+    }, 
+    "ATM": {
+        "CoinName": "Autumncoin", 
+        "Id": "28023"
+    }, 
+    "UTIL": {
+        "CoinName": "Utility Coin", 
+        "Id": "5013"
+    }, 
+    "CCRB": {
+        "CoinName": "CryptoCarbon", 
+        "Id": "35818"
+    }, 
+    "ATS": {
+        "CoinName": "Authorship", 
+        "Id": "345017"
+    }, 
+    "XUC": {
+        "CoinName": "Exchange Union", 
+        "Id": "184221"
+    }, 
+    "XUN": {
+        "CoinName": "UltraNote", 
+        "Id": "436007"
+    }, 
+    "ATX": {
+        "CoinName": "ArtexCoin", 
+        "Id": "33871"
+    }, 
+    "SEQ": {
+        "CoinName": "Sequence", 
+        "Id": "131112"
+    }, 
+    "PLANET": {
+        "CoinName": "PlanetCoin", 
+        "Id": "56654"
+    }, 
+    "BRAIN": {
+        "CoinName": "BrainCoin", 
+        "Id": "30373"
+    }, 
+    "SMART": {
+        "CoinName": "SmartCash", 
+        "Id": "199901"
+    }, 
+    "SEN": {
+        "CoinName": "Sentaro", 
+        "Id": "28778"
+    }, 
+    "SEL": {
+        "CoinName": "SelenCoin", 
+        "Id": "41967"
+    }, 
+    "JKC": {
+        "CoinName": "JunkCoin", 
+        "Id": "4543"
+    }, 
+    "FRC": {
+        "CoinName": "FireRoosterCoin", 
+        "Id": "4521"
+    }, 
+    "FRE": {
+        "CoinName": "FreeCoin", 
+        "Id": "34489"
+    }, 
+    "FRD": {
+        "CoinName": "Farad", 
+        "Id": "409128"
+    }, 
+    "FRK": {
+        "CoinName": "Franko", 
+        "Id": "4522"
+    }, 
+    "FRN": {
+        "CoinName": "Francs", 
+        "Id": "20991"
+    }, 
+    "IMS": {
+        "CoinName": "Independent Money System", 
+        "Id": "68093"
+    }, 
+    "IMX": {
+        "CoinName": "Impact", 
+        "Id": "58121"
+    }, 
+    "CLV": {
+        "CoinName": "CleverCoin", 
+        "Id": "13074"
+    }, 
+    "PINKX": {
+        "CoinName": "PantherCoin", 
+        "Id": "29193"
+    }, 
+    "PDC": {
+        "CoinName": "Project Decorum", 
+        "Id": "22352"
+    }, 
+    "XNC*": {
+        "CoinName": "Numismatic Collections", 
+        "Id": "41866"
+    }, 
+    "CLR": {
+        "CoinName": "CopperLark", 
+        "Id": "4418"
+    }, 
+    "MTLM3": {
+        "CoinName": "Metal Music v3", 
+        "Id": "34754"
+    }, 
+    "ZEC": {
+        "CoinName": "ZCash", 
+        "Id": "24854"
+    }, 
+    "NUKE": {
+        "CoinName": "NukeCoin", 
+        "Id": "44799"
+    }, 
+    "ZED": {
+        "CoinName": "ZedCoins", 
+        "Id": "5036"
+    }, 
+    "STR*": {
+        "CoinName": "StarCoin", 
+        "Id": "8767"
+    }, 
+    "SALT": {
+        "CoinName": "Salt Lending", 
+        "Id": "314580"
+    }, 
+    "ZEN": {
+        "CoinName": "ZenCash", 
+        "Id": "116180"
+    }, 
+    "ZER": {
+        "CoinName": "Zero", 
+        "Id": "51845"
+    }, 
+    "ZET": {
+        "CoinName": "ZetaCoin", 
+        "Id": "4347"
+    }, 
+    "INFX": {
+        "CoinName": "Influxcoin", 
+        "Id": "20446"
+    }, 
+    "COIN*": {
+        "CoinName": "Coin", 
+        "Id": "20714"
+    }, 
+    "FOREX": {
+        "CoinName": "ForexCoin", 
+        "Id": "30361"
+    }, 
+    "SHIFT": {
+        "CoinName": "Shift", 
+        "Id": "38307"
+    }, 
+    "DB": {
+        "CoinName": "DarkBit", 
+        "Id": "6116"
+    }, 
+    "BPL": {
+        "CoinName": "BlockPool", 
+        "Id": "384729"
+    }, 
+    "BTCL*": {
+        "CoinName": "BitluckCoin", 
+        "Id": "29370"
+    }, 
+    "DT": {
+        "CoinName": "DarkToken", 
+        "Id": "3643"
+    }, 
+    "SWT": {
+        "CoinName": "Swarm City Token", 
+        "Id": "50741"
+    }, 
+    "DP": {
+        "CoinName": "DigitalPrice", 
+        "Id": "182325"
+    }, 
+    "CESC": {
+        "CoinName": "Crypto Escudo", 
+        "Id": "6104"
+    }, 
+    "TGT": {
+        "CoinName": "TargetCoin", 
+        "Id": "472769"
+    }, 
+    "PIVX": {
+        "CoinName": "Private Instant Verified Transaction", 
+        "Id": "42433"
+    }, 
+    "TGC": {
+        "CoinName": "TigerCoin", 
+        "Id": "4623"
+    }, 
+    "BOTS": {
+        "CoinName": "ArkDAO", 
+        "Id": "28125"
+    }, 
+    "XPRO": {
+        "CoinName": "ProCoin", 
+        "Id": "38380"
+    }, 
+    "MLN": {
+        "CoinName": "Melon", 
+        "Id": "45253"
+    }, 
+    "MLS": {
+        "CoinName": "CPROP", 
+        "Id": "234707"
+    }, 
+    "XCRE": {
+        "CoinName": "Creatio", 
+        "Id": "34604"
+    }, 
+    "GOT": {
+        "CoinName": "Giotto Coin", 
+        "Id": "63304"
+    }, 
+    "CFT": {
+        "CoinName": "CryptoForecast", 
+        "Id": "182258"
+    }, 
+    "NRO": {
+        "CoinName": "Neuro", 
+        "Id": "447315"
+    }, 
+    "NRN": {
+        "CoinName": "Doc.ai Neuron", 
+        "Id": "307406"
+    }, 
+    "NRC": {
+        "CoinName": "Neurocoin", 
+        "Id": "44001"
+    }, 
+    "NRB": {
+        "CoinName": "NoirBits", 
+        "Id": "4576"
+    }, 
+    "XGB": {
+        "CoinName": "GoldenBird", 
+        "Id": "41989"
+    }, 
+    "NRS": {
+        "CoinName": "NoirShares", 
+        "Id": "4578"
+    }, 
+    "XGR": {
+        "CoinName": "GoldReserve", 
+        "Id": "71862"
+    }, 
+    "QAU": {
+        "CoinName": "Quantum", 
+        "Id": "170958"
+    }, 
+    "GXC*": {
+        "CoinName": "GenXCoin", 
+        "Id": "339847"
+    }, 
+    "WC": {
+        "CoinName": "WhiteCoin", 
+        "Id": "5019"
+    }, 
+    "DNR": {
+        "CoinName": "Denarius", 
+        "Id": "182288"
+    }, 
+    "GHS": {
+        "CoinName": "Giga Hash", 
+        "Id": "5307"
+    }, 
+    "HSR": {
+        "CoinName": "Hshare", 
+        "Id": "318199"
+    }, 
+    "LTBC": {
+        "CoinName": "LTBCoin", 
+        "Id": "5369"
+    }, 
+    "HSP": {
+        "CoinName": "Horse Power", 
+        "Id": "35687"
+    }, 
+    "HST": {
+        "CoinName": "Decision Token", 
+        "Id": "374246"
+    }, 
+    "RIC": {
+        "CoinName": "Riecoin", 
+        "Id": "4352"
+    }, 
+    "ARI*": {
+        "CoinName": "BeckSang", 
+        "Id": "235221"
+    }, 
+    "YOVI": {
+        "CoinName": "YobitVirtualCoin", 
+        "Id": "22254"
+    }, 
+    "HAL": {
+        "CoinName": "Halcyon", 
+        "Id": "4533"
+    }, 
+    "PASC": {
+        "CoinName": "Pascal Coin", 
+        "Id": "40811"
+    }, 
+    "PASL": {
+        "CoinName": "Pascal Lite", 
+        "Id": "50754"
+    }, 
+    "RISE": {
+        "CoinName": "Rise", 
+        "Id": "22015"
+    }, 
+    "EQT": {
+        "CoinName": "EquiTrader", 
+        "Id": "105263"
+    }, 
+    "XIN": {
+        "CoinName": "Infinity Economics", 
+        "Id": "372654"
+    }, 
+    "BNT": {
+        "CoinName": "Bancor Network Token", 
+        "Id": "22327"
+    }, 
+    "BNK": {
+        "CoinName": "Bankera", 
+        "Id": "384605"
+    }, 
+    "EQM": {
+        "CoinName": "Equilibrium Coin", 
+        "Id": "6093"
+    }, 
+    "ENTER": {
+        "CoinName": "EnterCoin (ENTER)", 
+        "Id": "24307"
+    }, 
+    "BNC": {
+        "CoinName": "Benjacoin", 
+        "Id": "215570"
+    }, 
+    "BNB": {
+        "CoinName": "Binance Coin", 
+        "Id": "204788"
+    }, 
+    "EQB": {
+        "CoinName": "Equibit", 
+        "Id": "188300"
+    }, 
+    "SYC": {
+        "CoinName": "SynchroCoin", 
+        "Id": "185873"
+    }, 
+    "MEC": {
+        "CoinName": "MegaCoin", 
+        "Id": "4559"
+    }, 
+    "ZEIT": {
+        "CoinName": "ZeitCoin", 
+        "Id": "20908"
+    }, 
+    "SYS": {
+        "CoinName": "SysCoin", 
+        "Id": "4618"
+    }, 
+    "LXC": {
+        "CoinName": "LibrexCoin", 
+        "Id": "4556"
+    }, 
+    "YES": {
+        "CoinName": "YesCoin", 
+        "Id": "40990"
+    }, 
+    "SPEC": {
+        "CoinName": "SpecCoin", 
+        "Id": "8716"
+    }, 
+    "EMD": {
+        "CoinName": "Emerald", 
+        "Id": "4441"
+    }, 
+    "EMC": {
+        "CoinName": "Emercoin", 
+        "Id": "15876"
+    }, 
+    "EMB": {
+        "CoinName": "EmberCoin", 
+        "Id": "33942"
+    }, 
+    "NAUT": {
+        "CoinName": "Nautilus Coin", 
+        "Id": "4570"
+    }, 
+    "BELA": {
+        "CoinName": "BelaCoin", 
+        "Id": "21239"
+    }, 
+    "ZNT": {
+        "CoinName": "OpenZen", 
+        "Id": "197886"
+    }, 
+    "EMT": {
+        "CoinName": "EasyMine", 
+        "Id": "247322"
+    }, 
+    "RGC": {
+        "CoinName": "RG Coin", 
+        "Id": "345065"
+    }, 
+    "IXC": {
+        "CoinName": "IXcoin", 
+        "Id": "4541"
+    }, 
+    "ZNY": {
+        "CoinName": "BitZeny", 
+        "Id": "8762"
+    }, 
+    "DAXX": {
+        "CoinName": "DaxxCoin", 
+        "Id": "453647"
+    }, 
+    "LDM": {
+        "CoinName": "Ludum token", 
+        "Id": "409363"
+    }, 
+    "FOOD": {
+        "CoinName": "FoodCoin", 
+        "Id": "413886"
+    }, 
+    "SMSR": {
+        "CoinName": "Samsara Coin", 
+        "Id": "28650"
+    }, 
+    "ROOT": {
+        "CoinName": "RootCoin", 
+        "Id": "28326"
+    }, 
+    "ARENA": {
+        "CoinName": "Arena", 
+        "Id": "201896"
+    }, 
+    "MBRS": {
+        "CoinName": "Embers", 
+        "Id": "221350"
+    }, 
+    "CLUB": {
+        "CoinName": " ClubCoin", 
+        "Id": "15869"
+    }, 
+    "CLUD": {
+        "CoinName": "CludCoin", 
+        "Id": "21359"
+    }, 
+    "SMAC": {
+        "CoinName": "Social Media Coin", 
+        "Id": "5350"
+    }, 
+    "ECHT": {
+        "CoinName": "e-Chat", 
+        "Id": "344337"
+    }, 
+    "FUNC": {
+        "CoinName": "FunCoin", 
+        "Id": "179018"
+    }, 
+    "DNET": {
+        "CoinName": "Darknet", 
+        "Id": "20346"
+    }, 
+    "TODAY": {
+        "CoinName": "TodayCoin", 
+        "Id": "28317"
+    }, 
+    "INXT": {
+        "CoinName": "Internxt", 
+        "Id": "344988"
+    }, 
+    "ULTC": {
+        "CoinName": "Umbrella", 
+        "Id": "4628"
+    }, 
+    "KNC**": {
+        "CoinName": "KingN Coin", 
+        "Id": "402805"
+    }, 
+    "WINK": {
+        "CoinName": "Wink", 
+        "Id": "201962"
+    }, 
+    "FLIXX": {
+        "CoinName": "Flixxo", 
+        "Id": "408849"
+    }, 
+    "WINE": {
+        "CoinName": "WineCoin", 
+        "Id": "32691"
+    }, 
+    "COR": {
+        "CoinName": "Corion", 
+        "Id": "179980"
+    }, 
+    "PEX": {
+        "CoinName": "PosEx", 
+        "Id": "33010"
+    }, 
+    "ILC": {
+        "CoinName": "ILCoin", 
+        "Id": "75440"
+    }, 
+    "COV": {
+        "CoinName": "Covesting", 
+        "Id": "338426"
+    }, 
+    "COX": {
+        "CoinName": "CobraCoin", 
+        "Id": "22326"
+    }, 
+    "CHIP": {
+        "CoinName": "Chip", 
+        "Id": "8696"
+    }, 
+    "FSN": {
+        "CoinName": "Fusion", 
+        "Id": "28081"
+    }, 
+    "PEN": {
+        "CoinName": "PenCoin", 
+        "Id": "33127"
+    }, 
+    "COB": {
+        "CoinName": "Cobinhood", 
+        "Id": "234811"
+    }, 
+    "FST": {
+        "CoinName": "FastCoin", 
+        "Id": "4523"
+    }, 
+    "FIST": {
+        "CoinName": "FistBump", 
+        "Id": "33526"
+    }, 
+    "PEC": {
+        "CoinName": "PeaceCoin", 
+        "Id": "30423"
+    }, 
+    "ZBC": {
+        "CoinName": "Zilbercoin", 
+        "Id": "45250"
+    }, 
+    "THNX": {
+        "CoinName": "ThankYou", 
+        "Id": "228146"
+    }, 
+    "CASH": {
+        "CoinName": "CashCoin", 
+        "Id": "4409"
+    }, 
+    "SANDG": {
+        "CoinName": "Save and Gain", 
+        "Id": "28770"
+    }, 
+    "FAIR": {
+        "CoinName": "FairCoin", 
+        "Id": "5313"
+    }, 
+    "DIME": {
+        "CoinName": "DimeCoin", 
+        "Id": "21365"
+    }, 
+    "COMM": {
+        "CoinName": "Community Coin", 
+        "Id": "4422"
+    }, 
+    "WAY": {
+        "CoinName": "WayCoin", 
+        "Id": "27681"
+    }, 
+    "WAX": {
+        "CoinName": "Worldwide Asset eXchange", 
+        "Id": "338541"
+    }, 
+    "MOIN": {
+        "CoinName": "MoinCoin", 
+        "Id": "20744"
+    }, 
+    "GROW": {
+        "CoinName": "GrownCoin", 
+        "Id": "20600"
+    }, 
+    "SNRG": {
+        "CoinName": "Synergy", 
+        "Id": "8825"
+    }, 
+    "UFO": {
+        "CoinName": "UFO Coin", 
+        "Id": "5355"
+    }, 
+    "LUCKY": {
+        "CoinName": "LuckyBlocks (LUCKY)", 
+        "Id": "32875"
+    }, 
+    "TESLA": {
+        "CoinName": "TeslaCoilCoin", 
+        "Id": "32873"
+    }, 
+    "UFR": {
+        "CoinName": "Upfiring", 
+        "Id": "404806"
+    }, 
+    "ALIS": {
+        "CoinName": "ALISmedia", 
+        "Id": "331603"
+    }, 
+    "TELL": {
+        "CoinName": "Tellurion", 
+        "Id": "28172"
+    }, 
+    "DIM": {
+        "CoinName": "DIMCOIN", 
+        "Id": "180678"
+    }, 
+    "SAT2": {
+        "CoinName": "Saturn2Coin", 
+        "Id": "4598"
+    }, 
+    "PRIX": {
+        "CoinName": "Privatix", 
+        "Id": "257772"
+    }, 
+    "GNT": {
+        "CoinName": "Golem Network Token", 
+        "Id": "33022"
+    }, 
+    "RUBIT": {
+        "CoinName": "Rublebit", 
+        "Id": "30369"
+    }, 
+    "INSN": {
+        "CoinName": "Insane Coin", 
+        "Id": "105284"
+    }, 
+    "AIR": {
+        "CoinName": "AirToken", 
+        "Id": "338555"
+    }, 
+    "MKR": {
+        "CoinName": "Maker", 
+        "Id": "41192"
+    }, 
+    "GNJ": {
+        "CoinName": "GanjaCoin V2", 
+        "Id": "30521"
+    }, 
+    "AID": {
+        "CoinName": "AidCoin", 
+        "Id": "368770"
+    }, 
+    "GNO": {
+        "CoinName": "Gnosis", 
+        "Id": "66193"
+    }, 
+    "AIB": {
+        "CoinName": "AdvancedInternetBlock", 
+        "Id": "20806"
+    }, 
+    "VIBE": {
+        "CoinName": "VIBEHub", 
+        "Id": "336538"
+    }, 
+    "VPRC": {
+        "CoinName": "VapersCoin", 
+        "Id": "20718"
+    }, 
+    "OBITS": {
+        "CoinName": "Obits Coin", 
+        "Id": "15323"
+    }, 
+    "ECASH": {
+        "CoinName": "Ethereum Cash", 
+        "Id": "355117"
+    }, 
+    "NSR": {
+        "CoinName": "NuShares", 
+        "Id": "5295"
+    }, 
+    "OLYMP": {
+        "CoinName": "OlympCoin", 
+        "Id": "29715"
+    }, 
+    "UTC": {
+        "CoinName": "UltraCoin", 
+        "Id": "5012"
+    }, 
+    "UTK": {
+        "CoinName": "Utrust", 
+        "Id": "236358"
+    }, 
+    "UTH": {
+        "CoinName": "Uther", 
+        "Id": "21219"
+    }, 
+    "AERO": {
+        "CoinName": "Aero Coin", 
+        "Id": "4324"
+    }, 
+    "UTN": {
+        "CoinName": "Universa", 
+        "Id": "466492"
+    }, 
+    "IW": {
+        "CoinName": "iWallet", 
+        "Id": "34334"
+    }, 
+    "CLD": {
+        "CoinName": "Cloud", 
+        "Id": "370606"
+    }, 
+    "VOLT": {
+        "CoinName": "BitVolt", 
+        "Id": "55553"
+    }, 
+    "IN": {
+        "CoinName": "InCoin", 
+        "Id": "37210"
+    }, 
+    "XVC": {
+        "CoinName": "Vcash", 
+        "Id": "5303"
+    }, 
+    "MRS": {
+        "CoinName": "MarsCoin", 
+        "Id": "5410"
+    }, 
+    "XVE": {
+        "CoinName": "The Vegan Initiative", 
+        "Id": "59973"
+    }, 
+    "XVG": {
+        "CoinName": "Verge", 
+        "Id": "4433"
+    }, 
+    "SDP": {
+        "CoinName": "SydPakCoin", 
+        "Id": "30019"
+    }, 
+    "SDC": {
+        "CoinName": "ShadowCash", 
+        "Id": "4600"
+    }, 
+    "VLTC": {
+        "CoinName": "VaultCoin", 
+        "Id": "50730"
+    }, 
+    "HBN": {
+        "CoinName": "HoboNickels", 
+        "Id": "4534"
+    }, 
+    "PARA": {
+        "CoinName": "ParanoiaCoin", 
+        "Id": "44957"
+    }, 
+    "EPY": {
+        "CoinName": "Empyrean", 
+        "Id": "7564"
+    }, 
+    "XJO": {
+        "CoinName": "JouleCoin", 
+        "Id": "5027"
+    }, 
+    "BOS": {
+        "CoinName": "BOScoin", 
+        "Id": "116384"
+    }, 
+    "NAN": {
+        "CoinName": "NanoToken", 
+        "Id": "4569"
+    }, 
+    "BOU": {
+        "CoinName": "Boulle", 
+        "Id": "241804"
+    }, 
+    "XUC*": {
+        "CoinName": "UCash", 
+        "Id": "299774"
+    }, 
+    "PART": {
+        "CoinName": "Particl", 
+        "Id": "191116"
+    }, 
+    "NAV": {
+        "CoinName": "NavCoin", 
+        "Id": "4571"
+    }, 
+    "CHESS": {
+        "CoinName": "ChessCoin", 
+        "Id": "22407"
+    }, 
+    "BON": {
+        "CoinName": "BonesCoin", 
+        "Id": "21869"
+    }, 
+    "HBT": {
+        "CoinName": "Hubiit", 
+        "Id": "247391"
+    }, 
+    "BOB": {
+        "CoinName": "Bob Coin", 
+        "Id": "7635"
+    }, 
+    "SHLD": {
+        "CoinName": "ShieldCoin", 
+        "Id": "4603"
+    }, 
+    "BOG": {
+        "CoinName": "Bogcoin", 
+        "Id": "188677"
+    }, 
+    "MBIT": {
+        "CoinName": "Mbitbooks", 
+        "Id": "55547"
+    }, 
+    "SXC": {
+        "CoinName": "SexCoin", 
+        "Id": "4348"
+    }, 
+    "4CHN": {
+        "CoinName": "ChanCoin", 
+        "Id": "175683"
+    }, 
+    "LYB": {
+        "CoinName": "LyraBar", 
+        "Id": "13281"
+    }, 
+    "LYC": {
+        "CoinName": "LycanCoin", 
+        "Id": "4557"
+    }, 
+    "JVY": {
+        "CoinName": "Javvy", 
+        "Id": "331207"
+    }, 
+    "BQC": {
+        "CoinName": "BQCoin", 
+        "Id": "4343"
+    }, 
+    "GOTX": {
+        "CoinName": "GothicCoin", 
+        "Id": "21875"
+    }, 
+    "XSPEC": {
+        "CoinName": "Spectre", 
+        "Id": "42598"
+    }, 
+    "BQX": {
+        "CoinName": "Ethos", 
+        "Id": "141464"
+    }, 
+    "GXC": {
+        "CoinName": "Gx Coin", 
+        "Id": "247350"
+    }, 
+    "2GIVE": {
+        "CoinName": "2GiveCoin", 
+        "Id": "20910"
+    }, 
+    "BAC*": {
+        "CoinName": "LakeBanker", 
+        "Id": "329507"
+    }, 
+    "COC": {
+        "CoinName": "Community Coin", 
+        "Id": "30925"
+    }, 
+    "EBET": {
+        "CoinName": "EthBet", 
+        "Id": "345159"
+    }, 
+    "COE": {
+        "CoinName": "CoEval", 
+        "Id": "201701"
+    }, 
+    "BTPL": {
+        "CoinName": "Bitcoin Planet", 
+        "Id": "182346"
+    }, 
+    "FLY": {
+        "CoinName": "FlyCoin", 
+        "Id": "21370"
+    }, 
+    "FLX": {
+        "CoinName": "Flash", 
+        "Id": "21244"
+    }, 
+    "LKK": {
+        "CoinName": "Lykke", 
+        "Id": "130939"
+    }, 
+    "FLP": {
+        "CoinName": "Gameflip", 
+        "Id": "337863"
+    }, 
+    "FLASH": {
+        "CoinName": "FLASH coin", 
+        "Id": "326222"
+    }, 
+    "FLT": {
+        "CoinName": "FlutterCoin", 
+        "Id": "4449"
+    }, 
+    "32BIT": {
+        "CoinName": "32Bitcoin", 
+        "Id": "30428"
+    }, 
+    "APT": {
+        "CoinName": "Aptcoin", 
+        "Id": "60419"
+    }, 
+    "FLO": {
+        "CoinName": "FlorinCoin", 
+        "Id": "5325"
+    }, 
+    "LKY": {
+        "CoinName": "LuckyCoin", 
+        "Id": "4551"
+    }, 
+    "FIND": {
+        "CoinName": "FindCoin", 
+        "Id": "48807"
+    }, 
+    "VDO": {
+        "CoinName": "VidioCoin", 
+        "Id": "5014"
+    }, 
+    "KLC": {
+        "CoinName": "KiloCoin", 
+        "Id": "33405"
+    }, 
+    "CABS*": {
+        "CoinName": "CyberTrust", 
+        "Id": "357413"
+    }, 
+    "AION": {
+        "CoinName": "Aion", 
+        "Id": "431235"
+    }, 
+    "CON": {
+        "CoinName": "Paycon", 
+        "Id": "12985"
+    }, 
+    "TRI": {
+        "CoinName": "Triangles Coin", 
+        "Id": "5341"
+    }, 
+    "USDE": {
+        "CoinName": "UnitaryStatus Dollar", 
+        "Id": "5011"
+    }, 
+    "TRK": {
+        "CoinName": "TruckCoin", 
+        "Id": "5351"
+    }, 
+    "TRA": {
+        "CoinName": "Tetra", 
+        "Id": "29926"
+    }, 
+    "TRC": {
+        "CoinName": "TerraCoin", 
+        "Id": "4626"
+    }, 
+    "USDT": {
+        "CoinName": "Tether", 
+        "Id": "171986"
+    }, 
+    "TRX": {
+        "CoinName": "Tronix", 
+        "Id": "310829"
+    }, 
+    "KOBO": {
+        "CoinName": "KoboCoin", 
+        "Id": "3642"
+    }, 
+    "ATCC": {
+        "CoinName": "ATC Coin", 
+        "Id": "339419"
+    }, 
+    "SAK": {
+        "CoinName": "SharkCoin", 
+        "Id": "22268"
+    }, 
+    "BCD*": {
+        "CoinName": "BitCAD", 
+        "Id": "419930"
+    }, 
+    "TRV": {
+        "CoinName": "Travel Coin", 
+        "Id": "255293"
+    }, 
+    "SFE": {
+        "CoinName": "Safecoin", 
+        "Id": "30169"
+    }, 
+    "HTC": {
+        "CoinName": "Hitcoin", 
+        "Id": "20153"
+    }, 
+    "LTCX": {
+        "CoinName": "LitecoinX", 
+        "Id": "4555"
+    }, 
+    "MUDRA": {
+        "CoinName": "MudraCoin", 
+        "Id": "25820"
+    }, 
+    "KCN": {
+        "CoinName": "Kencoin", 
+        "Id": "205967"
+    }, 
+    "ALTCOM": {
+        "CoinName": "AltCommunity Coin", 
+        "Id": "369110"
+    }, 
+    "LTCR": {
+        "CoinName": "LiteCreed", 
+        "Id": "38370"
+    }, 
+    "KCS": {
+        "CoinName": "Kucoin", 
+        "Id": "348628"
+    }, 
+    "LK7": {
+        "CoinName": "Lucky7Coin", 
+        "Id": "4550"
+    }, 
+    "BCAP": {
+        "CoinName": "Blockchain Capital", 
+        "Id": "72955"
+    }, 
+    "ZUR": {
+        "CoinName": "Zurcoin", 
+        "Id": "30391"
+    }, 
+    "QASH": {
+        "CoinName": "Quoine Liquid", 
+        "Id": "402714"
+    }, 
+    "FIBRE": {
+        "CoinName": "FIBRE", 
+        "Id": "4448"
+    }, 
+    "NXTI": {
+        "CoinName": "NXTI", 
+        "Id": "3650"
+    }, 
+    "CABS": {
+        "CoinName": "CryptoABS", 
+        "Id": "196986"
+    }, 
+    "SILK": {
+        "CoinName": "SilkCoin", 
+        "Id": "4604"
+    }, 
+    "MOJO": {
+        "CoinName": "Mojocoin", 
+        "Id": "21232"
+    }, 
+    "BCO*": {
+        "CoinName": "BridgeCoin", 
+        "Id": "422188"
+    }, 
+    "MCRN": {
+        "CoinName": "MacronCoin", 
+        "Id": "67430"
+    }, 
+    "TECH": {
+        "CoinName": "TechCoin", 
+        "Id": "43595"
+    }, 
+    "ODN": {
+        "CoinName": "Obsidian", 
+        "Id": "319075"
+    }, 
+    "UET": {
+        "CoinName": "Useless Ethereum Token", 
+        "Id": "191037"
+    }, 
+    "RRT": {
+        "CoinName": "Recovery Right Tokens", 
+        "Id": "30020"
+    }, 
+    "ICOS": {
+        "CoinName": "ICOBox", 
+        "Id": "207775"
+    }, 
+    "WNET": {
+        "CoinName": "Wavesnode.net", 
+        "Id": "206512"
+    }, 
+    "OLV": {
+        "CoinName": "OldV", 
+        "Id": "75285"
+    }, 
+    "ELM": {
+        "CoinName": "Elements", 
+        "Id": "339933"
+    }, 
+    "ELC": {
+        "CoinName": "Elacoin", 
+        "Id": "4439"
+    }, 
+    "J": {
+        "CoinName": "JoinCoin", 
+        "Id": "5335"
+    }, 
+    "ELE": {
+        "CoinName": "Elementrem", 
+        "Id": "30550"
+    }, 
+    "RDD": {
+        "CoinName": "ReddCoin", 
+        "Id": "4592"
+    }, 
+    "ICOB": {
+        "CoinName": "Icobid", 
+        "Id": "34499"
+    }, 
+    "ELS": {
+        "CoinName": "Elysium", 
+        "Id": "42685"
+    }, 
+    "RDN": {
+        "CoinName": "RadonPay", 
+        "Id": "6098"
+    }, 
+    "AEON": {
+        "CoinName": "AeonCoin", 
+        "Id": "20730"
+    }, 
+    "ICOO": {
+        "CoinName": "ICO OpenLedger", 
+        "Id": "199363"
+    }, 
+    "ICON": {
+        "CoinName": "Iconic", 
+        "Id": "35825"
+    }, 
+    "BCCOIN": {
+        "CoinName": "BitConnect Coin", 
+        "Id": "35165"
+    }, 
+    "SMLY": {
+        "CoinName": "SmileyCoin", 
+        "Id": "8694"
+    }, 
+    "LEO": {
+        "CoinName": "LEOcoin", 
+        "Id": "33001"
+    }, 
+    "EXIT": {
+        "CoinName": "ExitCoin", 
+        "Id": "22180"
+    }, 
+    "LEV": {
+        "CoinName": "Leverj", 
+        "Id": "332804"
+    }, 
+    "STHR": {
+        "CoinName": "Stakerush", 
+        "Id": "21833"
+    }, 
+    "CQST": {
+        "CoinName": "ConquestCoin", 
+        "Id": "37195"
+    }, 
+    "USC": {
+        "CoinName": "Ultimate Secure Cash", 
+        "Id": "100954"
+    }, 
+    "ONION": {
+        "CoinName": "DeepOnion", 
+        "Id": "198967"
+    }, 
+    "WAN": {
+        "CoinName": "Wanchain", 
+        "Id": "240142"
+    }, 
+    "CAT*": {
+        "CoinName": "BitClave", 
+        "Id": "185689"
+    }, 
+    "ARGUS": {
+        "CoinName": "ArgusCoin", 
+        "Id": "70352"
+    }, 
+    "BRONZ": {
+        "CoinName": "BitBronze", 
+        "Id": "28888"
+    }, 
+    "XWC": {
+        "CoinName": "WhiteCoin", 
+        "Id": "20338"
+    }, 
+    "BNB*": {
+        "CoinName": "Boats and Bitches", 
+        "Id": "60622"
+    }, 
+    "AURS": {
+        "CoinName": "Aureus", 
+        "Id": "341400"
+    }, 
+    "STAR*": {
+        "CoinName": "StarCoin", 
+        "Id": "21775"
+    }, 
+    "PXI": {
+        "CoinName": "Prime-X1", 
+        "Id": "15274"
+    }, 
+    "XIOS": {
+        "CoinName": "Xios", 
+        "Id": "360740"
+    }, 
+    "PXL": {
+        "CoinName": "Phalanx", 
+        "Id": "20580"
+    }, 
+    "PXC": {
+        "CoinName": "PhoenixCoin", 
+        "Id": "4590"
+    }, 
+    "BNTY": {
+        "CoinName": "Bounty0x", 
+        "Id": "543363"
+    }, 
+    "PHR*": {
+        "CoinName": "Phore", 
+        "Id": "377831"
+    }, 
+    "CNT": {
+        "CoinName": "Centurion", 
+        "Id": "70365"
+    }, 
+    "ICN": {
+        "CoinName": "Iconomi", 
+        "Id": "25921"
+    }, 
+    "FIRE": {
+        "CoinName": "FireCoin", 
+        "Id": "29196"
+    }, 
+    "ICB": {
+        "CoinName": "IceBergCoin", 
+        "Id": "4538"
+    }, 
+    "ICE": {
+        "CoinName": "iDice", 
+        "Id": "199004"
+    }, 
+    "START": {
+        "CoinName": "StartCoin", 
+        "Id": "5289"
+    }, 
+    "CND": {
+        "CoinName": "Cindicator", 
+        "Id": "338070"
+    }, 
+    "ICX": {
+        "CoinName": "ICON Project", 
+        "Id": "324068"
+    }, 
+    "CNC": {
+        "CoinName": "ChinaCoin", 
+        "Id": "4420"
+    }, 
+    "CNO": {
+        "CoinName": "Coino", 
+        "Id": "42438"
+    }, 
+    "CNL": {
+        "CoinName": "ConcealCoin", 
+        "Id": "4421"
+    }, 
+    "ZCG": {
+        "CoinName": "ZCashGOLD", 
+        "Id": "431170"
+    }, 
+    "KAYI": {
+        "CoinName": "Kay\u0131", 
+        "Id": "57705"
+    }, 
+    "ZCC": {
+        "CoinName": "ZCC Coin", 
+        "Id": "5035"
+    }, 
+    "ZCL": {
+        "CoinName": "ZClassic", 
+        "Id": "32544"
+    }, 
+    "SNOV": {
+        "CoinName": "Snovio", 
+        "Id": "311853"
+    }, 
+    "PFR": {
+        "CoinName": "PayFair", 
+        "Id": "409155"
+    }, 
+    "FAZZ": {
+        "CoinName": "FazzCoin", 
+        "Id": "60409"
+    }, 
+    "INCNT": {
+        "CoinName": "Incent", 
+        "Id": "35823"
+    }, 
+    "INDI": {
+        "CoinName": "IndiCoin", 
+        "Id": "351078"
+    }, 
+    "RATIO": {
+        "CoinName": "Ratio", 
+        "Id": "43046"
+    }, 
+    "TRICK": {
+        "CoinName": "TrickyCoin", 
+        "Id": "34483"
+    }, 
+    "SIB": {
+        "CoinName": "SibCoin", 
+        "Id": "20745"
+    }, 
+    "JWL": {
+        "CoinName": "Jewels", 
+        "Id": "27674"
+    }, 
+    "ACES": {
+        "CoinName": "AcesCoin", 
+        "Id": "45617"
+    }, 
+    "GAIA": {
+        "CoinName": "GAIA Platform", 
+        "Id": "5383"
+    }, 
+    "TAT": {
+        "CoinName": "Tatiana Coin", 
+        "Id": "43933"
+    }, 
+    "TAU": {
+        "CoinName": "Lamden Tau", 
+        "Id": "405291"
+    }, 
+    "COV*": {
+        "CoinName": "CovenCoin", 
+        "Id": "28151"
+    }, 
+    "KRONE": {
+        "CoinName": "Kronecoin", 
+        "Id": "247703"
+    }, 
+    "BBT*": {
+        "CoinName": "BrickBlock", 
+        "Id": "198474"
+    }, 
+    "TKT": {
+        "CoinName": "Crypto Tickets", 
+        "Id": "311176"
+    }, 
+    "ALTOCAR": {
+        "CoinName": "AltoCar", 
+        "Id": "240439"
+    }, 
+    "TAG": {
+        "CoinName": "TagCoin", 
+        "Id": "4619"
+    }, 
+    "TAB": {
+        "CoinName": "MollyCoin", 
+        "Id": "27993"
+    }, 
+    "TAM": {
+        "CoinName": "TamaGucci", 
+        "Id": "6411"
+    }, 
+    "TAJ": {
+        "CoinName": "TajCoin", 
+        "Id": "57750"
+    }, 
+    "TAK": {
+        "CoinName": "TakCoin", 
+        "Id": "4620"
+    }, 
+    "JIF": {
+        "CoinName": "JiffyCoin", 
+        "Id": "30177"
+    }, 
+    "BTCZ": {
+        "CoinName": "BitcoinZ", 
+        "Id": "327184"
+    }, 
+    "BTCS": {
+        "CoinName": "Bitcoin Scrypt", 
+        "Id": "71321"
+    }, 
+    "BTCR": {
+        "CoinName": "BitCurrency", 
+        "Id": "28764"
+    }, 
+    "GIZ": {
+        "CoinName": "GIZMOcoin", 
+        "Id": "21378"
+    }, 
+    "EON": {
+        "CoinName": "Exscudo", 
+        "Id": "255546"
+    }, 
+    "GIG": {
+        "CoinName": "GigCoin", 
+        "Id": "5366"
+    }, 
+    "BTCM": {
+        "CoinName": "BTCMoon", 
+        "Id": "429400"
+    }, 
+    "BTCL": {
+        "CoinName": "BTC Lite", 
+        "Id": "486837"
+    }, 
+    "REBL": {
+        "CoinName": "Rebellious", 
+        "Id": "370889"
+    }, 
+    "BTCA": {
+        "CoinName": "Bitair", 
+        "Id": "531559"
+    }, 
+    "BTCE": {
+        "CoinName": "EthereumBitcoin", 
+        "Id": "463700"
+    }, 
+    "BTCD": {
+        "CoinName": "BitcoinDark", 
+        "Id": "4400"
+    }, 
+    "LOOK": {
+        "CoinName": "LookCoin", 
+        "Id": "36984"
+    }, 
+    "NPC": {
+        "CoinName": "NPCcoin", 
+        "Id": "34491"
+    }, 
+    "NPX": {
+        "CoinName": "Napoleon X", 
+        "Id": "187015"
+    }, 
+    "AHT": {
+        "CoinName": "Ahoolee", 
+        "Id": "175611"
+    }, 
+    "RICE": {
+        "CoinName": "RiceCoin", 
+        "Id": "78190"
+    }, 
+    "GUE": {
+        "CoinName": "GuerillaCoin", 
+        "Id": "4532"
+    }, 
+    "TSE": {
+        "CoinName": "TattooCoin", 
+        "Id": "49610"
+    }, 
+    "GUP": {
+        "CoinName": "Guppy", 
+        "Id": "67096"
+    }, 
+    "BOXY": {
+        "CoinName": "BoxyCoin", 
+        "Id": "465681"
+    }, 
+    "ESP": {
+        "CoinName": "Espers", 
+        "Id": "130951"
+    }, 
+    "MARYJ": {
+        "CoinName": "MaryJane Coin", 
+        "Id": "5363"
+    }, 
+    "HUC": {
+        "CoinName": "HunterCoin", 
+        "Id": "4535"
+    }, 
+    "SPORT": {
+        "CoinName": "SportsCoin", 
+        "Id": "29200"
+    }, 
+    "ITNS": {
+        "CoinName": "IntenseCoin", 
+        "Id": "522090"
+    }, 
+    "BLX": {
+        "CoinName": "Blockchain Index", 
+        "Id": "241634"
+    }, 
+    "BLU": {
+        "CoinName": "BlueCoin", 
+        "Id": "4340"
+    }, 
+    "TRCT": {
+        "CoinName": "Tracto", 
+        "Id": "371004"
+    }, 
+    "HCC": {
+        "CoinName": "HappyCreatorCoin ", 
+        "Id": "30371"
+    }, 
+    "SJCX": {
+        "CoinName": "StorjCoin", 
+        "Id": "5288"
+    }, 
+    "BLK": {
+        "CoinName": "BlackCoin", 
+        "Id": "4339"
+    }, 
+    "CRACK": {
+        "CoinName": "CrackCoin", 
+        "Id": "4424"
+    }, 
+    "SPRTS": {
+        "CoinName": "Sprouts", 
+        "Id": "8761"
+    }, 
+    "RUP": {
+        "CoinName": "Rupee", 
+        "Id": "345801"
+    }, 
+    "BLC": {
+        "CoinName": "BlakeCoin", 
+        "Id": "5362"
+    }, 
+    "GCR": {
+        "CoinName": "Global Currency Reserve", 
+        "Id": "12217"
+    }, 
+    "EMC2": {
+        "CoinName": "Einsteinium", 
+        "Id": "4440"
+    }, 
+    "EKO": {
+        "CoinName": "EkoCoin", 
+        "Id": "22328"
+    }, 
+    "EKN": {
+        "CoinName": "Elektron", 
+        "Id": "5281"
+    }, 
+    "REX": {
+        "CoinName": "REX", 
+        "Id": "310589"
+    }, 
+    "REP": {
+        "CoinName": "Augur", 
+        "Id": "17778"
+    }, 
+    "REQ": {
+        "CoinName": "Request Network", 
+        "Id": "335059"
+    }, 
+    "REV": {
+        "CoinName": "Revenu", 
+        "Id": "22169"
+    }, 
+    "XMRG": {
+        "CoinName": "Monero Gold", 
+        "Id": "463101"
+    }, 
+    "REC": {
+        "CoinName": "Regalcoin", 
+        "Id": "322013"
+    }, 
+    "REA": {
+        "CoinName": "Realisto", 
+        "Id": "362039"
+    }, 
+    "RED": {
+        "CoinName": "Redcoin", 
+        "Id": "79864"
+    }, 
+    "REE": {
+        "CoinName": "ReeCoin", 
+        "Id": "22418"
+    }, 
+    "CLAM": {
+        "CoinName": "CLAMS", 
+        "Id": "4416"
+    }, 
+    "FCT": {
+        "CoinName": "Factoids", 
+        "Id": "13280"
+    }, 
+    "LFC": {
+        "CoinName": "BigLifeCoin", 
+        "Id": "30388"
+    }, 
+    "LGD*": {
+        "CoinName": "Legendary Coin", 
+        "Id": "4549"
+    }, 
+    "FUZZ": {
+        "CoinName": "Fuzzballs", 
+        "Id": "21708"
+    }, 
+    "FCN": {
+        "CoinName": "FantomCoin ", 
+        "Id": "5385"
+    }, 
+    "LTS": {
+        "CoinName": "Litestar Coin", 
+        "Id": "7600"
+    }, 
+    "FC2": {
+        "CoinName": "Fuel2Coin", 
+        "Id": "4446"
+    }, 
+    "LTC": {
+        "CoinName": "Litecoin", 
+        "Id": "3808"
+    }, 
+    "VEG": {
+        "CoinName": "BitVegan", 
+        "Id": "55544"
+    }, 
+    "LTA": {
+        "CoinName": "Litra", 
+        "Id": "234526"
+    }, 
+    "VEE": {
+        "CoinName": "BLOCKv", 
+        "Id": "306482"
+    }, 
+    "LTG": {
+        "CoinName": "LiteCoin Gold", 
+        "Id": "409422"
+    }, 
+    "LTD": {
+        "CoinName": "Limited Coin", 
+        "Id": "38030"
+    }, 
+    "VEN": {
+        "CoinName": "Vechain", 
+        "Id": "236131"
+    }, 
+    "LTH": {
+        "CoinName": "Lathaan", 
+        "Id": "28885"
+    }, 
+    "SP": {
+        "CoinName": "Sex Pistols", 
+        "Id": "33332"
+    }, 
+    "HNC*": {
+        "CoinName": "Huncoin", 
+        "Id": "373880"
+    }, 
+    "SH": {
+        "CoinName": "Shilling", 
+        "Id": "28890"
+    }, 
+    "SC": {
+        "CoinName": "Siacoin", 
+        "Id": "13072"
+    }, 
+    "GUNS": {
+        "CoinName": "GeoFunders", 
+        "Id": "185625"
+    }, 
+    "GLYPH": {
+        "CoinName": "GlyphCoin", 
+        "Id": "4530"
+    }, 
+    "RUSTBITS": {
+        "CoinName": "Rustbits", 
+        "Id": "310553"
+    }, 
+    "SSV": {
+        "CoinName": "SSVCoin", 
+        "Id": "4613"
+    }, 
+    "FUTC": {
+        "CoinName": "FutCoin", 
+        "Id": "6343"
+    }, 
+    "CAS": {
+        "CoinName": "Cashaa", 
+        "Id": "319254"
+    }, 
+    "CAP": {
+        "CoinName": "BottleCaps", 
+        "Id": "4408"
+    }, 
+    "CAV": {
+        "CoinName": "Caviar", 
+        "Id": "340776"
+    }, 
+    "CAT": {
+        "CoinName": "Catcoin", 
+        "Id": "4410"
+    }, 
+    "CAM": {
+        "CoinName": "Camcoin", 
+        "Id": "5398"
+    }, 
+    "CAB": {
+        "CoinName": "CabbageUnit", 
+        "Id": "20212"
+    }, 
+    "STEX": {
+        "CoinName": "STEX", 
+        "Id": "404775"
+    }, 
+    "CAG": {
+        "CoinName": "Change", 
+        "Id": "341422"
+    }, 
+    "BXC": {
+        "CoinName": "Bitcedi", 
+        "Id": "45031"
+    }, 
+    "WRC": {
+        "CoinName": "Worldcore", 
+        "Id": "296844"
+    }, 
+    "INCP": {
+        "CoinName": "InceptionCoin", 
+        "Id": "22264"
+    }, 
+    "MRSA": {
+        "CoinName": "MrsaCoin", 
+        "Id": "41116"
+    }, 
+    "BTD": {
+        "CoinName": "Bitcloud", 
+        "Id": "28089"
+    }, 
+    "SHREK": {
+        "CoinName": "ShrekCoin", 
+        "Id": "21907"
+    }, 
+    "PGL": {
+        "CoinName": "Prospectors", 
+        "Id": "222125"
+    }, 
+    "XCP": {
+        "CoinName": "CounterParty", 
+        "Id": "5292"
+    }, 
+    "COAL": {
+        "CoinName": "BitCoal", 
+        "Id": "453581"
+    }, 
+    "DYN": {
+        "CoinName": "Dynamic", 
+        "Id": "131111"
+    }, 
+    "PTOY": {
+        "CoinName": "Patientory", 
+        "Id": "129035"
+    }, 
+    "WCT": {
+        "CoinName": "Waves Community Token", 
+        "Id": "43042"
+    }, 
+    "611": {
+        "CoinName": "SixEleven", 
+        "Id": "20909"
+    }, 
+    "RAIN": {
+        "CoinName": "Condensate", 
+        "Id": "67462"
+    }, 
+    "ZRX": {
+        "CoinName": "0x", 
+        "Id": "186277"
+    }, 
+    "GRID": {
+        "CoinName": "Grid+", 
+        "Id": "385907"
+    }, 
+    "CREA": {
+        "CoinName": "CreativeChain", 
+        "Id": "48787"
+    }, 
+    "CACH": {
+        "CoinName": "Cachecoin", 
+        "Id": "4405"
+    }, 
+    "MBI": {
+        "CoinName": "Monster Byte Inc", 
+        "Id": "180539"
+    }, 
+    "HZT": {
+        "CoinName": "HazMatCoin", 
+        "Id": "35811"
+    }, 
+    "PROC": {
+        "CoinName": "ProCurrency", 
+        "Id": "71334"
+    }, 
+    "NIMFA": {
+        "CoinName": "Nimfamoney", 
+        "Id": "234596"
+    }, 
+    "ZNA": {
+        "CoinName": "Zenome", 
+        "Id": "318794"
+    }, 
+    "XXX": {
+        "CoinName": "XXXCoin", 
+        "Id": "5033"
+    }, 
+    "MIL": {
+        "CoinName": "Milllionaire Coin", 
+        "Id": "7581"
+    }, 
+    "ZNE": {
+        "CoinName": "ZoneCoin", 
+        "Id": "28227"
+    }, 
+    "MIN": {
+        "CoinName": "Minerals Coin", 
+        "Id": "4561"
+    }, 
+    "CNBC": {
+        "CoinName": "Cash & Back Coin", 
+        "Id": "431621"
+    }, 
+    "ACT*": {
+        "CoinName": "Achain", 
+        "Id": "446372"
+    }, 
+    "LINK": {
+        "CoinName": "ChainLink", 
+        "Id": "309621"
+    }, 
+    "DKC": {
+        "CoinName": "DarkKnightCoin", 
+        "Id": "30920"
+    }, 
+    "GHC": {
+        "CoinName": "GhostCoin", 
+        "Id": "5336"
+    }, 
+    "MNY": {
+        "CoinName": "Monkey", 
+        "Id": "208001"
+    }, 
+    "MIS": {
+        "CoinName": "MIScoin", 
+        "Id": "37190"
+    }, 
+    "MIV": {
+        "CoinName": "MakeItViral", 
+        "Id": "177759"
+    }, 
+    "MEOW": {
+        "CoinName": "Kittehcoin", 
+        "Id": "431370"
+    }, 
+    "STRAT": {
+        "CoinName": "Stratis", 
+        "Id": "24294"
+    }, 
+    "VIDZ": {
+        "CoinName": "PureVidz", 
+        "Id": "38964"
+    }, 
+    "XZC": {
+        "CoinName": "ZCoin", 
+        "Id": "30022"
+    }, 
+    "MNZ": {
+        "CoinName": "Monaize", 
+        "Id": "341059"
+    }, 
+    "DGORE": {
+        "CoinName": "DogeGoreCoin", 
+        "Id": "29904"
+    }, 
+    "URO": {
+        "CoinName": "UroCoin", 
+        "Id": "4631"
+    }, 
+    "BCOIN": {
+        "CoinName": "BannerCoin", 
+        "Id": "536905"
+    }, 
+    "IPC": {
+        "CoinName": "ImperialCoin", 
+        "Id": "182396"
+    }, 
+    "PYP": {
+        "CoinName": "PayPro", 
+        "Id": "491325"
+    }, 
+    "SFR": {
+        "CoinName": "SaffronCoin", 
+        "Id": "4601"
+    }, 
+    "ASTRO": {
+        "CoinName": "Astronaut", 
+        "Id": "387875"
+    }, 
+    "PYN": {
+        "CoinName": "Paycentos", 
+        "Id": "304833"
+    }, 
+    "PYC": {
+        "CoinName": "PayCoin", 
+        "Id": "4591"
+    }, 
+    "SFC": {
+        "CoinName": "Solarflarecoin", 
+        "Id": "44952"
+    }, 
+    "NAS2": {
+        "CoinName": "Nas2Coin", 
+        "Id": "16717"
+    }, 
+    "XLM": {
+        "CoinName": "Stellar", 
+        "Id": "4614"
+    }, 
+    "NGC": {
+        "CoinName": "NagaCoin", 
+        "Id": "466339"
+    }, 
+    "KORE": {
+        "CoinName": "Kore", 
+        "Id": "5318"
+    }, 
+    "XLC": {
+        "CoinName": "LeviarCoin", 
+        "Id": "198337"
+    }, 
+    "XLB": {
+        "CoinName": "LibertyCoin", 
+        "Id": "5028"
+    }, 
+    "HDG": {
+        "CoinName": "Hedge Token", 
+        "Id": "237407"
+    }, 
+    "BLOCKPAY": {
+        "CoinName": "BlockPay", 
+        "Id": "28204"
+    }, 
+    "XLR": {
+        "CoinName": "Solaris", 
+        "Id": "61061"
+    }, 
+    "BMC": {
+        "CoinName": "Blackmoon Crypto", 
+        "Id": "304184"
+    }, 
+    "DENT": {
+        "CoinName": "Dent", 
+        "Id": "141331"
+    }, 
+    "BMT": {
+        "CoinName": "BMChain", 
+        "Id": "481737"
+    }, 
+    "XVP": {
+        "CoinName": "VirtacoinPlus", 
+        "Id": "57734"
+    }, 
+    "SHP": {
+        "CoinName": "Sharpe Capital", 
+        "Id": "364472"
+    }, 
+    "BM*": {
+        "CoinName": "Bitcomo", 
+        "Id": "345544"
+    }, 
+    "NUBIS": {
+        "CoinName": "NubisCoin", 
+        "Id": "30393"
+    }, 
+    "EA": {
+        "CoinName": "EagleCoin", 
+        "Id": "45821"
+    }, 
+    "EC": {
+        "CoinName": "Eclipse", 
+        "Id": "30367"
+    }, 
+    "POSW": {
+        "CoinName": "PoSWallet", 
+        "Id": "35030"
+    }, 
+    "POST": {
+        "CoinName": "PostCoin", 
+        "Id": "20444"
+    }, 
+    "BRIT": {
+        "CoinName": "BritCoin", 
+        "Id": "182416"
+    }, 
+    "EQ": {
+        "CoinName": "EQUI", 
+        "Id": "198698"
+    }, 
+    "EBCH": {
+        "CoinName": "eBitcoinCash", 
+        "Id": "371095"
+    }, 
+    "TRIBE": {
+        "CoinName": "TribeToken", 
+        "Id": "186253"
+    }, 
+    "ECA": {
+        "CoinName": "Electra", 
+        "Id": "409249"
+    }, 
+    "MGO": {
+        "CoinName": "MobileGo", 
+        "Id": "55650"
+    }, 
+    "PULSE": {
+        "CoinName": "Pulse", 
+        "Id": "21012"
+    }, 
+    "XPTX": {
+        "CoinName": "PlatinumBAR", 
+        "Id": "385933"
+    }, 
+    "AMIS": {
+        "CoinName": "AMIS", 
+        "Id": "57676"
+    }, 
+    "STOCKBET": {
+        "CoinName": "StockBet", 
+        "Id": "313988"
+    }, 
+    "ADST": {
+        "CoinName": "Adshares", 
+        "Id": "194530"
+    }, 
+    "LUX": {
+        "CoinName": "LUXCoin", 
+        "Id": "351720"
+    }, 
+    "SPHR": {
+        "CoinName": "Sphere Coin", 
+        "Id": "6111"
+    }, 
+    "ISL": {
+        "CoinName": "IslaCoin", 
+        "Id": "6094"
+    }, 
+    "OCTO": {
+        "CoinName": "OctoCoin", 
+        "Id": "5393"
+    }, 
+    "LUN": {
+        "CoinName": "Lunyr", 
+        "Id": "67447"
+    }, 
+    "TENNET": {
+        "CoinName": "Tennet", 
+        "Id": "30421"
+    }, 
+    "EPY*": {
+        "CoinName": "Emphy", 
+        "Id": "388076"
+    }, 
+    "SDAO": {
+        "CoinName": "Solar DAO", 
+        "Id": "203183"
+    }, 
+    "QTZ": {
+        "CoinName": "Quartz", 
+        "Id": "7595"
+    }, 
+    "BITB": {
+        "CoinName": "BitBean", 
+        "Id": "4338"
+    }, 
+    "WPR": {
+        "CoinName": "WePower", 
+        "Id": "355242"
+    }, 
+    "BITZ": {
+        "CoinName": "Bitz Coin", 
+        "Id": "7626"
+    }, 
+    "X2": {
+        "CoinName": "X2Coin", 
+        "Id": "29376"
+    }, 
+    "QTL": {
+        "CoinName": "Quatloo", 
+        "Id": "4349"
+    }, 
+    "APPC": {
+        "CoinName": "AppCoins", 
+        "Id": "346812"
+    }, 
+    "BTE": {
+        "CoinName": "ByteCoin", 
+        "Id": "4401"
+    }, 
+    "VTA": {
+        "CoinName": "VirtaCoin", 
+        "Id": "20680"
+    }, 
+    "MED": {
+        "CoinName": "MediterraneanCoin", 
+        "Id": "4560"
+    }, 
+    "VTC": {
+        "CoinName": "VertCoin", 
+        "Id": "5018"
+    }, 
+    "XC": {
+        "CoinName": "X11 Coin", 
+        "Id": "5024"
+    }, 
+    "XG": {
+        "CoinName": "XG Sports", 
+        "Id": "5376"
+    }, 
+    "ATMS": {
+        "CoinName": "Atmos", 
+        "Id": "61902"
+    }, 
+    "VTR": {
+        "CoinName": "Vtorrent", 
+        "Id": "5372"
+    }, 
+    "XAI*": {
+        "CoinName": "AICoin", 
+        "Id": "191228"
+    }, 
+    "VTX": {
+        "CoinName": "Vertex", 
+        "Id": "30377"
+    }, 
+    "XP": {
+        "CoinName": "XP", 
+        "Id": "318154"
+    }, 
+    "XT": {
+        "CoinName": "ExtremeCoin", 
+        "Id": "24885"
+    }, 
+    "KEK": {
+        "CoinName": "KekCoin", 
+        "Id": "368743"
+    }, 
+    "HVN": {
+        "CoinName": "Hive", 
+        "Id": "179329"
+    }, 
+    "ZENI": {
+        "CoinName": "Zennies", 
+        "Id": "56253"
+    }, 
+    "BITS": {
+        "CoinName": "BitstarCoin", 
+        "Id": "5368"
+    }, 
+    "HVC": {
+        "CoinName": "HeavyCoin", 
+        "Id": "4536"
+    }, 
+    "KED": {
+        "CoinName": "Klingon Empire Darsek", 
+        "Id": "42435"
+    }, 
+    "CRAVE": {
+        "CoinName": "CraveCoin", 
+        "Id": "5304"
+    }, 
+    "KEY": {
+        "CoinName": "KeyCoin", 
+        "Id": "4546"
+    }, 
+    "KEX": {
+        "CoinName": "KexCoin", 
+        "Id": "234766"
+    }, 
+    "M1": {
+        "CoinName": "SupplyShock", 
+        "Id": "6115"
+    }, 
+    "BITCNY": {
+        "CoinName": "bitCNY", 
+        "Id": "28019"
+    }, 
+    "888": {
+        "CoinName": "Octocoin", 
+        "Id": "29462"
+    }, 
+    "ZSE": {
+        "CoinName": "ZSEcoin", 
+        "Id": "79875"
+    }, 
+    "WBB": {
+        "CoinName": "Wild Beast Coin", 
+        "Id": "5319"
+    }, 
+    "DUCK": {
+        "CoinName": "DuckDuckCoin", 
+        "Id": "56678"
+    }, 
+    "NDOGE": {
+        "CoinName": "NinjaDoge", 
+        "Id": "45044"
+    }, 
+    "DPAY": {
+        "CoinName": "DelightPay", 
+        "Id": "29718"
+    }, 
+    "EMIGR": {
+        "CoinName": "EmiratesGoldCoin", 
+        "Id": "29556"
+    }, 
+    "RPC": {
+        "CoinName": "RonPaulCoin", 
+        "Id": "4594"
+    }, 
+    "TWLV": {
+        "CoinName": "Twelve Coin", 
+        "Id": "6105"
+    }, 
+    "TEAM": {
+        "CoinName": "TeamUP", 
+        "Id": "30523"
+    }, 
+    "NODE": {
+        "CoinName": "Node", 
+        "Id": "5402"
+    }, 
+    "RBY": {
+        "CoinName": "RubyCoin", 
+        "Id": "5316"
+    }, 
+    "RBX": {
+        "CoinName": "RiptoBuX", 
+        "Id": "73143"
+    }, 
+    "DOPE": {
+        "CoinName": "DopeCoin", 
+        "Id": "28332"
+    }, 
+    "RBT": {
+        "CoinName": "Rimbit", 
+        "Id": "8695"
+    }, 
+    "RBR": {
+        "CoinName": "Ribbit Rewards", 
+        "Id": "5399"
+    }, 
+    "STORJ": {
+        "CoinName": "Storj", 
+        "Id": "187347"
+    }, 
+    "STORM": {
+        "CoinName": "Storm", 
+        "Id": "186875"
+    }, 
+    "HXT": {
+        "CoinName": "HextraCoin", 
+        "Id": "338018"
+    }, 
+    "VERI": {
+        "CoinName": "Veritaseum", 
+        "Id": "136211"
+    }, 
+    "HXX": {
+        "CoinName": "HexxCoin", 
+        "Id": "41868"
+    }, 
+    "DRGN": {
+        "CoinName": "Dragonchain", 
+        "Id": "355702"
+    }, 
+    "OTN": {
+        "CoinName": "Open Trading Network", 
+        "Id": "370726"
+    }, 
+    "SMNX": {
+        "CoinName": "SMNX", 
+        "Id": "218221"
+    }, 
+    "LGD": {
+        "CoinName": "Legends Cryptocurrency", 
+        "Id": "66259"
+    }, 
+    "OTX": {
+        "CoinName": "Octanox", 
+        "Id": "188294"
+    }, 
+    "BTC": {
+        "CoinName": "Bitcoin", 
+        "Id": "1182"
+    }, 
+    "ROCK*": {
+        "CoinName": "RocketCoin ", 
+        "Id": "384950"
+    }, 
+    "FUEL": {
+        "CoinName": "Etherparty", 
+        "Id": "292748"
+    }, 
+    "AXR": {
+        "CoinName": "AXRON", 
+        "Id": "4334"
+    }, 
+    "AXT": {
+        "CoinName": "AIX", 
+        "Id": "372029"
+    }, 
+    "UQC": {
+        "CoinName": "Uquid Coin", 
+        "Id": "418694"
+    }, 
+    "BTB": {
+        "CoinName": "BitBar", 
+        "Id": "4399"
+    }, 
+    "VTY": {
+        "CoinName": "Victoriouscoin", 
+        "Id": "30126"
+    }, 
+    "BIGUP": {
+        "CoinName": "BigUp", 
+        "Id": "20819"
+    }, 
+    "TIX": {
+        "CoinName": "Blocktix", 
+        "Id": "175671"
+    }, 
+    "LCASH": {
+        "CoinName": "LitecoinCash", 
+        "Id": "378830"
+    }, 
+    "RDN*": {
+        "CoinName": "Raiden Network", 
+        "Id": "372369"
+    }, 
+    "TRIP": {
+        "CoinName": "Trippki", 
+        "Id": "329767"
+    }, 
+    "PZM": {
+        "CoinName": "Prizm", 
+        "Id": "77306"
+    }, 
+    "TIT": {
+        "CoinName": "TitCoin", 
+        "Id": "4624"
+    }, 
+    "IWT": {
+        "CoinName": "IwToken", 
+        "Id": "232556"
+    }, 
+    "BM": {
+        "CoinName": "BitMoon", 
+        "Id": "24405"
+    }, 
+    "C20": {
+        "CoinName": "Crypto20", 
+        "Id": "339632"
+    }, 
+    "KNC*": {
+        "CoinName": "Khancoin", 
+        "Id": "20211"
+    }, 
+    "SOON": {
+        "CoinName": "SoonCoin", 
+        "Id": "5403"
+    }, 
+    "DASH": {
+        "CoinName": "DigitalCash", 
+        "Id": "3807"
+    }, 
+    "BSTAR": {
+        "CoinName": "Blackstar", 
+        "Id": "35684"
+    }, 
+    "FRAZ": {
+        "CoinName": "FrazCoin", 
+        "Id": "247259"
+    }, 
+    "BURST": {
+        "CoinName": "BurstCoin", 
+        "Id": "5286"
+    }, 
+    "ZAB": {
+        "CoinName": "ZABERcoin", 
+        "Id": "363992"
+    }, 
+    "QWARK": {
+        "CoinName": "Qwark", 
+        "Id": "116425"
+    }, 
+    "MZC": {
+        "CoinName": "MazaCoin", 
+        "Id": "4568"
+    }, 
+    "PHS": {
+        "CoinName": "PhilosophersStone", 
+        "Id": "4585"
+    }, 
+    "PHR": {
+        "CoinName": "Phreak", 
+        "Id": "77337"
+    }, 
+    "XSEED": {
+        "CoinName": "BitSeeds", 
+        "Id": "8683"
+    }, 
+    "GUESS": {
+        "CoinName": "Peerguess", 
+        "Id": "327608"
+    }, 
+    "UAEC": {
+        "CoinName": "United Arab Emirates Coin", 
+        "Id": "45816"
+    }, 
+    "JOBS": {
+        "CoinName": "JobsCoin", 
+        "Id": "29762"
+    }, 
+    "SKR": {
+        "CoinName": "Sakuracoin", 
+        "Id": "385866"
+    }, 
+    "SKY": {
+        "CoinName": "Skycoin", 
+        "Id": "136269"
+    }, 
+    "SKB": {
+        "CoinName": "SkullBuzz", 
+        "Id": "6099"
+    }, 
+    "TRST": {
+        "CoinName": "TrustCoin", 
+        "Id": "37040"
+    }, 
+    "GES": {
+        "CoinName": "Galaxy eSolutions", 
+        "Id": "377508"
+    }, 
+    "GER": {
+        "CoinName": "GermanCoin", 
+        "Id": "531089"
+    }, 
+    "WISH*": {
+        "CoinName": "MyWish", 
+        "Id": "411620"
+    }, 
+    "GAKH": {
+        "CoinName": "GAKHcoin", 
+        "Id": "38277"
+    }, 
+    "TCR": {
+        "CoinName": "Thecreed", 
+        "Id": "20441"
+    }, 
+    "SOUL": {
+        "CoinName": "SoulCoin", 
+        "Id": "20585"
+    }, 
+    "GEA": {
+        "CoinName": "Goldea", 
+        "Id": "421896"
+    }, 
+    "GEO": {
+        "CoinName": "GeoCoin", 
+        "Id": "3647"
+    }, 
+    "GEN": {
+        "CoinName": "Genstake", 
+        "Id": "7588"
+    }, 
+    "LIMX": {
+        "CoinName": "LimeCoinX", 
+        "Id": "4354"
+    }, 
+    "ZOI": {
+        "CoinName": "Zoin", 
+        "Id": "53178"
+    }, 
+    "VOISE": {
+        "CoinName": "Voise", 
+        "Id": "188352"
+    }, 
+    "DGMS": {
+        "CoinName": "Digigems", 
+        "Id": "34496"
+    }, 
+    "VISIO": {
+        "CoinName": "Visio", 
+        "Id": "62648"
+    }, 
+    "DDF": {
+        "CoinName": "Digital Developers Fund", 
+        "Id": "180595"
+    }, 
+    "EBTC": {
+        "CoinName": "eBitcoin", 
+        "Id": "321189"
+    }, 
+    "AND": {
+        "CoinName": "AndromedaCoin", 
+        "Id": "30568"
+    }, 
+    "ANC": {
+        "CoinName": "Anoncoin", 
+        "Id": "27370"
+    }, 
+    "SCRPT": {
+        "CoinName": "ScryptCoin", 
+        "Id": "23429"
+    }, 
+    "ANT": {
+        "CoinName": "Aragon", 
+        "Id": "78152"
+    }, 
+    "NVC": {
+        "CoinName": "NovaCoin", 
+        "Id": "4579"
+    }, 
+    "SOJ": {
+        "CoinName": "Sojourn Coin", 
+        "Id": "237385"
+    }, 
+    "S8C": {
+        "CoinName": "S88 Coin", 
+        "Id": "38310"
+    }, 
+    "TMT": {
+        "CoinName": "ToTheMoon", 
+        "Id": "301150"
+    }, 
+    "VUC": {
+        "CoinName": "Virta Unique Coin", 
+        "Id": "182340"
+    }, 
+    "PRE*": {
+        "CoinName": "Presearch", 
+        "Id": "186331"
+    }, 
+    "TMC": {
+        "CoinName": "TimesCoin", 
+        "Id": "5284"
+    }, 
+    "TME": {
+        "CoinName": "Timereum", 
+        "Id": "199887"
+    }, 
+    "LOC*": {
+        "CoinName": "LockChain", 
+        "Id": "517896"
+    }, 
+    "RIYA": {
+        "CoinName": "Etheriya", 
+        "Id": "238571"
+    }, 
+    "KDC": {
+        "CoinName": "Klondike Coin", 
+        "Id": "4545"
+    }, 
+    "NDC": {
+        "CoinName": "NeverDie", 
+        "Id": "188787"
+    }, 
+    "XMG": {
+        "CoinName": "Coin Magi", 
+        "Id": "5331"
+    }, 
+    "BCPT": {
+        "CoinName": "BlockMason Credit Protocol", 
+        "Id": "374281"
+    }, 
+    "XMY": {
+        "CoinName": "MyriadCoin", 
+        "Id": "4345"
+    }, 
+    "KRB": {
+        "CoinName": "Karbowanec", 
+        "Id": "28154"
+    }, 
+    "KRC": {
+        "CoinName": "KRCoin", 
+        "Id": "30379"
+    }, 
+    "XMR": {
+        "CoinName": "Monero", 
+        "Id": "5038"
+    }, 
+    "XMS": {
+        "CoinName": "Megastake", 
+        "Id": "6110"
+    }, 
+    "GOAT": {
+        "CoinName": "Goat", 
+        "Id": "37356"
+    }, 
+    "PRES": {
+        "CoinName": "President Trump", 
+        "Id": "42841"
+    }, 
+    "CHOOF": {
+        "CoinName": "ChoofCoin", 
+        "Id": "31002"
+    }, 
+    "RCX": {
+        "CoinName": "RedCrowCoin", 
+        "Id": "20218"
+    }, 
+    "WSH": {
+        "CoinName": "Wish Finance", 
+        "Id": "301216"
+    }, 
+    "ZSC": {
+        "CoinName": "Zeusshield", 
+        "Id": "341328"
+    }, 
+    "HYP": {
+        "CoinName": "Hyperstake", 
+        "Id": "4537"
+    }, 
+    "RCN": {
+        "CoinName": "Ripio", 
+        "Id": "307219"
+    }, 
+    "WSX": {
+        "CoinName": "WeAreSatoshi", 
+        "Id": "68084"
+    }, 
+    "ARCO": {
+        "CoinName": "AquariusCoin", 
+        "Id": "34506"
+    }, 
+    "ARCH": {
+        "CoinName": "ArchCoin", 
+        "Id": "4331"
+    }, 
+    "RCC": {
+        "CoinName": "Reality Clash", 
+        "Id": "196591"
+    }, 
+    "VEC2": {
+        "CoinName": "VectorCoin 2.0 ", 
+        "Id": "22434"
+    }, 
+    "ROCK": {
+        "CoinName": "Ice Rock Mining", 
+        "Id": "323817"
+    }, 
+    "BUCKS": {
+        "CoinName": "SwagBucks", 
+        "Id": "66685"
+    }, 
+    "IBANK": {
+        "CoinName": "iBankCoin", 
+        "Id": "23745"
+    }, 
+    "GOOD": {
+        "CoinName": "GoodCoin", 
+        "Id": "253766"
+    }, 
+    "GOON": {
+        "CoinName": "Goonies", 
+        "Id": "28221"
+    }, 
+    "YOC": {
+        "CoinName": "YoCoin", 
+        "Id": "20691"
+    }, 
+    "LVG": {
+        "CoinName": "Leverage Coin", 
+        "Id": "38312"
+    }, 
+    "007": {
+        "CoinName": "007 coin", 
+        "Id": "5294"
+    }, 
+    "CNMT": {
+        "CoinName": "Coinomat", 
+        "Id": "25825"
+    }, 
+    "PINK": {
+        "CoinName": "PinkCoin", 
+        "Id": "5374"
+    }, 
+    "NXTTY": {
+        "CoinName": "NXTTY", 
+        "Id": "5360"
+    }, 
+    "PING": {
+        "CoinName": "CryptoPing", 
+        "Id": "177503"
+    }, 
+    "PURA": {
+        "CoinName": "Pura", 
+        "Id": "374031"
+    }, 
+    "PURE": {
+        "CoinName": "Pure", 
+        "Id": "370535"
+    }, 
+    "RPX": {
+        "CoinName": "Red Pulse", 
+        "Id": "341267"
+    }, 
+    "ARC*": {
+        "CoinName": " Arcade City", 
+        "Id": "435659"
+    }, 
+    "NYAN": {
+        "CoinName": "NyanCoin", 
+        "Id": "4581"
+    }, 
+    "CFT*": {
+        "CoinName": "Credo", 
+        "Id": "241536"
+    }, 
+    "STCN": {
+        "CoinName": "Stakecoin", 
+        "Id": "237428"
+    }, 
+    "DARK": {
+        "CoinName": "Dark", 
+        "Id": "61066"
+    }, 
+    "CDX*": {
+        "CoinName": "Commodity Ad Network", 
+        "Id": "412267"
+    }, 
+    "CCC": {
+        "CoinName": "CCCoin", 
+        "Id": "210595"
+    }, 
+    "OAX": {
+        "CoinName": "OpenANX", 
+        "Id": "180013"
+    }, 
+    "PIO": {
+        "CoinName": "Pioneershares", 
+        "Id": "28342"
+    }, 
+    "PIE": {
+        "CoinName": "Persistent Information Exchange", 
+        "Id": "45832"
+    }, 
+    "PIX": {
+        "CoinName": "Lampix", 
+        "Id": "223283"
+    }, 
+    "FLIK": {
+        "CoinName": "FLiK", 
+        "Id": "329562"
+    }, 
+    "MYC": {
+        "CoinName": "MayaCoin", 
+        "Id": "20661"
+    }, 
+    "MYB": {
+        "CoinName": "MyBit", 
+        "Id": "179345"
+    }, 
+    "BTDX": {
+        "CoinName": "Bitcloud 2.0", 
+        "Id": "362846"
+    }, 
+    "WMC": {
+        "CoinName": "WMCoin", 
+        "Id": "21871"
+    }, 
+    "XPOKE": {
+        "CoinName": "PokeChain", 
+        "Id": "25817"
+    }, 
+    "FAME": {
+        "CoinName": "FameCoin", 
+        "Id": "33268"
+    }, 
+    "SUMO": {
+        "CoinName": "Sumokoin", 
+        "Id": "310812"
+    }, 
+    "OK": {
+        "CoinName": "OKCash", 
+        "Id": "17857"
+    }, 
+    "UBQ": {
+        "CoinName": "Ubiq", 
+        "Id": "43044"
+    }, 
+    "OC": {
+        "CoinName": "OrangeCoin", 
+        "Id": "5357"
+    }, 
+    "MAID": {
+        "CoinName": "MaidSafe Coin", 
+        "Id": "5293"
+    }, 
+    "NTRN": {
+        "CoinName": "Neutron", 
+        "Id": "5301"
+    }, 
+    "SCT*": {
+        "CoinName": "Soma", 
+        "Id": "348278"
+    }, 
+    "HALLO": {
+        "CoinName": "Halloween Coin", 
+        "Id": "29552"
+    }, 
+    "GRWI": {
+        "CoinName": "Growers International", 
+        "Id": "207931"
+    }, 
+    "EBST": {
+        "CoinName": "eBoost", 
+        "Id": "368732"
+    }, 
+    "CLOAK": {
+        "CoinName": "CloakCoin", 
+        "Id": "4417"
+    }, 
+    "JDC": {
+        "CoinName": "JustDatingSite", 
+        "Id": "232607"
+    }, 
+    "MWC": {
+        "CoinName": "MultiWallet Coin", 
+        "Id": "6107"
+    }, 
+    "ZLQ": {
+        "CoinName": "ZLiteQubit", 
+        "Id": "39704"
+    }, 
+    "DEM": {
+        "CoinName": "eMark", 
+        "Id": "4429"
+    }, 
+    "DEA": {
+        "CoinName": "Degas Coin", 
+        "Id": "79849"
+    }, 
+    "DEB": {
+        "CoinName": "Debitum Token", 
+        "Id": "408765"
+    }, 
+    "GJC": {
+        "CoinName": "Global Jobcoin", 
+        "Id": "320412"
+    }, 
+    "BLOCK": {
+        "CoinName": "BlockNet", 
+        "Id": "5305"
+    }, 
+    "CREDO": {
+        "CoinName": "Credo", 
+        "Id": "382450"
+    }, 
+    "ACID": {
+        "CoinName": "AcidCoin", 
+        "Id": "39700"
+    }, 
+    "AMC": {
+        "CoinName": "AmericanCoin", 
+        "Id": "4327"
+    }, 
+    "AMB": {
+        "CoinName": "Ambrosus", 
+        "Id": "238733"
+    }, 
+    "AMY": {
+        "CoinName": "Amygws", 
+        "Id": "59304"
+    }, 
+    "AMP": {
+        "CoinName": "Synereo", 
+        "Id": "18244"
+    }, 
+    "AMS": {
+        "CoinName": "Amsterdam Coin", 
+        "Id": "15284"
+    }, 
+    "AMT": {
+        "CoinName": "Acumen", 
+        "Id": "243045"
+    }, 
+    "XBTS": {
+        "CoinName": "Beats", 
+        "Id": "29131"
+    }, 
+    "SQL": {
+        "CoinName": "Squall Coin", 
+        "Id": "7565"
+    }, 
+    "CWV": {
+        "CoinName": "CryptoWave", 
+        "Id": "446121"
+    }, 
+    "GGS": {
+        "CoinName": "Gilgam", 
+        "Id": "180716"
+    }, 
+    "ENRG": {
+        "CoinName": "EnergyCoin", 
+        "Id": "4350"
+    }, 
+    "POWR": {
+        "CoinName": "Power Ledger", 
+        "Id": "339617"
+    }, 
+    "IVZ": {
+        "CoinName": "InvisibleCoin", 
+        "Id": "20679"
+    }, 
+    "ACC": {
+        "CoinName": "AdCoin", 
+        "Id": "249821"
+    }, 
+    "OPES": {
+        "CoinName": "Opes", 
+        "Id": "42850"
+    }, 
+    "EMPC": {
+        "CoinName": "EmporiumCoin", 
+        "Id": "63312"
+    }, 
+    "ACE": {
+        "CoinName": "TokenStars", 
+        "Id": "294364"
+    }, 
+    "NEF": {
+        "CoinName": "NefariousCoin", 
+        "Id": "112405"
+    }, 
+    "XNX": {
+        "CoinName": "XanaxCoin", 
+        "Id": "21773"
+    }, 
+    "NEC": {
+        "CoinName": "NeoCoin", 
+        "Id": "4573"
+    }, 
+    "XNA": {
+        "CoinName": "DeOxyRibose", 
+        "Id": "6097"
+    }, 
+    "XNC": {
+        "CoinName": "XenCoin", 
+        "Id": "33939"
+    }, 
+    "ACP": {
+        "CoinName": "Anarchists Prime", 
+        "Id": "6476"
+    }, 
+    "XNG": {
+        "CoinName": "Enigma", 
+        "Id": "35953"
+    }, 
+    "ACT": {
+        "CoinName": "ACT", 
+        "Id": "177157"
+    }, 
+    "NET": {
+        "CoinName": "NetCoin", 
+        "Id": "4574"
+    }, 
+    "NEU": {
+        "CoinName": "Neumark", 
+        "Id": "372377"
+    }, 
+    "XNN": {
+        "CoinName": "Xenon", 
+        "Id": "362769"
+    }, 
+    "WABI": {
+        "CoinName": "WaBi", 
+        "Id": "340940"
+    }, 
+    "CRAFT": {
+        "CoinName": "Craftcoin", 
+        "Id": "29711"
+    }, 
+    "EARTH": {
+        "CoinName": "Earth Token", 
+        "Id": "324012"
+    }, 
+    "BKX": {
+        "CoinName": "BANKEX", 
+        "Id": "241757"
+    }, 
+    "MEME": {
+        "CoinName": "Pepe", 
+        "Id": "20825"
+    }, 
+    "VRP*": {
+        "CoinName": "Prosense.tv", 
+        "Id": "338140"
+    }, 
+    "INPAY": {
+        "CoinName": "InPay", 
+        "Id": "61912"
+    }, 
+    "XRED": {
+        "CoinName": "X Real Estate Development", 
+        "Id": "336594"
+    }, 
+    "HIRE": {
+        "CoinName": "HireMatch", 
+        "Id": "198458"
+    }, 
+    "SHORTY": {
+        "CoinName": "ShortyCoin", 
+        "Id": "35226"
+    }, 
+    "ZRC": {
+        "CoinName": "ZrCoin", 
+        "Id": "129604"
+    }, 
+    "AC3": {
+        "CoinName": "AC3", 
+        "Id": "517389"
+    }, 
+    "MET": {
+        "CoinName": "Memessenger", 
+        "Id": "221605"
+    }, 
+    "GDC": {
+        "CoinName": "GrandCoin", 
+        "Id": "4526"
+    }, 
+    "BOOM": {
+        "CoinName": "BOOM Coin", 
+        "Id": "5378"
+    }, 
+    "MER": {
+        "CoinName": "Mercury", 
+        "Id": "61138"
+    }, 
+    "SSTC": {
+        "CoinName": "SunShotCoin", 
+        "Id": "20644"
+    }, 
+    "CREVA": {
+        "CoinName": "Creva Coin", 
+        "Id": "6451"
+    }, 
+    "WINGS": {
+        "CoinName": "Wings DAO", 
+        "Id": "25946"
+    }, 
+    "FONZ": {
+        "CoinName": "FonzieCoin", 
+        "Id": "28703"
+    }, 
+    "EQUAL": {
+        "CoinName": "EqualCoin", 
+        "Id": "30883"
+    }, 
+    "CRPS": {
+        "CoinName": "CryptoPennies", 
+        "Id": "41590"
+    }, 
+    "TX": {
+        "CoinName": "Transfer", 
+        "Id": "13045"
+    }, 
+    "OLDSF": {
+        "CoinName": "OldSafeCoin", 
+        "Id": "20640"
+    }, 
+    "POINTS": {
+        "CoinName": "Cryptsy Points", 
+        "Id": "4586"
+    }, 
+    "TNT": {
+        "CoinName": "Tierion", 
+        "Id": "186309"
+    }, 
+    "AC": {
+        "CoinName": "Asia Coin", 
+        "Id": "4322"
+    }, 
+    "AE": {
+        "CoinName": "Aeternity", 
+        "Id": "190978"
+    }, 
+    "ADCN": {
+        "CoinName": "Asiadigicoin", 
+        "Id": "20907"
+    }, 
+    "AM": {
+        "CoinName": "AeroMe", 
+        "Id": "5330"
+    }, 
+    "ATOM": {
+        "CoinName": "Atomic Coin", 
+        "Id": "29721"
+    }, 
+    "GVT": {
+        "CoinName": "Genesis Vision", 
+        "Id": "385952"
+    }, 
+    "VZT": {
+        "CoinName": "Vezt", 
+        "Id": "350476"
+    }, 
+    "RYCN": {
+        "CoinName": "RoyalCoin 2.0", 
+        "Id": "32548"
+    }, 
+    "NKA": {
+        "CoinName": "IncaKoin", 
+        "Id": "7559"
+    }, 
+    "NKC": {
+        "CoinName": "Nukecoinz", 
+        "Id": "21710"
+    }, 
+    "BTCRED": {
+        "CoinName": "Bitcoin Red", 
+        "Id": "371064"
+    }, 
+    "BENJI": {
+        "CoinName": "BenjiRolls", 
+        "Id": "71884"
+    }, 
+    "BITSD": {
+        "CoinName": "Bits Digit", 
+        "Id": "198251"
+    }, 
+    "NOTE": {
+        "CoinName": "Dnotes", 
+        "Id": "5322"
+    }, 
+    "EZM": {
+        "CoinName": "EZMarket", 
+        "Id": "319029"
+    }, 
+    "KGC": {
+        "CoinName": "KrugerCoin", 
+        "Id": "4547"
+    }, 
+    "MCAP": {
+        "CoinName": "MCAP", 
+        "Id": "131154"
+    }, 
+    "NKT": {
+        "CoinName": "NakomotoDark", 
+        "Id": "5334"
+    }, 
+    "SUPER": {
+        "CoinName": "SuperCoin", 
+        "Id": "4615"
+    }, 
+    "EZC": {
+        "CoinName": "EZCoin", 
+        "Id": "4444"
+    }, 
+    "UNIFY": {
+        "CoinName": "Unify", 
+        "Id": "182364"
+    }, 
+    "CPC": {
+        "CoinName": "CapriCoin", 
+        "Id": "15282"
+    }, 
+    "DCS.": {
+        "CoinName": "deCLOUDs", 
+        "Id": "26129"
+    }, 
+    "XDE2": {
+        "CoinName": "XDE II", 
+        "Id": "22430"
+    }, 
+    "DRKT": {
+        "CoinName": "DarkTron", 
+        "Id": "7483"
+    }, 
+    "MONA": {
+        "CoinName": "MonaCoin", 
+        "Id": "5296"
+    }, 
+    "ARPA": {
+        "CoinName": "ArpaCoin", 
+        "Id": "60618"
+    }, 
+    "MANA": {
+        "CoinName": "Decentraland", 
+        "Id": "199148"
+    }, 
+    "DRKC": {
+        "CoinName": "DarkCash", 
+        "Id": "4434"
+    }, 
+    "BMXT": {
+        "CoinName": "Bitmxittz", 
+        "Id": "213113"
+    }, 
+    "HEEL": {
+        "CoinName": "HeelCoin", 
+        "Id": "38035"
+    }, 
+    "VOYA": {
+        "CoinName": "Voyacoin", 
+        "Id": "24305"
+    }, 
+    "PWR": {
+        "CoinName": "PowerCoin", 
+        "Id": "20236"
+    }, 
+    "NOBL": {
+        "CoinName": "NobleCoin", 
+        "Id": "4577"
+    }, 
+    "QVT": {
+        "CoinName": "Qvolta", 
+        "Id": "205980"
+    }, 
+    "WRT": {
+        "CoinName": "WRTcoin", 
+        "Id": "299811"
+    }, 
+    "ARBI": {
+        "CoinName": "Arbi", 
+        "Id": "334856"
+    }, 
+    "LAB": {
+        "CoinName": "Labrys", 
+        "Id": "405343"
+    }, 
+    "PAC": {
+        "CoinName": "PacCoin", 
+        "Id": "44003"
+    }, 
+    "LAZ": {
+        "CoinName": "Lazarus", 
+        "Id": "28700"
+    }, 
+    "LAT": {
+        "CoinName": "Latium", 
+        "Id": "237269"
+    }, 
+    "FFC": {
+        "CoinName": "FireflyCoin", 
+        "Id": "4447"
+    }, 
+    "DTC": {
+        "CoinName": "Datacoin", 
+        "Id": "369209"
+    }, 
+    "DTB": {
+        "CoinName": "Databits", 
+        "Id": "55540"
+    }, 
+    "BOSON": {
+        "CoinName": "BosonCoin", 
+        "Id": "33869"
+    }, 
+    "VERSA": {
+        "CoinName": "Versa Token", 
+        "Id": "7562"
+    }, 
+    "DTR": {
+        "CoinName": "Dynamic Trading Rights", 
+        "Id": "360063"
+    }, 
+    "DTT": {
+        "CoinName": "DreamTeam Token", 
+        "Id": "313176"
+    }, 
+    "MARV": {
+        "CoinName": "Marvelous", 
+        "Id": "22428"
+    }, 
+    "CCT*": {
+        "CoinName": "Crystal Clear Token ", 
+        "Id": "301191"
+    }, 
+    "AHT*": {
+        "CoinName": "Bowhead Health", 
+        "Id": "186064"
+    }, 
+    "FTP": {
+        "CoinName": "FuturePoints", 
+        "Id": "28131"
+    }, 
+    "PEPECASH": {
+        "CoinName": "Pepe Cash", 
+        "Id": "42663"
+    }, 
+    "1337": {
+        "CoinName": "1337", 
+        "Id": "20824"
+    }, 
+    "FTC": {
+        "CoinName": "FeatherCoin", 
+        "Id": "4524"
+    }, 
+    "CBD": {
+        "CoinName": "CBD Crystals", 
+        "Id": "33008"
+    }, 
+    "MXT": {
+        "CoinName": "MartexCoin", 
+        "Id": "53944"
+    }, 
+    "RADI": {
+        "CoinName": "RadicalCoin", 
+        "Id": "39707"
+    }, 
+    "RADS": {
+        "CoinName": "Radium", 
+        "Id": "15870"
+    }, 
+    "RUPX": {
+        "CoinName": "Rupaya", 
+        "Id": "372608"
+    }, 
+    "CBX": {
+        "CoinName": "CryptoBullion", 
+        "Id": "4411"
+    }, 
+    "XBL": {
+        "CoinName": "Billionaire Token", 
+        "Id": "375352"
+    }, 
+    "FX": {
+        "CoinName": "FCoin", 
+        "Id": "28336"
+    }, 
+    "CRYPT": {
+        "CoinName": "CryptCoin", 
+        "Id": "4427"
+    }, 
+    "IFLT": {
+        "CoinName": "InflationCoin", 
+        "Id": "32775"
+    }, 
+    "SMT": {
+        "CoinName": "Social Media Market", 
+        "Id": "344097"
+    }, 
+    "POLY": {
+        "CoinName": "PolyBit", 
+        "Id": "7567"
+    }, 
+    "FC": {
+        "CoinName": "Facecoin", 
+        "Id": "307112"
+    }, 
+    "SMF": {
+        "CoinName": "SmurfCoin", 
+        "Id": "43257"
+    }, 
+    "POLL": {
+        "CoinName": "ClearPoll", 
+        "Id": "319130"
+    }, 
+    "SMC": {
+        "CoinName": "SmartCoin", 
+        "Id": "4606"
+    }, 
+    "MDL": {
+        "CoinName": "Modulum", 
+        "Id": "364051"
+    }, 
+    "MDC": {
+        "CoinName": "MedicCoin", 
+        "Id": "28128"
+    }, 
+    "MDA": {
+        "CoinName": "Moeda", 
+        "Id": "341279"
+    }, 
+    "MDT": {
+        "CoinName": "Midnight ", 
+        "Id": "33004"
+    }, 
+    "WOMEN": {
+        "CoinName": "WomenCoin", 
+        "Id": "348068"
+    }, 
+    "DFT": {
+        "CoinName": "Draftcoin", 
+        "Id": "236039"
+    }, 
+    "LRC": {
+        "CoinName": "Loopring", 
+        "Id": "318169"
+    }, 
+    "BON*": {
+        "CoinName": "Bonpay", 
+        "Id": "346775"
+    }, 
+    "ALN": {
+        "CoinName": "AlienCoin", 
+        "Id": "4328"
+    }, 
+    "ALF": {
+        "CoinName": "AlphaCoin", 
+        "Id": "4325"
+    }, 
+    "ZRC*": {
+        "CoinName": "ZiftrCoin", 
+        "Id": "5037"
+    }, 
+    "ALC": {
+        "CoinName": "Arab League Coin", 
+        "Id": "33401"
+    }, 
+    "LTCU": {
+        "CoinName": "LiteCoin Ultra", 
+        "Id": "531408"
+    }, 
+    "NTK": {
+        "CoinName": "Neurotoken", 
+        "Id": "439180"
+    }, 
+    "NTM": {
+        "CoinName": "NetM", 
+        "Id": "338156"
+    }, 
+    "NTO": {
+        "CoinName": "Fujinto", 
+        "Id": "339406"
+    }, 
+    "MARS": {
+        "CoinName": "MarsCoin ", 
+        "Id": "6109"
+    }, 
+    "NTC": {
+        "CoinName": "NineElevenTruthCoin", 
+        "Id": "29366"
+    }, 
+    "XCXT": {
+        "CoinName": "CoinonatX", 
+        "Id": "253688"
+    }, 
+    "MARX": {
+        "CoinName": "MarxCoin", 
+        "Id": "43818"
+    }, 
+    "OS76": {
+        "CoinName": "OsmiumCoin", 
+        "Id": "41122"
+    }, 
+    "WEB": {
+        "CoinName": "Webcoin", 
+        "Id": "320596"
+    }, 
+    "TOR": {
+        "CoinName": "TorCoin", 
+        "Id": "4625"
+    }, 
+    "SOIL": {
+        "CoinName": "SoilCoin", 
+        "Id": "20685"
+    }, 
+    "RIPT": {
+        "CoinName": "RiptideCoin", 
+        "Id": "398126"
+    }, 
+    "TOT": {
+        "CoinName": "TotCoin", 
+        "Id": "28087"
+    }, 
+    "PTC*": {
+        "CoinName": "Propthereum", 
+        "Id": "340872"
+    }, 
+    "TOM": {
+        "CoinName": "Tomahawkcoin", 
+        "Id": "215602"
+    }, 
+    "FRAC": {
+        "CoinName": "FractalCoin", 
+        "Id": "4450"
+    }, 
+    "TOA": {
+        "CoinName": "TOA Coin", 
+        "Id": "341019"
+    }, 
+    "HUGE": {
+        "CoinName": "BigCoin", 
+        "Id": "5290"
+    }, 
+    "ETBT": {
+        "CoinName": "Ethereum Black", 
+        "Id": "431142"
+    }, 
+    "ETBS": {
+        "CoinName": "EthBits", 
+        "Id": "188394"
+    }, 
+    "BULLS": {
+        "CoinName": "BullshitCoin", 
+        "Id": "35821"
+    }, 
+    "ABC": {
+        "CoinName": "AB-Chain", 
+        "Id": "303943"
+    }, 
+    "HGT": {
+        "CoinName": "Hello Gold", 
+        "Id": "234508"
+    }, 
+    "NZC": {
+        "CoinName": "NewZealandCoin", 
+        "Id": "24892"
+    }, 
+    "SCORE": {
+        "CoinName": "Scorecoin", 
+        "Id": "187431"
+    }, 
+    "ABT": {
+        "CoinName": "Advanced Browsing Token", 
+        "Id": "394056"
+    }, 
+    "BHC*": {
+        "CoinName": "BlackholeCoin", 
+        "Id": "369029"
+    }, 
+    "LTCD": {
+        "CoinName": "LitecoinDark", 
+        "Id": "4554"
+    }, 
+    "ABY": {
+        "CoinName": "ArtByte", 
+        "Id": "5338"
+    }, 
+    "BHC": {
+        "CoinName": "BighanCoin", 
+        "Id": "29559"
+    }, 
+    "CRAB": {
+        "CoinName": "CrabCoin", 
+        "Id": "30179"
+    }, 
+    "ZXT": {
+        "CoinName": "Zcrypt", 
+        "Id": "32785"
+    }, 
+    "ABYSS": {
+        "CoinName": "The Abyss", 
+        "Id": "419711"
+    }, 
+    "EGO": {
+        "CoinName": "EGOcoin", 
+        "Id": "29368"
+    }, 
+    "DUTCH": {
+        "CoinName": "Dutch Coin", 
+        "Id": "372748"
+    }, 
+    "EGC": {
+        "CoinName": "EverGreenCoin", 
+        "Id": "15885"
+    }, 
+    "EGG": {
+        "CoinName": "EggCoin", 
+        "Id": "5395"
+    }, 
+    "IMPS": {
+        "CoinName": "Impulse Coin", 
+        "Id": "37204"
+    }, 
+    "COIN": {
+        "CoinName": "Coinvest", 
+        "Id": "384859"
+    }, 
+    "FGZ": {
+        "CoinName": "Free Game Zone", 
+        "Id": "33866"
+    }, 
+    "LBC": {
+        "CoinName": "LBRY Credits", 
+        "Id": "23432"
+    }, 
+    "2015": {
+        "CoinName": "2015 coin", 
+        "Id": "3744"
+    }, 
+    "DCRE": {
+        "CoinName": "DeltaCredits", 
+        "Id": "34487"
+    }, 
+    "MMNXT": {
+        "CoinName": "MMNXT ", 
+        "Id": "23425"
+    }, 
+    "YMC": {
+        "CoinName": "YamahaCoin", 
+        "Id": "42099"
+    }, 
+    "BFX": {
+        "CoinName": "BitFinex Tokens", 
+        "Id": "25238"
+    }, 
+    "FIRST": {
+        "CoinName": "FirstCoin", 
+        "Id": "34223"
+    }, 
+    "VIB": {
+        "CoinName": "Viberate", 
+        "Id": "198710"
+    }, 
+    "VIA": {
+        "CoinName": "ViaCoin", 
+        "Id": "5015"
+    }, 
+    "VIP": {
+        "CoinName": "VIP Tokens", 
+        "Id": "22212"
+    }, 
+    "VIU": {
+        "CoinName": "Viuly", 
+        "Id": "393656"
+    }, 
+    "PUPA": {
+        "CoinName": "PupaCoin", 
+        "Id": "78172"
+    }, 
+    "IFT": {
+        "CoinName": "InvestFeed", 
+        "Id": "185669"
+    }, 
+    "STAR": {
+        "CoinName": "Starbase", 
+        "Id": "179947"
+    }, 
+    "OCL": {
+        "CoinName": "Oceanlab", 
+        "Id": "214738"
+    }, 
+    "GOLOS": {
+        "CoinName": "Golos", 
+        "Id": "40806"
+    }, 
+    "IFC": {
+        "CoinName": "Infinite Coin", 
+        "Id": "4539"
+    }, 
+    "FUN": {
+        "CoinName": "FunFair", 
+        "Id": "178978"
+    }, 
+    "STAK": {
+        "CoinName": "Straks", 
+        "Id": "536279"
+    }, 
+    "NEOG": {
+        "CoinName": "NEO Gold", 
+        "Id": "370947"
+    }, 
+    "LENIN": {
+        "CoinName": "LeninCoin", 
+        "Id": "40992"
+    }, 
+    "PKT": {
+        "CoinName": "Playkey", 
+        "Id": "344086"
+    }, 
+    "COFI": {
+        "CoinName": "CoiniFi", 
+        "Id": "436320"
+    }, 
+    "CAIX": {
+        "CoinName": "CAIx", 
+        "Id": "4406"
+    }, 
+    "PKB": {
+        "CoinName": "ParkByte", 
+        "Id": "8764"
+    }, 
+    "HILL": {
+        "CoinName": "President Clinton", 
+        "Id": "30359"
+    }, 
+    "ELTCOIN": {
+        "CoinName": "ELTCOIN", 
+        "Id": "438867"
+    }, 
+    "RUST": {
+        "CoinName": "RustCoin", 
+        "Id": "24887"
+    }, 
+    "STO": {
+        "CoinName": "Save The Ocean", 
+        "Id": "28025"
+    }, 
+    "CSH": {
+        "CoinName": "CashOut", 
+        "Id": "31004"
+    }, 
+    "WOP": {
+        "CoinName": "WorldPay", 
+        "Id": "37191"
+    }, 
+    "CSC": {
+        "CoinName": "CasinoCoin", 
+        "Id": "4428"
+    }, 
+    "DIGS": {
+        "CoinName": "Diggits", 
+        "Id": "12192"
+    }, 
+    "NEO": {
+        "CoinName": "NEO", 
+        "Id": "27368"
+    }, 
+    "MMXIV": {
+        "CoinName": "MaieutiCoin", 
+        "Id": "5326"
+    }, 
+    "STU": {
+        "CoinName": "BitJob", 
+        "Id": "184237"
+    }, 
+    "DOGE": {
+        "CoinName": "Dogecoin", 
+        "Id": "4432"
+    }, 
+    "MOON": {
+        "CoinName": "MoonCoin", 
+        "Id": "4346"
+    }, 
+    "CGA": {
+        "CoinName": "Cryptographic Anomaly", 
+        "Id": "20911"
+    }, 
+    "8S": {
+        "CoinName": "Elite 888", 
+        "Id": "310852"
+    }, 
+    "HEDG": {
+        "CoinName": "Hedgecoin", 
+        "Id": "7653"
+    }, 
+    "STA*": {
+        "CoinName": "Stakers", 
+        "Id": "21981"
+    }, 
+    "MUU": {
+        "CoinName": "MilkCoin", 
+        "Id": "84247"
+    }, 
+    "KAPU": {
+        "CoinName": "Kapu", 
+        "Id": "305047"
+    }, 
+    "JBS": {
+        "CoinName": "JumBucks Coin", 
+        "Id": "4542"
+    }, 
+    "KTK": {
+        "CoinName": "KryptCoin", 
+        "Id": "5311"
+    }, 
+    "CHAO": {
+        "CoinName": "23 Skidoo", 
+        "Id": "41974"
+    }, 
+    "MUE": {
+        "CoinName": "MonetaryUnit", 
+        "Id": "22325"
+    }, 
+    "CURE": {
+        "CoinName": "Curecoin", 
+        "Id": "5387"
+    }, 
+    "2BACCO": {
+        "CoinName": "2BACCO Coin", 
+        "Id": "30912"
+    }, 
+    "CHAT": {
+        "CoinName": "ChatCoin", 
+        "Id": "52008"
+    }, 
+    "DGB": {
+        "CoinName": "DigiByte", 
+        "Id": "4430"
+    }, 
+    "DGC": {
+        "CoinName": "DigiCoin", 
+        "Id": "4353"
+    }, 
+    "MONETA": {
+        "CoinName": "Moneta", 
+        "Id": "30364"
+    }, 
+    "DGD": {
+        "CoinName": "Digix DAO", 
+        "Id": "18907"
+    }, 
+    "AST": {
+        "CoinName": "AirSwap", 
+        "Id": "337162"
+    }, 
+    "BTLC": {
+        "CoinName": "BitLuckCoin", 
+        "Id": "33522"
+    }, 
+    "WORM": {
+        "CoinName": "HealthyWorm", 
+        "Id": "228162"
+    }, 
+    "NUM": {
+        "CoinName": "NumbersCoin", 
+        "Id": "20583"
+    }, 
+    "MASS": {
+        "CoinName": "Mass.Cloud", 
+        "Id": "184135"
+    }, 
+    "ASN": {
+        "CoinName": "Ascension Coin", 
+        "Id": "5356"
+    }, 
+    "DFBT": {
+        "CoinName": "DentalFix", 
+        "Id": "198693"
+    }, 
+    "CSTL": {
+        "CoinName": "Castle", 
+        "Id": "400432"
+    }, 
+    "DUO": {
+        "CoinName": "ParallelCoin", 
+        "Id": "73132"
+    }, 
+    "DUB": {
+        "CoinName": "DubCoin", 
+        "Id": "7627"
+    }, 
+    "DUX": {
+        "CoinName": "DuxCoin", 
+        "Id": "105206"
+    }, 
+    "UNB": {
+        "CoinName": "UnbreakableCoin", 
+        "Id": "4629"
+    }, 
+    "R": {
+        "CoinName": "Revain", 
+        "Id": "345420"
+    }, 
+    "UNF": {
+        "CoinName": "Unfed Coin", 
+        "Id": "29198"
+    }, 
+    "UNI": {
+        "CoinName": "Universe", 
+        "Id": "60631"
+    }, 
+    "UNO": {
+        "CoinName": "Unobtanium", 
+        "Id": "4630"
+    }, 
+    "KC": {
+        "CoinName": "Kernalcoin", 
+        "Id": "35230"
+    }, 
+    "OMA": {
+        "CoinName": "OmegaCoin", 
+        "Id": "22280"
+    }, 
+    "SCRT": {
+        "CoinName": "SecretCoin", 
+        "Id": "21760"
+    }, 
+    "NEU*": {
+        "CoinName": "NeuCoin", 
+        "Id": "13044"
+    }, 
+    "CVCOIN": {
+        "CoinName": "Crypviser", 
+        "Id": "188400"
+    }, 
+    "ESC*": {
+        "CoinName": "Ethersportcoin", 
+        "Id": "383878"
+    }, 
+    "GBT": {
+        "CoinName": "GameBetCoin", 
+        "Id": "20214"
+    }, 
+    "VIVO": {
+        "CoinName": "VIVO Coin", 
+        "Id": "341205"
+    }, 
+    "KR": {
+        "CoinName": "Krypton", 
+        "Id": "20822"
+    }, 
+    "HAZE": {
+        "CoinName": "HazeCoin", 
+        "Id": "43937"
+    }, 
+    "DANK": {
+        "CoinName": "DarkKush", 
+        "Id": "3640"
+    }, 
+    "ITT": {
+        "CoinName": "Intelligent Trading Technologies", 
+        "Id": "232678"
+    }, 
+    "BOMB": {
+        "CoinName": "BombCoin", 
+        "Id": "42110"
+    }, 
+    "BIO": {
+        "CoinName": "Biocoin", 
+        "Id": "484355"
+    }, 
+    "BIC": {
+        "CoinName": "Bikercoins", 
+        "Id": "41587"
+    }, 
+    "SAND": {
+        "CoinName": "BeachCoin", 
+        "Id": "188652"
+    }, 
+    "GBX": {
+        "CoinName": "GoByte", 
+        "Id": "398705"
+    }, 
+    "BIS": {
+        "CoinName": "Bismuth", 
+        "Id": "322963"
+    }, 
+    "BIP": {
+        "CoinName": "BipCoin", 
+        "Id": "33936"
+    }, 
+    "WARP": {
+        "CoinName": "WarpCoin", 
+        "Id": "25822"
+    }, 
+    "SLS": {
+        "CoinName": "SaluS", 
+        "Id": "20681"
+    }, 
+    "SLM": {
+        "CoinName": "SlimCoin", 
+        "Id": "5382"
+    }, 
+    "CRNK": {
+        "CoinName": "CrankCoin", 
+        "Id": "30121"
+    }, 
+    "HOLD": {
+        "CoinName": "Interstellar Holdings", 
+        "Id": "389808"
+    }, 
+    "MCO": {
+        "CoinName": "Monaco", 
+        "Id": "166548"
+    }, 
+    "MCN": {
+        "CoinName": "MonetaVerde", 
+        "Id": "7636"
+    }, 
+    "MCI": {
+        "CoinName": "Musiconomi", 
+        "Id": "338415"
+    }, 
+    "JPC": {
+        "CoinName": "JackPotCoin", 
+        "Id": "5333"
+    }, 
+    "GFT": {
+        "CoinName": "Giftcoin", 
+        "Id": "394121"
+    }, 
+    "AMMO": {
+        "CoinName": "Ammo Rewards", 
+        "Id": "182463"
+    }, 
+    "EXE": {
+        "CoinName": "ExeCoin", 
+        "Id": "4443"
+    }, 
+    "EXB": {
+        "CoinName": "ExaByte (EXB)", 
+        "Id": "25925"
+    }, 
+    "CLINT": {
+        "CoinName": "Clinton", 
+        "Id": "22191"
+    }, 
+    "WAND": {
+        "CoinName": "WandX", 
+        "Id": "320621"
+    }, 
+    "EXN": {
+        "CoinName": "ExchangeN", 
+        "Id": "370961"
+    }, 
+    "BSTK": {
+        "CoinName": "BattleStake", 
+        "Id": "57466"
+    }, 
+    "EAGS": {
+        "CoinName": "EagsCoin", 
+        "Id": "6106"
+    }, 
+    "EXP": {
+        "CoinName": "Expanse", 
+        "Id": "12194"
+    }, 
+    "SCASH": {
+        "CoinName": "SpaceCash", 
+        "Id": "34225"
+    }, 
+    "LQD": {
+        "CoinName": "Liquid", 
+        "Id": "22422"
+    }, 
+    "BSTY": {
+        "CoinName": "GlobalBoost", 
+        "Id": "6100"
+    }, 
+    "BEST": {
+        "CoinName": "BestChain", 
+        "Id": "56246"
+    }, 
+    "EXY": {
+        "CoinName": "Experty", 
+        "Id": "388493"
+    }, 
+    "GLOBE": {
+        "CoinName": "Global", 
+        "Id": "6393"
+    }, 
+    "TZC": {
+        "CoinName": "TrezarCoin", 
+        "Id": "338180"
+    }, 
+    "VNT": {
+        "CoinName": "Veredictum", 
+        "Id": "229307"
+    }, 
+    "ELT": {
+        "CoinName": "Eloplay", 
+        "Id": "334997"
+    }, 
+    "BITUSD": {
+        "CoinName": "bitUSD", 
+        "Id": "28021"
+    }, 
+    "N7": {
+        "CoinName": "Number7", 
+        "Id": "21017"
+    }, 
+    "BamitCoin": {
+        "CoinName": "BAM", 
+        "Id": "35407"
+    }, 
+    "GPL": {
+        "CoinName": "Gold Pressed Latinum", 
+        "Id": "28330"
+    }, 
+    "LEA": {
+        "CoinName": "LeaCoin", 
+        "Id": "30117"
+    }, 
+    "BOST": {
+        "CoinName": "BoostCoin", 
+        "Id": "4342"
+    }, 
+    "THS": {
+        "CoinName": "TechShares", 
+        "Id": "45615"
+    }, 
+    "TKN*": {
+        "CoinName": "TrollTokens", 
+        "Id": "22458"
+    }, 
+    "LINDA": {
+        "CoinName": "Linda", 
+        "Id": "196541"
+    }, 
+    "THC": {
+        "CoinName": "The Hempcoin", 
+        "Id": "29924"
+    }, 
+    "CETI": {
+        "CoinName": "CETUS Coin", 
+        "Id": "3644"
+    }, 
+    "CINNI": {
+        "CoinName": "CINNICOIN", 
+        "Id": "4414"
+    }, 
+    "XID*": {
+        "CoinName": "International Diamond Coin", 
+        "Id": "20387"
+    }, 
+    "NIO": {
+        "CoinName": "Autonio", 
+        "Id": "412112"
+    }, 
+    "LINX": {
+        "CoinName": "Linx", 
+        "Id": "253667"
+    }, 
+    "NIC": {
+        "CoinName": "NewInvestCoin", 
+        "Id": "35947"
+    }, 
+    "KIN": {
+        "CoinName": "Kin", 
+        "Id": "177918"
+    }, 
+    "ETP": {
+        "CoinName": "Metaverse", 
+        "Id": "328639"
+    }, 
+    "INSANE": {
+        "CoinName": "InsaneCoin", 
+        "Id": "33017"
+    }, 
+    "FDC": {
+        "CoinName": "FoodCoin", 
+        "Id": "314355"
+    }, 
+    "WBTC": {
+        "CoinName": "wBTC", 
+        "Id": "62640"
+    }, 
+    "CRW": {
+        "CoinName": "Crown Coin", 
+        "Id": "7586"
+    }, 
+    "CRX": {
+        "CoinName": "ChronosCoin", 
+        "Id": "25613"
+    }, 
+    "SYNC": {
+        "CoinName": "SyncCoin", 
+        "Id": "4617"
+    }, 
+    "CRB": {
+        "CoinName": "Creditbit ", 
+        "Id": "17547"
+    }, 
+    "CRC": {
+        "CoinName": "CraftCoin", 
+        "Id": "4426"
+    }, 
+    "SYNX": {
+        "CoinName": "Syndicate", 
+        "Id": "27591"
+    }, 
+    "CRE": {
+        "CoinName": "Credits", 
+        "Id": "8692"
+    }, 
+    "ROUND": {
+        "CoinName": "RoundCoin", 
+        "Id": "43604"
+    }, 
+    "CRM": {
+        "CoinName": "Cream", 
+        "Id": "202049"
+    }, 
+    "PX": {
+        "CoinName": "PXcoin", 
+        "Id": "37370"
+    }, 
+    "AERM": {
+        "CoinName": "Aerium", 
+        "Id": "411647"
+    }, 
+    "SWIFT": {
+        "CoinName": "BitSwift", 
+        "Id": "4616"
+    }, 
+    "TAGR": {
+        "CoinName": "Think And Get Rich Coin", 
+        "Id": "20652"
+    }, 
+    "3DES": {
+        "CoinName": "3DES", 
+        "Id": "304693"
+    }, 
+    "EFL": {
+        "CoinName": "E-Gulden", 
+        "Id": "4438"
+    }, 
+    "UNIQ": {
+        "CoinName": "Uniqredit", 
+        "Id": "25594"
+    }, 
+    "UNIT": {
+        "CoinName": "Universal Currency", 
+        "Id": "20728"
+    }, 
+    "OPT": {
+        "CoinName": "Opus", 
+        "Id": "197054"
+    }, 
+    "OPP": {
+        "CoinName": "Opporty", 
+        "Id": "323787"
+    }, 
+    "RNC": {
+        "CoinName": "ReturnCoin", 
+        "Id": "39710"
+    }, 
+    "FRST": {
+        "CoinName": "FirstCoin", 
+        "Id": "45258"
+    }, 
+    "NTCC": {
+        "CoinName": "NeptuneClassic", 
+        "Id": "41819"
+    }, 
+    "SAFEX": {
+        "CoinName": "SafeExchangeCoin", 
+        "Id": "20594"
+    }, 
+    "BUZZ": {
+        "CoinName": "BuzzCoin", 
+        "Id": "28893"
+    }, 
+    "RNS": {
+        "CoinName": "RenosCoin", 
+        "Id": "57471"
+    }, 
+    "DVC": {
+        "CoinName": "DevCoin", 
+        "Id": "4436"
+    }, 
+    "FLLW": {
+        "CoinName": "Follow Coin", 
+        "Id": "350394"
+    }, 
+    "ICASH": {
+        "CoinName": "ICASH", 
+        "Id": "5401"
+    }, 
+    "UMC": {
+        "CoinName": "Umbrella Coin", 
+        "Id": "213100"
+    }, 
+    "RBTC": {
+        "CoinName": "Bitcoin Revolution", 
+        "Id": "491479"
+    }, 
+    "MUSIC": {
+        "CoinName": "Musicoin", 
+        "Id": "53950"
+    }, 
+    "UNC": {
+        "CoinName": "UnCoin", 
+        "Id": "8760"
+    }, 
+    "SMT*": {
+        "CoinName": "SmartMesh", 
+        "Id": "524113"
+    }, 
+    "QORA": {
+        "CoinName": "QoraCoin", 
+        "Id": "5314"
+    }, 
+    "BLRY": {
+        "CoinName": "BillaryCoin", 
+        "Id": "20336"
+    }, 
+    "XWT": {
+        "CoinName": "World Trade Funds", 
+        "Id": "6096"
+    }, 
+    "VIRAL": {
+        "CoinName": "Viral Coin", 
+        "Id": "6088"
+    }, 
+    "CIN": {
+        "CoinName": "CinderCoin", 
+        "Id": "4413"
+    }, 
+    "IEC": {
+        "CoinName": "IvugeoEvolutionCoin", 
+        "Id": "68088"
+    }, 
+    "OBS": {
+        "CoinName": "Obscurebay", 
+        "Id": "22177"
+    }, 
+    "PLU": {
+        "CoinName": "Pluton", 
+        "Id": "42837"
+    }, 
+    "PLR": {
+        "CoinName": "Pillar", 
+        "Id": "184298"
+    }, 
+    "ILCT": {
+        "CoinName": "ILCoin Token", 
+        "Id": "339598"
+    }, 
+    "CDN": {
+        "CoinName": "Canada eCoin", 
+        "Id": "52015"
+    }, 
+    "PLX": {
+        "CoinName": "PlexCoin", 
+        "Id": "412081"
+    }, 
+    "CDT": {
+        "CoinName": "CoinDash", 
+        "Id": "177139"
+    }, 
+    "PSB": {
+        "CoinName": "PesoBit", 
+        "Id": "29041"
+    }, 
+    "RHEA": {
+        "CoinName": "Rhea", 
+        "Id": "311516"
+    }, 
+    "PLM": {
+        "CoinName": "Algo.Land", 
+        "Id": "314331"
+    }, 
+    "CDX": {
+        "CoinName": "Cryptodex", 
+        "Id": "26113"
+    }, 
+    "BXT": {
+        "CoinName": "BitTokens", 
+        "Id": "28208"
+    }, 
+    "WASH": {
+        "CoinName": "WashingtonCoin", 
+        "Id": "32870"
+    }, 
+    "AR*": {
+        "CoinName": "Ar.cash", 
+        "Id": "251598"
+    }, 
+    "ELIX": {
+        "CoinName": "Elixir", 
+        "Id": "321177"
+    }, 
+    "BTM*": {
+        "CoinName": "Bytom", 
+        "Id": "218008"
+    }, 
+    "PPC": {
+        "CoinName": "PeerCoin", 
+        "Id": "2349"
+    }, 
+    "NET*": {
+        "CoinName": "Nimiq Exchange Token", 
+        "Id": "176669"
+    }, 
+    "GAY": {
+        "CoinName": "GayCoin", 
+        "Id": "28431"
+    }, 
+    "GAT": {
+        "CoinName": "GATCOIN", 
+        "Id": "349487"
+    }, 
+    "GAS": {
+        "CoinName": "Gas", 
+        "Id": "213532"
+    }, 
+    "GAP": {
+        "CoinName": "Gapcoin", 
+        "Id": "20659"
+    }, 
+    "GAM": {
+        "CoinName": "Gambit coin", 
+        "Id": "6102"
+    }, 
+    "PPP": {
+        "CoinName": "PayPie", 
+        "Id": "327500"
+    }, 
+    "PPT": {
+        "CoinName": "Populous", 
+        "Id": "179896"
+    }, 
+    "MBT": {
+        "CoinName": "Multibot", 
+        "Id": "330003"
+    }, 
+    "PPY": {
+        "CoinName": "Peerplays", 
+        "Id": "29348"
+    }, 
+    "MTX": {
+        "CoinName": "Matryx", 
+        "Id": "257110"
+    }, 
+    "JCR": {
+        "CoinName": "Jincor", 
+        "Id": "364747"
+    }, 
+    "MTR": {
+        "CoinName": "MasterTraderCoin", 
+        "Id": "5340"
+    }, 
+    "NETC": {
+        "CoinName": "NetworkCoin", 
+        "Id": "20647"
+    }, 
+    "AUTH": {
+        "CoinName": "Authoreon", 
+        "Id": "222200"
+    }, 
+    "CMPCO": {
+        "CoinName": "CampusCoin", 
+        "Id": "228090"
+    }, 
+    "MTK": {
+        "CoinName": "Moya Token", 
+        "Id": "319238"
+    }, 
+    "MTH": {
+        "CoinName": "Monetha", 
+        "Id": "208914"
+    }, 
+    "MTN": {
+        "CoinName": "TrackNetToken", 
+        "Id": "313967"
+    }, 
+    "MTL": {
+        "CoinName": "Metal", 
+        "Id": "179164"
+    }, 
+    "MAPC": {
+        "CoinName": "MapCoin", 
+        "Id": "12223"
+    }, 
+    "MNT*": {
+        "CoinName": "Media Network Coin", 
+        "Id": "521417"
+    }, 
+    "ART": {
+        "CoinName": "Maecenas", 
+        "Id": "311558"
+    }, 
+    "TPAY": {
+        "CoinName": "TrollPlay", 
+        "Id": "53166"
+    }, 
+    "ARB": {
+        "CoinName": "Arbit Coin", 
+        "Id": "7599"
+    }, 
+    "ARC": {
+        "CoinName": "ArcticCoin", 
+        "Id": "188615"
+    }, 
+    "ARG": {
+        "CoinName": "Argentum", 
+        "Id": "4371"
+    }, 
+    "ARI": {
+        "CoinName": "AriCoin", 
+        "Id": "4332"
+    }, 
+    "ARK": {
+        "CoinName": "ARK", 
+        "Id": "32699"
+    }, 
+    "BTMI": {
+        "CoinName": "BitMiles", 
+        "Id": "5404"
+    }, 
+    "ARM": {
+        "CoinName": "Armory Coin", 
+        "Id": "28654"
+    }, 
+    "ARN": {
+        "CoinName": "Aeron", 
+        "Id": "335127"
+    }, 
+    "B@": {
+        "CoinName": "BankCoin", 
+        "Id": "56078"
+    }, 
+    "GSY": {
+        "CoinName": "GenesysCoin", 
+        "Id": "22453"
+    }, 
+    "GSX": {
+        "CoinName": "GlowShares", 
+        "Id": "5397"
+    }, 
+    "HNC": {
+        "CoinName": "Hellenic Coin", 
+        "Id": "8846"
+    }, 
+    "LUX**": {
+        "CoinName": "Luxmi Coin", 
+        "Id": "536278"
+    }, 
+    "BT": {
+        "CoinName": "BuildTeam", 
+        "Id": "249784"
+    }, 
+    "TIO": {
+        "CoinName": "Trade.io", 
+        "Id": "372812"
+    }, 
+    "BQ": {
+        "CoinName": "Bitqy", 
+        "Id": "340125"
+    }, 
+    "BS": {
+        "CoinName": "BlackShadowCoin", 
+        "Id": "30175"
+    }, 
+    "TIE": {
+        "CoinName": "Ties Network", 
+        "Id": "205991"
+    }, 
+    "GSM": {
+        "CoinName": "GSM Coin", 
+        "Id": "5358"
+    }, 
+    "TIA": {
+        "CoinName": "Tianhe", 
+        "Id": "29455"
+    }, 
+    "TIO*": {
+        "CoinName": "Tio Tour Guides", 
+        "Id": "419579"
+    }, 
+    "TIC": {
+        "CoinName": "TrueInvestmentCoin", 
+        "Id": "44752"
+    }, 
+    "APEX": {
+        "CoinName": "ApexCoin", 
+        "Id": "4330"
+    }, 
+    "CHIPS*": {
+        "CoinName": "CHIPS", 
+        "Id": "517603"
+    }, 
+    "HKN": {
+        "CoinName": "Hacken", 
+        "Id": "517775"
+    }, 
+    "HKG": {
+        "CoinName": "Hacker Gold", 
+        "Id": "29733"
+    }, 
+    "NXT": {
+        "CoinName": "Nxt", 
+        "Id": "1183"
+    }, 
+    "NXS": {
+        "CoinName": "Nexus", 
+        "Id": "6103"
+    }, 
+    "BOLI": {
+        "CoinName": "BolivarCoin", 
+        "Id": "21357"
+    }, 
+    "XAS": {
+        "CoinName": "Asch", 
+        "Id": "218107"
+    }, 
+    "XAU": {
+        "CoinName": "XauCoin", 
+        "Id": "5283"
+    }, 
+    "NXE": {
+        "CoinName": "NXEcoin", 
+        "Id": "22240"
+    }, 
+    "XAI": {
+        "CoinName": "SapienceCoin", 
+        "Id": "5021"
+    }, 
+    "NXC": {
+        "CoinName": "Nexium", 
+        "Id": "35678"
+    }, 
+    "CRAIG": {
+        "CoinName": "CraigsCoin", 
+        "Id": "4425"
+    }, 
+    "SQP": {
+        "CoinName": "SqPay", 
+        "Id": "237448"
+    }, 
+    "VOOT": {
+        "CoinName": "VootCoin", 
+        "Id": "5016"
+    }, 
+    "COVAL": {
+        "CoinName": "Circuits of Value", 
+        "Id": "28276"
+    }, 
+    "BVC": {
+        "CoinName": "BeaverCoin", 
+        "Id": "48800"
+    }, 
+    "SCOT": {
+        "CoinName": "Scotcoin", 
+        "Id": "20342"
+    }, 
+    "SCOR": {
+        "CoinName": "Scorista", 
+        "Id": "234659"
+    }, 
+    "B3": {
+        "CoinName": "B3 Coin", 
+        "Id": "28333"
+    }, 
+    "JUDGE": {
+        "CoinName": "JudgeCoin", 
+        "Id": "4544"
+    }, 
+    "ETF": {
+        "CoinName": "EthereumFog", 
+        "Id": "536137"
+    }, 
+    "BTCRY": {
+        "CoinName": "BitCrystal", 
+        "Id": "5344"
+    }, 
+    "ETG": {
+        "CoinName": "Ethereum Gold", 
+        "Id": "347450"
+    }, 
+    "YOYOW": {
+        "CoinName": "Yoyow", 
+        "Id": "322002"
+    }, 
+    "CUBE": {
+        "CoinName": "DigiCube", 
+        "Id": "20688"
+    }, 
+    "QSLV": {
+        "CoinName": "Quicksilver coin", 
+        "Id": "6095"
+    }, 
+    "ETK": {
+        "CoinName": "Energi Token", 
+        "Id": "385960"
+    }, 
+    "KING": {
+        "CoinName": "King93", 
+        "Id": "196560"
+    }, 
+    "ROK": {
+        "CoinName": "Rockchain", 
+        "Id": "336556"
+    }, 
+    "LAB*": {
+        "CoinName": "CoinWorksCoin", 
+        "Id": "4548"
+    }, 
+    "OST": {
+        "CoinName": "SimpleToken", 
+        "Id": "369132"
+    }, 
+    "UBIQ": {
+        "CoinName": "Ubiqoin", 
+        "Id": "28652"
+    }, 
+    "ICC": {
+        "CoinName": "Insta Cash Coin", 
+        "Id": "400693"
+    }, 
+    "FLDC": {
+        "CoinName": "Folding Coin", 
+        "Id": "5348"
+    }, 
+    "OSC": {
+        "CoinName": "OpenSourceCoin", 
+        "Id": "4584"
+    }, 
+    "ROS": {
+        "CoinName": "ROS Coin", 
+        "Id": "5380"
+    }, 
+    "TAAS": {
+        "CoinName": "Token as a Service", 
+        "Id": "66270"
+    }, 
+    "BDG": {
+        "CoinName": "BitDegree", 
+        "Id": "423754"
+    }, 
+    "CPAY": {
+        "CoinName": "CryptoPay", 
+        "Id": "345674"
+    }, 
+    "BDL": {
+        "CoinName": "Bitdeal", 
+        "Id": "374294"
+    }, 
+    "CNX": {
+        "CoinName": "Cryptonex", 
+        "Id": "289715"
+    }, 
+    "BDR": {
+        "CoinName": "BlueDragon", 
+        "Id": "372637"
+    }, 
+    "BERN": {
+        "CoinName": "BERNcash", 
+        "Id": "20817"
+    }, 
+    "GTO": {
+        "CoinName": "GIFTO", 
+        "Id": "517477"
+    }, 
+    "ZECD": {
+        "CoinName": "ZCashDarkCoin", 
+        "Id": "32777"
+    }, 
+    "MYST": {
+        "CoinName": "Mysterium", 
+        "Id": "136190"
+    }, 
+    "UP": {
+        "CoinName": "UpToken", 
+        "Id": "347247"
+    }, 
+    "UR": {
+        "CoinName": "UR", 
+        "Id": "34750"
+    }, 
+    "VOT": {
+        "CoinName": "Votecoin", 
+        "Id": "418671"
+    }, 
+    "TNB": {
+        "CoinName": "Time New Bank", 
+        "Id": "517483"
+    }, 
+    "VOX": {
+        "CoinName": "Voxels", 
+        "Id": "18180"
+    }, 
+    "OPTION": {
+        "CoinName": "OptionCoin", 
+        "Id": "37749"
+    }, 
+    "DRA": {
+        "CoinName": "DraculaCoin", 
+        "Id": "38360"
+    }, 
+    "SPKTR": {
+        "CoinName": "Ghost Coin", 
+        "Id": "41871"
+    }, 
+    "BIOB": {
+        "CoinName": "BioBar", 
+        "Id": "50734"
+    }, 
+    "CND*": {
+        "CoinName": "Canada eCoin", 
+        "Id": "37746"
+    }, 
+    "SBTC": {
+        "CoinName": "Super Bitcoin", 
+        "Id": "516982"
+    }, 
+    "GRAV": {
+        "CoinName": "Graviton", 
+        "Id": "7634"
+    }, 
+    "BIOS": {
+        "CoinName": "BiosCrypto", 
+        "Id": "20209"
+    }, 
+    "GRAM": {
+        "CoinName": "Gram Coin", 
+        "Id": "8717"
+    }, 
+    "MINE": {
+        "CoinName": "Instamine Nuggets", 
+        "Id": "5379"
+    }, 
+    "DIEM": {
+        "CoinName": "CarpeDiemCoin", 
+        "Id": "20213"
+    }, 
+    "MINT": {
+        "CoinName": "MintCoin", 
+        "Id": "4562"
+    }, 
+    "WIC": {
+        "CoinName": "Wi Coin", 
+        "Id": "320551"
+    }, 
+    "CMT*": {
+        "CoinName": "CyberMiles", 
+        "Id": "439963"
+    }, 
+    "8BT": {
+        "CoinName": "8 Circuit Studios", 
+        "Id": "177124"
+    }, 
+    "BRAT": {
+        "CoinName": "Brat", 
+        "Id": "357734"
+    }, 
+    "WIZ": {
+        "CoinName": "Crowdwiz", 
+        "Id": "310052"
+    }, 
+    "DGPT": {
+        "CoinName": "DigiPulse", 
+        "Id": "202696"
+    }, 
+    "NULS": {
+        "CoinName": "Nuls", 
+        "Id": "377792"
+    }, 
+    "SRC": {
+        "CoinName": "SecureCoin", 
+        "Id": "4611"
+    }, 
+    "NEWB": {
+        "CoinName": "Newbium", 
+        "Id": "380794"
+    }, 
+    "MST": {
+        "CoinName": "MustangCoin", 
+        "Id": "28219"
+    }, 
+    "MSR": {
+        "CoinName": "Masari", 
+        "Id": "382536"
+    }, 
+    "MSP": {
+        "CoinName": "Mothership", 
+        "Id": "198408"
+    }, 
+    "CIR": {
+        "CoinName": "CircuitCoin", 
+        "Id": "43598"
+    }, 
+    "CWXT": {
+        "CoinName": "CryptoWorldXToken", 
+        "Id": "43265"
+    }, 
+    "CIX": {
+        "CoinName": "Cryptonetix", 
+        "Id": "328667"
+    }, 
+    "MSC": {
+        "CoinName": "MasterCoin", 
+        "Id": "5394"
+    }, 
+    "KARM": {
+        "CoinName": "Karmacoin", 
+        "Id": "16127"
+    }, 
+    "42": {
+        "CoinName": "42 Coin", 
+        "Id": "4321"
+    }, 
+    "DAT": {
+        "CoinName": "Datum", 
+        "Id": "335505"
+    }, 
+    "DAR": {
+        "CoinName": "Darcrus", 
+        "Id": "32694"
+    }, 
+    "DAS": {
+        "CoinName": "DAS", 
+        "Id": "194399"
+    }, 
+    "DAY": {
+        "CoinName": "Chronologic", 
+        "Id": "336705"
+    }, 
+    "PLAY": {
+        "CoinName": "HEROcoin", 
+        "Id": "369251"
+    }, 
+    "LOCI": {
+        "CoinName": "LociCoin", 
+        "Id": "404890"
+    }, 
+    "SPACE": {
+        "CoinName": "SpaceCoin", 
+        "Id": "22410"
+    }, 
+    "CHILD": {
+        "CoinName": "ChildCoin", 
+        "Id": "5377"
+    }, 
+    "U": {
+        "CoinName": "Ucoin", 
+        "Id": "5352"
+    }, 
+    "JPC*": {
+        "CoinName": "J Coin", 
+        "Id": "371902"
+    }, 
+    "AMBER": {
+        "CoinName": "AmberCoin", 
+        "Id": "5332"
+    }, 
+    "DATA": {
+        "CoinName": "Streamr DATAcoin", 
+        "Id": "369151"
+    }, 
+    "ANCP": {
+        "CoinName": "Anacrypt", 
+        "Id": "196572"
+    }, 
+    "MUT": {
+        "CoinName": "Mutual Coin", 
+        "Id": "431229"
+    }
+}

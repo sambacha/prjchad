@@ -1,0 +1,51 @@
+
+			"schema": [
+				{
+					"measurement": 'block',
+					"fields": {
+						hash: STRING,
+						parent_hash: STRING,
+						number: INTEGER,
+						author: STRING,
+						miner: STRING,
+						nonce: FLOAT,
+						difficulty: FLOAT,
+						size_bytes: INTEGER,
+						gas_limit: INTEGER,
+						gas_used: INTEGER,
+						uncles_count: INTEGER,
+						since_previous_block_seconds: INTEGER,
+					},
+					tags: [ ],
+				}, {
+					measurement: 'transaction',
+					tags: [ 'index', 'failed'],
+					fields: {
+						hash: STRING,
+						block_hash: STRING,
+						block_number: INTEGER,
+						transaction_index: INTEGER,
+						status: INTEGER,
+						gas_used: INTEGER,
+						gas_provided: INTEGER,
+						gas_price_nanoeth: FLOAT,
+						gas_cost_total_eth: FLOAT,
+						from: STRING,
+						to: STRING,
+						nonce: INTEGER,
+						eth: FLOAT,
+						contract_address: STRING,
+						log_count: INTEGER,
+					}
+				}, {
+					measurement: 'maker',
+					fields: {
+						block_hash: STRING,
+						block_number: INTEGER,
+						feed_price: FLOAT,
+						feed_price_change: FLOAT,
+					},
+					tags: [],
+				}
+			]
+		}
